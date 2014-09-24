@@ -1,87 +1,126 @@
 # Computer Setup and Data Handling
-## Macs: installing `homebrew`
 
-`Homebrew` is a mac installer for packages/libraries/etc that works alongside Apple's installers. We need it for git. Install oneliner:
+For this course, we will be using the [**Data Science Toolbox**](http://datasciencetoolbox.org/), which is a virtual environment based on Ubuntu Linux that is specifically suited for doing data science.
 
-```sh
-ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
+### Step 1: Download and install VirtualBox
+
+- Go to the [Virtualbox download page](https://www.virtualbox.org/wiki/Downloads) and download the appropriate binary. Open the binary and follow the installations instructions.
+
+### Step 2: Download and install Vagrant
+
+- Go the [Vagrant download page](http://www.vagrantup.com/downloads.html) and download the appropriate binary. Open the binary and follow the installations instructions.
+
+### Step 3: Download and start the Data Science Toolbox
+
+- Open a terminal (also known as the command prompt in Microsoft Windows). Create a directory, for example "gadatasciencetoolbox", and navigate to it:
+
+```
+$ mkdir gadatasciencetoolbox
+$ cd MyDataScienceToolbox
 ```
 
-If you recieve an SSL certificate error:
-
-```sh
-ruby -e "$(curl --insecure -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
+- Next, run the following commands:
+```
+$ vagrant init data-science-toolbox/dst
+$ vagrant up
 ```
 
-## Installing `git`
+### Step 4: Log in (on Mac OS X and Linux)
 
-* Macs: `brew install git`
-* Windows: Install git bash http://openhatch.org/missions/windows-setup/install-git-bash
-    * The default options will probably work well for you
-* Linux: If you're on Linux you should already know how to do this with your package manager. On Ubuntu you can use `apt-get install git`, otherwise find your <a href="http://git-scm.com/download/linux">distribution</a>
+- If you are running Mac OS X or some other UNIX-like operating system, you can log in to the Data Science Toolbox by simply running the following command in a terminal:
 
-**Note:** If you have issues with `brew install` because of an XCode error, try using this Heroku Toolbelt installation that will include git, or choose an OS based installation from this guide: http://git-scm.com/book/en/Getting-Started-Installing-Git
+```
+vagrant ssh
+```
 
-Once you've setup git and github, clone your fork of the class repository. We'll be using the <a href="https://help.github.com/articles/using-pull-requests#fork--pull">Fork and Pull git model</a>. You will be pushing changes to your forked repository, and submitting pull requests to the class repository.
+### Step 4: Log in (Windows)
+
+- If you are running Microsoft Windows, you need to use a third-party application in order to log in to the Data Science Toolbox. We recommend **Putty** for this. Go to its [download page](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) and download `putty.exe`. Run `putty.exe` and enter the following values:
+
+Host Name (or IP address): 127.0.0.1 
+Port: 2222
+Connection type: SSH
+
+(If you want, you can save these values as a session by clicking the "Save" button, so that you do not need to enter these values again.)
+
+Next, click the "Open" button and enter "vagrant" for both the username and the password.
+
+### Step 5: Install GA Data Science Bundle
+
+- Run the following commands:
+
+```
+vagrant@data-science-toolbox:~$ dst update
+vagrant@data-science-toolbox:~$ dst add gads
+```
+
+### Step 6: Set up IPython Notebook
+
+Now that you are logged into your new virtual machine, invoke the following command to create a password-protected profile:
+
+```
+vagrant@data-science-toolbox:~$ dst setup base
+```
+(Note that `vagrant@data-science-toolbox:~` indicates that this command should be run on the Data Science Toolbox.)
+
+- Step 3 created a file named `Vagrantfile`, which is a configuration file used by Vagrant. Open the file in your favorite text editor and add the following text somewhere around line 22:
+
+```
+config.vm.network "forwarded_port", guest: 8888, host: 8888
+```
+
+This line instructs Vagrant to open up port 8888 so that the IPython Notebook server is accessible from your browser. Restart the Data Science Toolbox and log in again so that the changes take effect:
+
+```
+$ vagrant reload
+$ vagrant ssh
+```
+
+To start the IPython Notebook server, run:
+
+```sh
+vagrant@data-science-toolbox:~$ sudo ipython notebook --profile=dst
+```
+
+- You can now access the IPython Notebook server at https://localhost:8888. Because the SSL certificate is self-signed, you may get a warning message from your browser. The image below shows how Chrome complains about this. Because you know what's on the server-side, you can just click on the "Proceed anyway" button.
+
+
+Once you've setup the Data Science Toolbox, clone your fork of the class repository. We'll be using the <a href="https://help.github.com/articles/using-pull-requests#fork--pull">Fork and Pull git model</a>. You will be pushing changes to your forked repository, and submitting pull requests to the class repository.
 
 From the github help page:
 > The Fork & Pull Model lets anyone fork an existing repository and push changes to their personal fork without requiring access be granted to the source repository. The changes must then be pulled into the source repository by the project maintainer.
 
-```sh
-cd ~/; git clone git@github.com/gavinmh/GADS12-NYC.git
-```
-
 For example:
 ```sh
-cd ~/; git clone git@github.com/gavinmh/GADS12-NYC.git
-```
-
-## `python`
-
-The easiest install is Anaconda's Python. <a href="https://store.continuum.io/cshop/anaconda/">Download and install here</a> for your computer.
-
-**Note to Engineers:** If you prefer to not have anaconda's distribution as your primary python, comment out the `PATH` line for anaconda in `~/.bash_profile` and add an alias for anaconda's python, ipython and conda package handler:
-
-```sh
-alias apython="~/anaconda/bin/python"
-alias ipython="~/anaconda/bin/ipython"
-alias conda="~/anaconda/bin/conda"
-```
-
-For visualizations we'll primarily use matplotlib and yhat's version of ggplot for python:
-
-```sh
-conda install -c https://conda.binstar.org/public ggplot
-```
-
-Users experiencing ggplot package errors should try pip (this problem was observed on Ubuntu and Windows):
-
-```sh
-pip install ggplot
+vagrant@data-science-toolbox:~$ cd ~/; git clone git@github.com/gads14-nyc/fall_2014_assignments.git
+vagrant@data-science-toolbox:~$ cd ~/; git clone git@github.com/gads14-nyc/fall_2014_lessons.git
 ```
 
 ## Lab Submissions
 
-Make the directory `GADS12-NYC-Students/lab_submissions/lab01`. Make a directory with your first name and last name.
+Make the directory `mkdir ~/fall_2014_assignments.git/lab01`.
+
+Make a directory with your first name and last name.
 
 ```sh
-DIR='firstname_lastname'; cd ~/GADS12-NYC-Students/lab_submissions/lab01; mkdir $DIR; open $DIR
+vagrant@data-science-toolbox:~$ cd fall_2014_assignments/lab01
+vagrant@data-science-toolbox:~/fall_2014_assignments/lab01$ mkdir '~/fall_2014_assignments/lab01/<firstname>_<lastname>'
 ```
 
 With a text or markdown editor, create and save a markdown file with the following content:
 
 * Your name and what you do
 * One liner about your coding and math background
-* Any social web you use and don't mind sharing (twitter link, for example)
-* A data blog post you read recently for sharing with the class
+* Any social web you use and don't mind sharing (e.g. twitter, linkedin)
+* A link to a data scince related blog post you read recently for sharing with the class
 
 create a branch of the repository with a unique name, and then commit to that repo
 
 ```sh
-git checkout -b my_name_class_1
-git add .
-git commit -m 'my first git commit!'
-git push origin my_name_class_1
+vagrant@data-science-toolbox:~/fall_2014_assignments/lab01$ git checkout -b my_name_class_1
+vagrant@data-science-toolbox:~/fall_2014_assignments/lab01$ git add .
+vagrant@data-science-toolbox:~/fall_2014_assignments/lab01$ git commit -m 'my first git commit!'
+vagrant@data-science-toolbox:~/fall_2014_assignments/lab01$ git push origin my_name_class_1
 ```
 
 Add a pull request. This is the actual submission of your work. You can do this on github by finding your branch and clicking "Create pull request." Developers, feel free to use some command line tool for this if you prefer it.
