@@ -30,6 +30,14 @@ David: M,W - 5:30-6:30
 We will be using the <a href="https://help.github.com/articles/using-pull-requests#fork--pull">Fork and Pull</a> git model for submitting labs and some assignments.
 
 For the first assignment:
+
+1. Fork the assignments repo for the class:
+
+2. clone the repo to your newly created Data Science Toolbox
+```sh
+git clone git@github.com
+```
+
 in `gads14-nyc/fall_2014_assignments/lab01`, make a directory with your first initial/full last name.
 
 ```sh
