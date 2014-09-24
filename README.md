@@ -25,8 +25,11 @@ Jarret: Sun - 4:00-6:00 PM
 
 David: M,W - 5:30-6:30
 
-### Submitting Assignments
+### Submitting Lab Assignments
 
+We will be using the <a href="https://help.github.com/articles/using-pull-requests#fork--pull">Fork and Pull</a> git model for submitting labs and some assignments.
+
+For the first assignment:
 in `gads14-nyc/fall_2014_assignments/lab01`, make a directory with your first initial/full last name.
 
 ```sh

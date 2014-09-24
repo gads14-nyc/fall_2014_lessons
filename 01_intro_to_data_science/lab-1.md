@@ -86,15 +86,15 @@ vagrant@data-science-toolbox:~$ sudo ipython notebook --profile=dst
 - You can now access the IPython Notebook server at https://localhost:8888. Because the SSL certificate is self-signed, you may get a warning message from your browser. The image below shows how Chrome complains about this. Because you know what's on the server-side, you can just click on the "Proceed anyway" button.
 
 
+#### Fork the assignments repo:
 Once you've setup the Data Science Toolbox, clone your fork of the class repository. We'll be using the <a href="https://help.github.com/articles/using-pull-requests#fork--pull">Fork and Pull git model</a>. You will be pushing changes to your forked repository, and submitting pull requests to the class repository.
 
 From the github help page:
 > The Fork & Pull Model lets anyone fork an existing repository and push changes to their personal fork without requiring access be granted to the source repository. The changes must then be pulled into the source repository by the project maintainer.
 
-For example:
+For example, from the home directory:
 ```sh
-vagrant@data-science-toolbox:~$ cd ~/; git clone git@github.com/gads14-nyc/fall_2014_assignments.git
-vagrant@data-science-toolbox:~$ cd ~/; git clone git@github.com/gads14-nyc/fall_2014_lessons.git
+vagrant@data-science-toolbox:~$ cd ~/; git clone git@github.com/<my git handle>/fall_2014_assignments.git
 ```
 
 ## Lab Submissions
