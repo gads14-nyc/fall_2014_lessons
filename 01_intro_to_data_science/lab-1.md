@@ -37,10 +37,11 @@ vagrant ssh
 
 - If you are running Microsoft Windows, you need to use a third-party application in order to log in to the Data Science Toolbox. We recommend **Putty** for this. Go to its [download page](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) and download `putty.exe`. Run `putty.exe` and enter the following values:
 
+```
 Host Name (or IP address): 127.0.0.1 
 Port: 2222
 Connection type: SSH
-
+```
 (If you want, you can save these values as a session by clicking the "Save" button, so that you do not need to enter these values again.)
 
 Next, click the "Open" button and enter "vagrant" for both the username and the password.
@@ -53,6 +54,7 @@ Next, click the "Open" button and enter "vagrant" for both the username and the 
 vagrant@data-science-toolbox:~$ dst update
 vagrant@data-science-toolbox:~$ dst add gads
 ```
+(Note that `vagrant@data-science-toolbox:~` indicates that this command should be run on the Data Science Toolbox.)
 
 ### Step 6: Set up IPython Notebook
 
@@ -61,7 +63,6 @@ Now that you are logged into your new virtual machine, invoke the following comm
 ```
 vagrant@data-science-toolbox:~$ dst setup base
 ```
-(Note that `vagrant@data-science-toolbox:~` indicates that this command should be run on the Data Science Toolbox.)
 
 - Step 3 created a file named `Vagrantfile`, which is a configuration file used by Vagrant. Open the file in your favorite text editor and add the following text somewhere around line 22:
 
@@ -98,9 +99,7 @@ vagrant@data-science-toolbox:~$ cd ~/; git clone git@github.com/gads14-nyc/fall_
 
 ## Lab Submissions
 
-Make the directory `mkdir ~/fall_2014_assignments.git/lab01`.
-
-Make a directory with your first name and last name.
+Make a directory with your first name and last name in `~/fall_2014_assignments/lab01`.
 
 ```sh
 vagrant@data-science-toolbox:~$ cd fall_2014_assignments/lab01
