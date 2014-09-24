@@ -2,31 +2,28 @@
 
 *This repo includes materials for the General Assembly Data Science course in NYC. Navigate the directory structure to find what you're looking for. The `README.md` files are often the most central in a directory, and will display by default when you navigate on github.*
 
-Also linked to via the somewhat more memorable bit.ly/gadatascience
 
-## Upcoming Project Activity:
+## Upcoming Activity:
 
-* 9/17/14 [Project Idea](project_idea_submission.md) Due
-* 9/24/14 Dataset related to Project Due
-* 10/1/14 Presentations with your data on Exploratory Data Analysis
+* 9/24/14 First Class!
+* 10/1/14 dataexplor01 due
 
 ### Getting Help
 
 **Github Issues**
 
-For general or specific course help, students can get the fastest response by posting an issue, to the [issues page for this repository](https://github.com/TeachingDataScience/data-science-course/issues)
+For general or specific course help, students can get the fastest response by posting an issue, to the [issues page for this repository](https://github.com/gads14-nyc/fall_2014_lessons/issues)
 
-* Jarret and David will review each issue
+* Jarret or David will review each issue
 * Students and other instructors following the repository will also be able to address the issue, improving response time.
-
 
 **Office Hours**
 
 Jarret and David will hold regular office hours, and Rob will be available by appointment.
 
-Jarret's office hours are posted [here](https://accounts.google.com/ServiceLogin?service=cl&passive=1209600&continue=https://www.google.com/calendar/selfsched?sstoken%3DUUJjNUJzODlzeDdPfGRlZmF1bHR8MTQ3MjQwYzU4M2M3NmFkODRhMTdhN2Y1MDNlNjE2NGI&followup=https://www.google.com/calendar/selfsched?sstoken%3DUUJjNUJzODlzeDdPfGRlZmF1bHR8MTQ3MjQwYzU4M2M3NmFkODRhMTdhN2Y1MDNlNjE2NGI&scc=1), and slots can be signed up for electronically.
+Jarret: Sun - 4:00-6:00 PM
 
-David's office hours are posted [here](https://www.google.com/calendar/selfsched?sstoken=UUowVUZtNDJlNGlJfGRlZmF1bHR8MDUxMjk5YmEzMDQyMTJkN2ZjZjY3NmUwNmVkMWZiNzg), and slots can be signed up for electronically.
+David: M,W - 5:30-6:30
 
 ### Submitting Assignments
 
