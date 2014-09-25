@@ -15,7 +15,7 @@ For this course, we will be using the [**Data Science Toolbox**](http://datascie
 - Open a terminal (also known as the command prompt in Microsoft Windows). Create a directory, for example "gadatasciencetoolbox", and navigate to it:
 
 ```
-$ mkdir gadatasciencetoolbox
+$ mkdir MyDataScienceToolbox
 $ cd MyDataScienceToolbox
 ```
 
@@ -38,7 +38,7 @@ vagrant ssh
 - If you are running Microsoft Windows, you need to use a third-party application in order to log in to the Data Science Toolbox. We recommend **Putty** for this. Go to its [download page](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) and download `putty.exe`. Run `putty.exe` and enter the following values:
 
 ```
-Host Name (or IP address): 127.0.0.1 
+Host Name (or IP address): 127.0.0.1
 Port: 2222
 Connection type: SSH
 ```
@@ -64,7 +64,7 @@ Now that you are logged into your new virtual machine, invoke the following comm
 vagrant@data-science-toolbox:~$ dst setup base
 ```
 
-- Step 3 created a file named `Vagrantfile`, which is a configuration file used by Vagrant. Open the file in your favorite text editor and add the following text somewhere around line 22:
+Next, `$ exit` out of the virtual machine and use your favorite text editor to open up the `Vagrantfile` in the `MyDataScienceToolbox` directory. Uncomment and edit the line somewhere around line 22 to the following:
 
 ```
 config.vm.network "forwarded_port", guest: 8888, host: 8888
