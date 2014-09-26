@@ -64,16 +64,16 @@ For the first assignment:
 
 2. clone the repo to your newly created Data Science Toolbox
 ```sh
-git clone git@github.com
+git clone git@github.com:gads14-nyc/fall_2014_assignments.git
 ```
 
 in `gads14-nyc/fall_2014_assignments/lab01`, make a directory with your first initial/full last name.
 
 ```sh
-DIR='flastname'; cd ~/GADS9-NYC-Spring2014/lab_submissions/lab01/flastname; mkdir $DIR; open $DIR
+DIR='flastname'; cd ~/GADS9-NYC-Spring2014/lab_submissions/lab01/$DIR; mkdir $DIR; open $DIR
 ```
 
-With a text or markdown editor, create and save a markdown file with the following content:
+With a text editor, create and save a markdown file with the following content:
 
 * Your name and what you do
 * One liner about your coding and math background
