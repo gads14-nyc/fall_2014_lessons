@@ -11,31 +11,25 @@ Intro to Data Science Course:
 * Understand the central functions of the Pandas and Numpy libraries
 * Be able to quickly navigate the iPython interface and documentation to find the data you need
 
-#### Class Materials
+## Class Materials
 
 * [Lecture Slides](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/02_intro_to_ML/class02.pdf) (posted after class meets)
 * [Intro to iPython](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/02_intro_to_ML/ipython_intro.ipynb)
 * [Numpy and Pandas Introduction](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/02_intro_to_ML/working_with_data.ipynb)
 * [More Numpy and Scipy](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/02_intro_to_ML/numpy_scipy.ipynb)
-* [Lab - Python essentials]()
-* [Lab - Practical Pandas]()
-* [Pandas Practice](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson03b_pandas/independent_work.md)
-
-## During
-
-* We'll review dictionaries, lists, and data frames with this [notebook](http://nbviewer.ipython.org/github/teachingdatascience/data-science-course/blob/forstudentviewing/04_pandas/lab04.ipynb).
-* Given extra time, work through the "quiz" accessible [here](http://nbviewer.ipython.org/github/TeachingDataScience/data-science-course/blob/forstudentviewing/04_pandas/Lab_04_quiz.ipynb).
-
+* [Lab - Python essentials](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/02_intro_to_ML/python_lab.ipynb)
+* [Lab - Practical Pandas](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/02_intro_to_ML/pandas_lab.ipynb)
+* [Bonus Lab - Advanced Pandas Practice](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/02_intro_to_ML/advanced_lab.md)
 
 ## Additional Resources
 
-##### Couple extra handy `python` introductions
+#### Couple extra handy `python` introductions
 
 * <a href="https://docs.python.org/2.7/">https://docs.python.org/2.7/</a>
 * <a href="http://www.learnpython.org/">Interactive Python Training</a>
 * <a href="https://docs.python.org/2.7/tutorial/index.html">The Python Tutorial</a>
 
-#### More Numpy & Pandas
+#### More Numpy & Pandas Goodness
 
 * Watch the 5 minute ["Ipython Notebook Tour"](http://ipython.org/notebook.html)
 
