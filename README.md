@@ -31,7 +31,7 @@ David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 |:----------|:--------|:------|:------|:------
 | 9/24/2014 | GA East (902 Broadway, 4th Floor) |Intro to Intro to Data Science | Submit first pull request (lab01)
 | **9/29/2014** || Intro to Machine Learning | Chicago housing price predictor (*dataexplor01*)
-| 10/1/2014  | | Linear Regression | 
+| 10/1/2014  | | Linear Regression | lab02 iPython notebooks
 | **10/6/2014** | GA West (10 E. 21st St, 4th Floor) | Data Visualization and EDA | *dataexplor02*
 | 10/8/2014  | | Dimensionality Reduction | First submission of **Africa Soil Property Prediction Challenge**
 | **10/13/2014**| | **Columbus Day (Holiday/ No class)** | |
@@ -63,14 +63,16 @@ For the first assignment:
 1. Fork the assignments repo for the class:
 
 2. clone the repo to your newly created Data Science Toolbox
+
 ```sh
-git clone git@github.com:gads14-nyc/fall_2014_assignments.git
+vagrant@data-science-toolbox:~$git clone git@github.com:<yourgithubusername>/fall_2014_assignments.git
 ```
 
-in `gads14-nyc/fall_2014_assignments/lab01`, make a directory with your first initial/full last name.
+in `<yourgithubusername>/fall_2014_assignments/lab01`, make a directory with your first initial/full last name.
 
 ```sh
-DIR='flastname'; cd ~/GADS9-NYC-Spring2014/lab_submissions/lab01/$DIR; mkdir $DIR; open $DIR
+vagrant@data-science-toolbox:~$export DIR=<"flastname">
+vagrant@data-science-toolbox:~$mkdir $DIR; cd <yourgithubusername>/fall_2014_assignments/lab01/$DIR;
 ```
 
 With a text editor, create and save a markdown file with the following content:
@@ -79,14 +81,13 @@ With a text editor, create and save a markdown file with the following content:
 * One liner about your coding and math background
 * Any social web you use and don't mind sharing (e.g. linkedin, twitter)
 * A data blog post you read recently for sharing with the class
-
 create a branch of the repository with a unique name, and then commit to that repo
 
 ```sh
-git checkout -b my_name_class_1
-git add .
-git commit -m 'my first git commit!'
-git push origin my_name_class_1
+vagrant@data-science-toolbox:~$git checkout -b my_name_class_1
+vagrant@data-science-toolbox:~$git add .
+vagrant@data-science-toolbox:~$git commit -m 'my first git commit!'
+vagrant@data-science-toolbox:~$git push origin my_name_class_1
 ```
 
 Add a pull request. This is the actual submission of your work. You can do this on github by finding your branch and clicking "Create pull request." Developers, feel free to use some command line tool for this if you prefer it.
