@@ -56,7 +56,7 @@ Intro to Data Science Course:
 #### HW
 
 * Once you have completed the Lab iPython notebooks
-* In `<yourgithubusername>/fall_2014_assignments/lab02`, make a directory with your first initial/full last name.
+* In `fall_2014_assignments/lab02`, make a directory with your first initial/full last name.
 
 ```sh
 vagrant@data-science-toolbox:~$export DIR=<"flastname">
