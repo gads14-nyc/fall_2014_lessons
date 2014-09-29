@@ -5,8 +5,8 @@
 
 ## Upcoming Activity:
 
-* 9/24/14 First Class!
-* 10/1/14 dataexplor01 due
+* 9/29/14 dataexplor01 due
+* 10/1/14 Linear Regression
 
 ### Getting Help
 
