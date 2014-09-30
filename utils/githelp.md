@@ -1,8 +1,15 @@
 # Some help getting git configured in the Data Science Toolbox
 
-## Initial setup -- ssh into the vagrant environment
-## **Clone** the "lessons" repo:
+## If you want to delete and re-clone your git repos, ssh into the vagrant environment, and:
+**Be certain that you want to do this-- there is no way to undo this delete!**
+```
+vagrant@data-science-toolbox:~$cd notebooks
+vagrant@data-science-toolbox:~/notebooks$rm -rf fall_2014_lessons
+vagrant@data-science-toolbox:~/notebooks$rm -rf fall_2014_assignments
+```
 
+## Initial setup -- (after having ssh'd into the vagrant environment)
+## **Clone** the "lessons" repo:
 	```
 	vagrant@data-science-toolbox:~$cd notebooks
 	vagrant@data-science-toolbox:~/notebooks$git clone https://github.com/gads14-nyc/fall_2014_lessons.git
