@@ -33,7 +33,7 @@ David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 | **9/29/2014** || Intro to Machine Learning | Chicago housing price predictor (*dataexplor01*)
 | 10/1/2014  | | Linear Regression | lab02 iPython notebooks
 | **10/6/2014** | GA West (10 E. 21st St, 4th Floor) | Data Visualization and EDA | *dataexplor02*
-| 10/8/2014  | | Dimensionality Reduction | First submission of **Africa Soil Property Prediction Challenge**
+| 10/8/2014  | | Dimensionality Reduction | 
 | **10/13/2014**| | **Columbus Day (Holiday/ No class)** | |
 | 10/15/2014 | | Model Selection & Regularization | Final submission of **Africa Soil Property Prediction Challenge**
 | **10/20/2014** | | Logistic Regression | *dataexplor04*
