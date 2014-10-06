@@ -28,7 +28,7 @@ Intro to Data Science Class04:
 ### Data Viz
 
 * [Rougier and Prace EuroSciPy Matplotlib Tutorial](http://www.loria.fr/~rougier/teaching/matplotlib/) *Amazing!*
-* Excellent Blog by Nathan Yau: (FlowingData)[http://flowingdata.com/], and book [Visualize This](http://book.flowingdata.com/)
+* Excellent Blog by Nathan Yau: [FlowingData](http://flowingdata.com/), and book [Visualize This](http://book.flowingdata.com/)
 * [A Rabbit Hole of Visualizations](http://dadaviz.com/i/893)
 * [D3 Tutorials from Scott Murray](http://alignedleft.com/tutorials/d3) 
 
