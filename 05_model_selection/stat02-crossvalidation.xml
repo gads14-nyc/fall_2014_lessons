@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<presentation>
+	<info company="Data Science" logo="ga-logo.png"/>
+	
+	<title title= "Cross Validation" date="October 8th, 2014" people="Jarret Petrillo, jarret.petrillo@gmail.com"/>
+
+	<section name="The First Premise of Statistics"/>
+
+	<codeslide title="Blind Experiments">
+		<codeblock>
+			<l focus="1">sample mean = sum(x)/n</l>
+		</codeblock>
+
+		<codeblock>
+			<l>Two treatment groups</l>
+			<l focus="1">treatment effect = (mean 1) - (mean 2)</l>
+			<l> </l>
+			<l>Under the assumption of Normality</l>
+			<l focus="1">treatment effect ~ t_distribution</l>
+		</codeblock>
+	</codeslide>
+
+	<slide title="Cross Valication Reproduces Blind Experiment">
+		<p>Divide sample and for each model predict y values</p>
+		<p>Decide on an evaluation metric - is the average response the right metric?</p>
+		<p>Compare model treatments across groups</p>
+	</slide>
+
+	<slide title="Cross Validation Has No Benchmark">
+		<p>In our first blind experiment we began with a modelled distribution</p>
+		<p>Under normality two sample means are distributed asymptotically as a t distribution</p>
+		<p>An expected distribution allows a researcher to form and test hypotheses</p>
+	</slide>
+
+</presentation>
