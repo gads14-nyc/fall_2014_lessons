@@ -22,10 +22,13 @@ Intro to Data Science Class05:
 ## Class Materials
 
 * [Lecture Slides](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/05_model_selection/class05.pdf) (posted after class meets)
-* [Cross Validation Demo](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/05_model_selection/**)
-* [Lab05 Instructions](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/05_model_selection/lab05/README.md)
+* [Cross Validation Demo](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/05_model_selection/lab/**)
+* [Lab05 Instructions](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/05_model_selection/lab/README.md)
 
 ## Additional Resources
+
+* [Why every statistician should know about cross-validation](http://robjhyndman.com/hyndsight/crossvalidation/)
+* [Multiple Regression using Statsmodels](http://www.datarobot.com/blog/multiple-regression-using-statsmodels/)
 
 ### Meetups!
 
