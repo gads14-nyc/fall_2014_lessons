@@ -22,8 +22,8 @@ Intro to Data Science Class04:
 ### Meetups!
 
 * Data Driven NYC: @Bloomberg, [Next meetup](http://www.meetup.com/NYC-Data-Business-Meetup/events/207886872/) 10/14
-* NY Python Meetup: Lightning talks, [Next meetup](http://www.meetup.com/NYC-Data-Business-Meetup/events/207886872/) 10/9
-* NY Data Science: DataViz w/ Plotly, [Next meetup](http://www.meetup.com/NYC-Data-Business-Meetup/events/207886872/) 10/14
+* NY Python Meetup: Lightning talks, [Next meetup](http://www.meetup.com/nycpython/events/211081482/) 10/9
+* NY Data Science: DataViz w/ Plotly, [Next meetup](http://www.meetup.com/NYC-Data-Science/events/211258892/) 10/14
 
 ### Data Viz
 
