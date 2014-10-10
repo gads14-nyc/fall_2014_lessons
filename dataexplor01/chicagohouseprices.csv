@@ -1,0 +1,220 @@
+Address,Neighborhood,HouseType,Price,Bath,CrimeIndex,MinutesToLoop,MilesToLake,Age,LotSizeSqft,HouseSizeSqft,SchoolIndex
+"2111 W Division St #5, Chicago IL",Wicker Park,Condo,390000,,2.59,9,3.91,0,0,0,36.2
+"1520 W Walton St #2, Chicago IL",Wicker Park,Condo,320500,,4.1,7,3.02,0,0,0,91.7
+"2047 W Thomas St, Chicago IL",Wicker Park,Multi-Family Home,620000,4,2.09,9,3.84,94,3049,3492,36.2
+"1735 N Paulina St #314, Chicago IL",Wicker Park,Condo,318000,,2.4,9,2.9,0,0,0,50
+"1634 W Beach Ave, Chicago IL",Wicker Park,Multi-Family Home,477000,2,4.63,9,2.96,31,2614,1840,78.9
+"1634 W Wabansia Ave, Chicago IL",Wicker Park,Single-Family Home,695000,2,1.4,8,2.86,23,2614,1628,50
+"1440 N Wood St #2F, Chicago IL",Wicker Park,Condo,242500,,5.38,9,3.22,0,0,0,69.4
+"1137 N Wood St #F2, Chicago IL",Wicker Park,Condo,477500,,4.18,8,3.39,0,0,0,59.5
+"1418 N Bell Ave, Chicago IL",Wicker Park,Multi-Family Home,466000,2,4.93,10,4.02,121,3049,1344,16.7
+"1308 N Bosworth Ave, Chicago IL",Wicker Park,Multi-Family Home,435000,2,4.75,8,2.89,119,3485,1760,40
+"1025 N Wood St, Chicago IL",Wicker Park,Multi-Family Home,303000,2,4.68,8,3.43,119,3049,2728,59.5
+"1732 W Pierce Ave, Chicago IL",Wicker Park,Multi-Family Home,314000,3,5.18,9,3.06,131,2614,2405,50
+"1449 N Ashland Ave #1R, Chicago IL",Wicker Park,Condo,146500,,4.5,8,2.86,0,0,0,78.9
+"2116 W Potomac Ave, Chicago IL",Wicker Park,Multi-Family Home,650000,3,3.89,10,3.86,119,3485,3618,16.7
+"1421 N Wood St, Chicago IL",Wicker Park,Single-Family Home,490500,1,5.38,9,3.21,124,2614,922,69.4
+"1332 N Wolcott Ave #1, Chicago IL",Wicker Park,Condo,341000,,5.88,9,3.4,0,0,0,69.4
+"1411 N Ashland Ave, Chicago IL",Wicker Park,Multi-Family Home,590000,2,4.5,8,2.9,118,2614,2544,78.9
+"1409 N Ashland Ave, Chicago IL",Wicker Park,Multi-Family Home,590000,2,4.5,8,2.9,119,2614,2352,78.9
+"1019 N Honore St #1, Chicago IL",Wicker Park,Condo,535000,,3.99,9,3.52,0,0,0,59.5
+"2152 W Caton St, Chicago IL",Wicker Park,Single-Family Home,885000,3,5.58,11,3.72,121,4792,3461,36.1
+"1735 N Hermitage Ave, Chicago IL",Wicker Park,Single-Family Home,982500,3,4.65,9,2.98,0,2614,2783,33.3
+"2300 W Wabansia Ave #124, Chicago IL",Wicker Park,Condo,280000,,8.08,11,3.95,0,0,0,36.1
+"1026 N Hermitage Ave #2, Chicago IL",Wicker Park,,380000,,5.68,9,3.37,0,0,0,22.2
+"1725 W Le Moyne St #2, Chicago IL",Wicker Park,Multi-Family Home,580000,3,5.18,9,3.08,108,2614,2656,50
+"2089 W Wabansia Ave #307, Chicago IL",Wicker Park,Condo,392500,,5.58,10,3.58,0,0,0,36.1
+"1637 W Beach Ave #1, Chicago IL",Wicker Park,Condo,267500,,4.63,9,2.97,0,0,0,78.9
+"922 N Hermitage Ave, Chicago IL",Wicker Park,Multi-Family Home,398000,2,4.23,8,3.42,116,3049,1344,22.2
+"1111 N Hermitage Ave, Chicago IL",Wicker Park,Condo,350000,,5.38,8,3.29,0,0,0,59.5
+"1548 N Bosworth Ave #1, Chicago IL",Wicker Park,Condo,359000,,4.3,8,2.77,0,0,0,50
+"1544 W Thomas St #2, Chicago IL",Wicker Park,Condo,315000,,5.3,7,2.98,0,0,0,27.3
+"1259 N Wood St #208, Chicago IL",Wicker Park,Condo,363500,,4.93,9,3.3,0,0,0,59.5
+"1610 N Winchester Ave, Chicago IL",Wicker Park,Single-Family Home,1050000,2,5.65,9,3.41,131,3049,2580,69.4
+"1357 N Bell Ave, Chicago IL",Wicker Park,Single-Family Home,1125000,2,4.93,10,4.03,21,3049,1290,16.7
+"1109 N Hermitage Ave, Chicago IL",Wicker Park,Multi-Family Home,383500,2,5.38,8,3.29,128,3049,2763,59.5
+"2039 W Crystal St #2, Chicago IL",Wicker Park,Condo,325000,,3.59,10,3.75,0,0,0,69.4
+"2034 W Willow St #D, Chicago IL",Wicker Park,Townhome,585000,3,5.58,11,3.46,0,871,1983,36.1
+"1620 W Augusta Blvd #PENT, Chicago IL",Wicker Park,Condo,452000,,4.43,7,3.18,0,0,0,22.2
+"1644 N Hermitage Ave, Chicago IL",Wicker Park,Multi-Family Home,460000,4,5.65,9,3.06,121,3049,2856,33.3
+"1738 W Wabansia Ave, Chicago IL",Wicker Park,Single-Family Home,675000,2,4.65,9,3.03,114,1742,2279,33.3
+"1456 N Milwaukee Ave, Chicago IL",Wicker Park,Multi-Family Home,2150000,4,6.09,8,3.35,128,3049,6422,69.4
+"2300 W Wabansia Ave #106, Chicago IL",Wicker Park,Condo,276000,,8.08,11,3.95,0,0,0,36.1
+"1074 N Marshfield Ave #3, Chicago IL",Wicker Park,Condo,365000,,5.43,8,3.17,0,0,0,22.2
+"1543 N Honore St #3, Chicago IL",Wicker Park,Condo,299000,,5.79,8,3.26,0,0,0,69.4
+"1105 N Wolcott Ave, Chicago IL",Wicker Park,Townhome,590000,2,3.29,9,3.56,0,871,2183,59.5
+"1342 N Wolcott Ave, Chicago IL",Wicker Park,Condo,465000,,5.88,9,3.39,0,0,0,69.4
+"1237 N Wolcott Ave, Chicago IL",Wicker Park,Multi-Family Home,647500,3,4.99,9,3.49,119,3920,4125,59.5
+"1354 N Wolcott Ave, Chicago IL",Wicker Park,Townhome,500000,1,5.88,9,3.37,0,1742,2040,69.4
+"1020 N Honore St #3, Chicago IL",Wicker Park,Condo,385000,,3.99,9,3.55,0,0,0,59.5
+"1750 N Wolcott Ave #204, Chicago IL",Wicker Park,Condo,635000,,4.65,10,3.26,0,0,0,36.1
+"1754 W Crystal St, Chicago IL",Wicker Park,Single-Family Home,695000,3,4.93,9,3.29,0,2614,2403,59.5
+"2121 W Division St #3, Chicago IL",Wicker Park,Condo,472500,,2.59,9,3.92,0,0,0,36.2
+"1243 N Wolcott Ave #4, Chicago IL",Wicker Park,Condo,470000,,4.99,9,3.48,0,0,0,59.5
+"1524 W Thomas St, Chicago IL",Wicker Park,Single-Family Home,326000,2,5.3,7,2.95,119,3049,1089,27.3
+"1507 N Leavitt St, Chicago IL",Wicker Park,Single-Family Home,245000,1,3.51,10,3.86,121,3485,861,93.9
+"1720 W Le Moyne St #2, Chicago IL",Wicker Park,Condo,565000,,5.18,9,3.07,0,0,0,50
+"2145 W Crystal St #3, Chicago IL",Wicker Park,Condo,450000,,3.89,10,3.93,0,0,0,16.7
+"1102 N Wolcott Ave #3, Chicago IL",Wicker Park,Condo,262500,,3.29,9,3.59,0,0,0,59.5
+"1744 N Wilmot Ave, Chicago IL",Wicker Park,Single-Family Home,770000,3,5.58,11,3.61,0,2614,2997,36.1
+"1736 N Winnebago Ave #F, Chicago IL",Wicker Park,Townhome,462500,2,8.08,11,3.84,0,871,1436,36.1
+"1742 W Potomac Ave, Chicago IL",Wicker Park,Single-Family Home,662000,2,4.93,9,3.26,131,2614,1734,59.5
+"2251 W Saint Paul Ave #2AA, Chicago IL",Wicker Park,Condo,250000,,5.17,22,3.92,0,0,0,36.1
+"1947 W Evergreen Ave #G, Chicago IL",Wicker Park,Condo,407000,,4.99,9,3.54,0,0,0,69.4
+"1033 N Wood St, Chicago IL",Wicker Park,Condo,195000,,4.68,8,3.43,0,0,0,59.5
+"1041 N Marshfield Ave #3, Chicago IL",Wicker Park,Condo,455000,,5.43,8,3.17,0,0,0,22.2
+"2300 W Wabansia Ave #216, Chicago IL",Wicker Park,Condo,262100,,8.08,11,3.95,0,0,0,36.1
+"1242 N Wood St, Chicago IL",Wicker Park,Condo,129000,,5.18,9,3.34,0,0,0,59.5
+"919 N Hermitage Ave #1, Chicago IL",Wicker Park,Condo,453000,,4.23,8,3.39,0,0,0,22.2
+"1809 W Wabansia Ave, Chicago IL",Wicker Park,Multi-Family Home,420000,2,5.65,9,3.13,98,1742,1496,33.3
+"1431 N Leavitt St #1, Chicago IL",Wicker Park,Condo,300000,,4.26,11,3.9,0,0,0,16.7
+"1007 N Ashland Ave, Chicago IL",Wicker Park,Multi-Family Home,216000,2,5.3,8,3.11,119,2614,1720,22.2
+"1514 N Milwaukee Ave #2N, Chicago IL",Wicker Park,Condo,322500,,4.79,9,3.42,0,0,0,69.4
+"2136 W Crystal St #1, Chicago IL",Wicker Park,Condo,422500,,3.89,10,3.91,0,0,0,16.7
+"2029 W Pierce Ave #4-W, Chicago IL",Wicker Park,Condo,384000,,3.39,10,3.6,83,0,0,69.4
+"1620 W Augusta Blvd #2E, Chicago IL",Wicker Park,Condo,402500,,4.43,7,3.18,0,0,0,22.2
+"1102 N Marshfield Ave #1W, Chicago IL",Wicker Park,Condo,357000,,5.63,8,3.14,0,0,0,22.2
+"1820 W Haddon Ave, Chicago IL",Wicker Park,Single-Family Home,267500,1,4.88,9,3.4,126,2178,944,59.5
+"1735 N Honore St, Chicago IL",Wicker Park,Single-Family Home,3686000,1,5.65,10,3.15,119,3049,1020,33.3
+"1737 N Honore St, Chicago IL",Wicker Park,Multi-Family Home,3686000,2,5.65,10,3.15,119,3049,2200,33.3
+"2108 W North Ave #BSMT, Chicago IL",Wicker Park,Condo,69000,,4.38,9,3.69,99,0,0,93.9
+"1102 N Wood St #3, Chicago IL",Wicker Park,Condo,375000,,4.18,8,3.42,0,0,0,59.5
+"1735 N Paulina St #308, Chicago IL",Wicker Park,Condo,24500,,2.4,9,2.9,0,0,0,50
+"2012 W Saint Paul Ave #145, Chicago IL",Wicker Park,Condo,32000,,5.58,22,3.45,41,0,0,36.1
+"2045 W Concord Pl #301, Chicago IL",Wicker Park,Condo,327000,,5.65,10,3.59,0,0,0,69.4
+"1652 N Milwaukee Ave #P-17, Chicago IL",Wicker Park,Condo,327000,,4.58,10,3.59,0,0,0,69.4
+"2045 W Saint Paul Ave, Chicago IL",Wicker Park,Single-Family Home,949000,4,5.58,22,3.5,104,2614,3858,36.1
+"2046 W Willow St #C, Chicago IL",Wicker Park,Townhome,510000,3,5.58,11,3.48,0,871,1704,36.1
+"2012 W Saint Paul Ave #208, Chicago IL",Wicker Park,Condo,310000,,5.58,22,3.45,41,0,0,36.1
+"1743 W Augusta Blvd #1E, Chicago IL",Wicker Park,Condo,517000,,3.43,7,3.4,0,0,0,22.2
+"1367 N Hoyne Ave #1, Chicago IL",Wicker Park,Condo,285000,,3.39,10,3.76,0,0,0,69.4
+"1756 N Wilmot Ave, Chicago IL",Wicker Park,Single-Family Home,1000000,3,5.58,11,3.61,0,2614,2739,36.1
+"2045 W Cortez St, Chicago IL",Wicker Park,Multi-Family Home,405000,2,1.09,10,3.86,121,3049,2016,36.2
+"1517 W Augusta Blvd, Chicago IL",Wicker Park,Multi-Family Home,434000,2,5.1,6,3.03,121,3049,1512,22.2
+"1500 N Paulina St, Chicago IL",Wicker Park,Single-Family Home,870000,1,4.93,8,3.03,14,2614,1996,50
+"1118 N Winchester Ave, Chicago IL",Wicker Park,Single-Family Home,495000,1,3.49,9,3.67,108,3049,1958,59.5
+"2014 W Augusta Blvd #3, Chicago IL",Wicker Park,Condo,410000,,1.34,8,3.84,0,0,0,36.2
+"2251 W Saint Paul Ave #2D, Chicago IL",Wicker Park,Condo,295000,,5.17,22,3.92,0,0,0,36.1
+"2300 W Wabansia Ave #316, Chicago IL",Wicker Park,Condo,392000,,8.08,11,3.95,0,0,0,36.1
+"1725 W Division St #201, Chicago IL",Wicker Park,Condo,381900,,5.63,8,3.27,0,0,0,59.5
+"1720 N Marshfield Ave #111, Chicago IL",Wicker Park,Condo,357000,,1.4,9,2.84,98,0,0,50
+"1725 W Division St #7, Chicago IL",Wicker Park,Condo,381900,,5.63,8,3.27,0,0,0,59.5
+"1740 N Marshfield Ave, Chicago IL",Wicker Park,Condo,406000,,1.4,9,2.84,0,0,0,50
+"1236 N Hoyne Ave, Chicago IL",Wicker Park,Single-Family Home,650000,1,3.39,11,3.85,31,7405,900,69.4
+"1249 N Marion Ct, Chicago IL",Wicker Park,Single-Family Home,730000,2,5.74,9,3.42,0,2614,2420,59.5
+"1818 W Ellen St #4, Chicago IL",Wicker Park,Condo,367500,,5.13,9,3.34,0,0,0,59.5
+"1056 N Leavitt St #2F, Chicago IL",Wicker Park,Condo,303000,,2.46,10,4.12,0,0,0,36.2
+"1525 N Wood St #2, Chicago IL",Wicker Park,Condo,525000,,4.98,8,3.17,0,0,0,50
+"2251 W Saint Paul Ave #3D, Chicago IL",Wicker Park,Condo,292500,,5.17,22,3.92,0,0,0,36.1
+"1644 W Le Moyne St, Chicago IL",Wicker Park,Condo,300000,,4.43,9,2.93,0,0,0,50
+"1709 N Paulina St #303, Chicago IL",Wicker Park,Condo,184500,,2.4,9,2.91,0,0,0,50
+"2033 W Division St #3, Chicago IL",Wicker Park,Condo,380000,,2.59,9,3.78,0,0,0,59.5
+"1709 N Paulina St #301, Chicago IL",Wicker Park,Condo,270000,,2.4,9,2.91,0,0,0,50
+"1344 N Wolcott Ave #1, Chicago IL",Wicker Park,Condo,473500,,5.88,9,3.39,0,0,0,69.4
+"1514 W Thomas St #4C, Chicago IL",Wicker Park,Condo,389000,,5.3,7,2.94,0,0,0,27.3
+"1517 N Paulina St #2F, Chicago IL",Wicker Park,Condo,250000,,4.93,8,3,0,0,0,50
+"1030 N Paulina St #3, Chicago IL",Wicker Park,Condo,444000,,4.93,8,3.28,0,0,0,22.2
+"1750 N Wolcott Ave #406, Chicago IL",Wicker Park,Condo,212500,,4.65,10,3.26,0,0,0,36.1
+"1740 N Marshfield Ave #UT8, Chicago IL",Wicker Park,Condo,287000,,1.4,9,2.84,0,0,0,50
+"1427 N Leavitt St #2, Chicago IL",Wicker Park,Condo,320000,,4.26,11,3.9,0,0,0,16.7
+"1259 N Wood St #307, Chicago IL",Wicker Park,Condo,230000,,4.93,9,3.3,0,0,0,59.5
+"1449 N Ashland Ave, Chicago IL",Wicker Park,Condo,207500,,4.5,8,2.86,0,0,0,78.9
+"2008 W Potomac Ave #D, Chicago IL",Wicker Park,Townhome,490000,2,3.59,11,3.68,0,1307,1328,69.4
+"1130 N Winchester Ave, Chicago IL",Wicker Park,Multi-Family Home,655000,2,3.49,9,3.66,114,3485,1484,59.5
+"2251 W Saint Paul Ave #3H, Chicago IL",Wicker Park,Condo,315000,,5.17,22,3.92,0,0,0,36.1
+"2225 W Wabansia Ave #204, Chicago IL",Wicker Park,Condo,336000,,5.58,11,3.83,0,0,0,36.1
+"1444 N Bosworth Ave #3S, Chicago IL",Wicker Park,Condo,370000,,4.5,8,2.82,0,0,0,78.9
+"1523 W Thomas St #1, Chicago IL",Wicker Park,Condo,424500,,5.3,7,2.96,0,0,0,91.7
+"2012 W Saint Paul Ave #410, Chicago IL",Wicker Park,Condo,385000,,5.58,22,3.45,41,0,0,36.1
+"2300 W Wabansia Ave #201, Chicago IL",Wicker Park,Condo,270000,,8.08,11,3.95,0,0,0,36.1
+"1522 N Elk Grove Ave, Chicago IL",Wicker Park,Single-Family Home,1570000,4,5.79,8,3.33,0,3049,3276,69.4
+"2045 W Concord Pl #504, Chicago IL",Wicker Park,Condo,375000,,5.65,10,3.59,0,0,0,69.4
+"1435 N Elk Grove Ave, Chicago IL",Wicker Park,Single-Family Home,1550000,3,5.99,9,3.24,0,2614,2620,69.4
+"1028 N Wolcott Ave #1, Chicago IL",Wicker Park,Condo,435500,,3.29,8,3.63,0,0,0,59.5
+"1395 N Milwaukee Ave #1W, Chicago IL",Wicker Park,Condo,410000,,4.88,8,3.23,0,0,0,59.5
+"2019 W Pierce Ave #1, Chicago IL",Wicker Park,Condo,391000,,3.39,10,3.57,0,0,0,69.4
+"1740 N Marshfield Ave #7, Chicago IL",Wicker Park,Condo,339000,,1.4,9,2.84,0,0,0,50
+"1924 W Wabansia Ave, Chicago IL",Wicker Park,Single-Family Home,1357000,2,4.65,10,3.33,16,3920,2311,36.1
+"1122 N Winchester Ave #2, Chicago IL",Wicker Park,Condo,355000,,3.49,9,3.67,0,0,0,59.5
+"1625 W North Ave #202, Chicago IL",Wicker Park,Condo,399000,,2.53,7,2.89,0,0,0,50
+"2300 W Wabansia Ave #101, Chicago IL",Wicker Park,Condo,270000,,8.08,11,3.95,0,0,0,36.1
+"1073 N Paulina St #2, Chicago IL",Wicker Park,Condo,368500,,4.93,8,3.23,0,0,0,59.5
+"1259 N Wood St #207, Chicago IL",Wicker Park,Condo,337000,,4.93,9,3.3,0,0,0,59.5
+"2225 W Wabansia Ave #302, Chicago IL",Wicker Park,Condo,345000,,5.58,11,3.83,0,0,0,36.1
+"1310 N Bell Ave, Chicago IL",Wicker Park,Single-Family Home,300000,1,4.93,11,4.08,127,3049,1512,40.8
+"1801 W Thomas St #2, Chicago IL",Wicker Park,Condo,375000,,3.68,8,3.43,0,0,0,59.5
+"1222 N Wolcott Ave #1N, Chicago IL",Wicker Park,Condo,355000,,4.99,9,3.53,0,0,0,59.5
+"1321 N Bell Ave, Chicago IL",Wicker Park,Single-Family Home,500000,1,4.93,11,4.05,119,3049,1560,16.7
+"1808 W Haddon Ave, Chicago IL",Wicker Park,Multi-Family Home,565000,4,4.88,9,3.4,131,2178,2200,59.5
+"907 N Hermitage Ave #3, Chicago IL",Wicker Park,Condo,345000,,4.23,8,3.39,0,0,0,22.2
+"2225 W Wabansia Ave #301, Chicago IL",Wicker Park,Condo,337000,,5.58,11,3.83,0,0,0,36.1
+"2054 W Augusta Blvd #1, Chicago IL",Wicker Park,Condo,241000,,1.34,8,3.89,0,0,0,36.2
+"2007 W Churchill St #303, Chicago IL",Wicker Park,Condo,394000,,4.33,10,3.4,0,0,0,36.1
+"2041 W Pierce Ave #1A, Chicago IL",Wicker Park,Condo,426000,,3.39,10,3.62,0,0,0,69.4
+"1747 W North Ave, Chicago IL",Wicker Park,Multi-Family Home,390000,3,5.78,8,3.1,131,2614,2596,50
+"1740 N Marshfield Ave #5, Chicago IL",Wicker Park,Condo,335000,,1.4,9,2.84,0,0,0,50
+"2245 W North Ave, Chicago IL",Wicker Park,Condo,540000,,4.45,9,3.95,0,0,0,93.9
+"1742 N Wilmot Ave, Chicago IL",Wicker Park,Condo,600000,,5.58,11,3.61,0,0,0,36.1
+"1701 N Damen Ave, Chicago IL",Wicker Park,Condo,350000,,5.65,9,3.43,0,0,0,36.1
+"1332 N Wolcott Ave #3, Chicago IL",Wicker Park,Condo,405000,,5.88,9,3.4,0,0,0,69.4
+"1656 W Wabansia Ave #1, Chicago IL",Wicker Park,Condo,261500,,1.4,9,2.88,0,0,0,50
+"1728 N Damen Ave #304, Chicago IL",Wicker Park,Condo,334000,,5.65,9,3.42,41,0,0,36.1
+"1728 N Damen Ave #210, Chicago IL",Wicker Park,Condo,334000,,5.65,9,3.42,41,0,0,36.1
+"2245 W Cortez St, Chicago IL",Wicker Park,Multi-Family Home,350000,2,1.96,10,4.2,99,3920,2652,33.3
+"1767 N Hoyne Ave #B, Chicago IL",Wicker Park,Townhome,515000,2,5.58,11,3.55,0,871,1754,36.1
+"2019 W Pierce Ave #4, Chicago IL",Wicker Park,Condo,425000,,3.39,10,3.57,0,0,0,69.4
+"2052 W North Ave #3E, Chicago IL",Wicker Park,Condo,394500,,4.38,9,3.6,0,0,0,93.9
+"1634 W Julian St, Chicago IL",Wicker Park,Multi-Family Home,581000,3,4.63,9,2.94,121,2614,3432,50
+"1632 W Julian St, Chicago IL",Wicker Park,Multi-Family Home,581000,3,4.63,9,2.94,121,2614,2646,50
+"1614 W Pierce Ave, Chicago IL",Wicker Park,Multi-Family Home,625000,3,4.43,8,2.87,123,2614,3360,50
+"2041 W Pierce Ave #3B, Chicago IL",Wicker Park,Condo,440000,,3.39,10,3.62,0,0,0,69.4
+"901 N Hermitage Ave, Chicago IL",Wicker Park,Condo,471000,,4.23,8,3.4,0,0,0,22.2
+"1916 W Potomac Ave, Chicago IL",Wicker Park,Single-Family Home,722000,2,4.99,10,3.52,21,3049,2349,69.4
+"1051 N Wolcott Ave, Chicago IL",Wicker Park,Condo,500000,,3.29,8,3.6,0,0,0,59.5
+"1429 N Paulina St, Chicago IL",Wicker Park,Condo,485000,,5.13,9,3.05,0,0,0,78.9
+"1737 N Paulina St #102, Chicago IL",Wicker Park,Condo,385000,,2.4,9,2.9,0,0,0,50
+"2089 W Wabansia Ave #206, Chicago IL",Wicker Park,Condo,410000,,5.58,10,3.58,0,0,0,36.1
+"1613 N Wolcott Ave, Chicago IL",Wicker Park,Condo,634000,,5.65,9,3.3,0,0,0,33.3
+"1611 N Wolcott Ave, Chicago IL",Wicker Park,Condo,634000,,5.65,9,3.3,0,0,0,33.3
+"2251 W Saint Paul Ave #3B, Chicago IL",Wicker Park,Condo,308000,,5.17,22,3.92,0,0,0,36.1
+"1622 W Beach Ave #2, Chicago IL",Wicker Park,,383000,,4.63,9,2.94,119,0,0,78.9
+"1511 N Paulina St #N, Chicago IL",Wicker Park,Townhome,368500,1,4.93,8,3.01,0,871,935,50
+"1016 N Marshfield Ave #3, Chicago IL",Wicker Park,Condo,370000,,5.43,8,3.21,0,0,0,22.2
+"1400 N Milwaukee Ave #403, Chicago IL",Wicker Park,Condo,310000,,5.38,9,3.27,0,0,0,69.4
+"1724 N Winnebago Ave #I, Chicago IL",Wicker Park,Townhome,305000,2,8.08,11,3.83,0,436,918,36.1
+"1237 N Honore St #1N, Chicago IL",Wicker Park,Condo,295000,,5.94,10,3.39,54,0,0,59.5
+"2210 W Wabansia Ave #307, Chicago IL",Wicker Park,Condo,338000,,5.58,11,3.81,0,0,0,36.1
+"1728 N Damen Ave #207, Chicago IL",Wicker Park,Condo,385000,,5.65,9,3.42,41,0,0,36.1
+"1056 N Damen Ave #1058, Chicago IL",Wicker Park,Condo,115000,,3.29,8,3.78,117,0,0,59.5
+"1658 N Milwaukee Ave #298, Chicago IL",Wicker Park,Condo,266000,,5.58,10,3.6,0,0,0,93.9
+"1525 N Milwaukee Ave #29, Chicago IL",Wicker Park,Condo,408000,,4.79,9,3.4,0,0,0,69.4
+"1723 W Le Moyne St, Chicago IL",Wicker Park,Single-Family Home,610000,1,5.18,9,3.08,115,2614,392,50
+"1422 N Hoyne Ave #1, Chicago IL",Wicker Park,Multi-Family Home,624000,3,3.89,10,3.76,109,3485,3663,69.4
+"1034 N Wolcott Ave #2F, Chicago IL",Wicker Park,Condo,272500,,3.29,8,3.63,0,0,0,59.5
+"2124 W Division St #UNIT1, Chicago IL",Wicker Park,Condo,290000,,2.89,9,3.92,0,0,0,36.2
+"1625 W North Ave #301, Chicago IL",Wicker Park,Condo,400000,,2.53,7,2.89,0,0,0,50
+"1732 N Winchester Ave, Chicago IL",Wicker Park,Single-Family Home,1300000,3,4.65,10,3.35,0,3049,3043,36.1
+"1751 W Division St #2W, Chicago IL",Wicker Park,Condo,387500,,5.88,8,3.31,0,0,0,59.5
+"1259 N Wood St #202, Chicago IL",Wicker Park,Condo,335000,,4.93,9,3.3,0,0,0,59.5
+"1532 N Paulina St #L, Chicago IL",Wicker Park,Condo,300000,,4.93,8,3.01,0,0,0,50
+"1649 N Wolcott Ave, Chicago IL",Wicker Park,,660000,3,5.65,10,3.29,118,2614,2777,33.3
+"2043 W Thomas St, Chicago IL",Wicker Park,Single-Family Home,680000,1,2.09,9,3.83,111,3049,1214,36.2
+"1338 N Leavitt St, Chicago IL",Wicker Park,Single-Family Home,322000,1,3.76,10,3.97,126,3049,1260,16.7
+"1441 N Elk Grove Ave, Chicago IL",Wicker Park,Condo,90500,,5.99,9,3.24,0,0,0,69.4
+"1656 W Blackhawk St #1W, Chicago IL",Wicker Park,Condo,387000,,4.63,9,3.01,0,0,0,78.9
+"1928 W Crystal St, Chicago IL",Wicker Park,Multi-Family Home,580000,3,4.99,9,3.56,119,3049,3612,59.5
+"2143 W Division St #4, Chicago IL",Wicker Park,Condo,403000,,2.59,9,3.95,0,0,0,36.2
+"1521 W Haddon Ave #2B, Chicago IL",Wicker Park,Condo,315000,,5.5,8,2.94,0,0,0,27.3
+"1521 W Haddon Ave #20, Chicago IL",Wicker Park,Condo,315000,,5.5,8,2.94,0,0,0,27.3
+"1251 N Honore St, Chicago IL",Wicker Park,Lot/Land,1275000,,5.94,10,3.38,0,0,0,59.5
+"1901 W Division St #4S, Chicago IL",Wicker Park,Condo,642000,,3.99,8,3.55,0,0,0,59.5
+"2140 W Haddon Ave #1W, Chicago IL",Wicker Park,Condo,501000,,2.39,10,3.97,0,0,0,36.2
+"1661 N Bell Ave, Chicago IL",Wicker Park,Condo,468000,,6.25,11,3.88,0,0,0,36.1
+"1037 N Winchester Ave, Chicago IL",Wicker Park,Condo,475000,,2.29,9,3.69,0,0,0,59.5
+"2255 W Wabansia Ave #108, Chicago IL",Wicker Park,Condo,516000,,8.08,11,3.87,0,0,0,36.1
+"1259 N Wood St #206, Chicago IL",Wicker Park,Condo,339000,,4.93,9,3.3,0,0,0,59.5
+"2300 W Wabansia Ave #111, Chicago IL",Wicker Park,Condo,350000,,8.08,11,3.95,0,0,0,36.1
+"1746 N Wood St, Chicago IL",Wicker Park,Single-Family Home,1040000,3,4.65,10,3.09,8,3049,0,33.3
+"2000 W Haddon Ave #201, Chicago IL",Wicker Park,Condo,275000,,2.09,10,3.74,82,0,0,59.5
+"1611 N Bell Ave #3N, Chicago IL",Wicker Park,Condo,597500,,6.25,10,3.9,0,0,0,36.1
+"2012 W Saint Paul Ave #202, Chicago IL",Wicker Park,Condo,295000,,5.58,22,3.45,41,0,0,36.1
