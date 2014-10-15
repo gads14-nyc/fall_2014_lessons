@@ -5,10 +5,11 @@
 
 ## Upcoming Activity:
 
-* 10/8/14 Model Selection and Regularization
 * 10/13/2014 No Class meeting
 * 10/15/2014 Dimensionality Reduction
   	     -- Bring Class Project Ideas
+* 10/20/2014 Guest Speaker: Jeroen Janssens, Data Scientist at YPlan
+             Intro to Classification Problems, Logistic Regression
 
 ### Getting Help
 
@@ -35,13 +36,13 @@ David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 | **9/29/2014** || Intro to Machine Learning | Chicago housing price predictor (*dataexplor01*)
 | 10/1/2014  | | Linear Regression | lab02 iPython notebooks
 | **10/6/2014** | GA West (10 E. 21st St, 4th Floor) | Data Visualization and EDA | 
-| 10/8/2014  | | Model Selection & Regularization | *dataexplor02*
+| 10/8/2014  | | Model Selection | *dataexplor02*
 | **10/13/2014**| | **Columbus Day (Holiday/ No class)** | |
-| 10/15/2014 | | Dimensionality Reduction | *dataexplor03* (**Africa Soil Property Prediction Challenge**)
-| **10/20/2014** | | Logistic Regression | *dataexplor04*
-| 10/22/2014 | | Non-linear Classification | 
-| **10/27/2014** | | Probablility and Bayes Theorem | *dataexplor05*
-| 10/29/2014 | | Bayesian Classifiers, Discriminant Analysis | (**Forest Cover Type Prediction Challenge**)
+| 10/15/2014 | | Regularization, Dimensionality Reduction | *dataexplor03* (**Africa Soil Property Prediction Challenge**)
+| **10/20/2014** | | Classification, Logistic Regression | *dataexplor04*
+| 10/22/2014 | | Probability and Bayes Theorem, Naive Bayes | 
+| **10/27/2014** | | Bayesian Classifiers, Discriminant Analysis | *dataexplor05*
+| 10/29/2014 | |  | (**Forest Cover Type Prediction Challenge**)
 | **11/3/2014**  | | Time Series Analysis | *dataexplor06*
 | 11/5/2014 | | kNN | 
 | **11/10/2014** | | k-means Clustering | *dataexplor07*
@@ -56,7 +57,7 @@ David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 | 12/10/2014  | |Presentation Workshop | Presentation Slides/Outline
 | **12/15/2014** | |Final Presentations | Final Project Due
 
-### Submitting Lab Assignments
+### Submitting Assignments
 
 We will be using the <a href="https://help.github.com/articles/using-pull-requests#fork--pull">Fork and Pull</a> git model for submitting labs and some assignments.
 
