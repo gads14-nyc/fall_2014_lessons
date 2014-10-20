@@ -5,11 +5,10 @@
 
 ## Upcoming Activity:
 
-* 10/13/2014 No Class meeting
-* 10/15/2014 Dimensionality Reduction
-  	     -- Bring Class Project Ideas
 * 10/20/2014 Guest Speaker: Jeroen Janssens, Data Scientist at YPlan
              Intro to Classification Problems, Logistic Regression
+* 10/22/2014 Bayes Theorem
+             Naive Bayes Classification
 
 ### Getting Help
 
