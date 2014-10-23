@@ -26,7 +26,6 @@ Intro to Data Science Class08:
 * [Lecture Slides](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/08_bayes/class08.pdf) (posted after class meets)
 * [Bayesian Regression Demo](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/08_bayes/bayes_regression_example.ipynb)
 * [Naive Bayes Demo](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/08_bayes/lab/naive_bayes.ipynb)
-* [Practice Naive Bayes](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/08_bayes/lab/naive_bayes_tweets.ipynb)
 
 ## Additional Resources/Links
 
