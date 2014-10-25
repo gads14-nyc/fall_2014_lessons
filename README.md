@@ -37,11 +37,11 @@ David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 | **10/6/2014** | GA West (10 E. 21st St, 4th Floor) | Data Visualization and EDA | 
 | 10/8/2014  | | Model Selection | *dataexplor02*
 | **10/13/2014**| | **Columbus Day (Holiday/ No class)** | |
-| 10/15/2014 | | Regularization, Dimensionality Reduction | *dataexplor03* (**Africa Soil Property Prediction Challenge**)
+| 10/15/2014 | | Regularization, Dimensionality Reduction | *dataexplor03* 
 | **10/20/2014** | | Classification, Logistic Regression | *dataexplor04*
 | 10/22/2014 | | Probability and Bayes Theorem, Naive Bayes | 
 | **10/27/2014** | | Bayesian Classifiers, Discriminant Analysis | *dataexplor05*
-| 10/29/2014 | |  | (**Forest Cover Type Prediction Challenge**)
+| 10/29/2014 | |  | 
 | **11/3/2014**  | | Time Series Analysis | *dataexplor06*
 | 11/5/2014 | | kNN | 
 | **11/10/2014** | | k-means Clustering | *dataexplor07*
