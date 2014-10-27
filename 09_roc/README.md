@@ -20,9 +20,9 @@ Intro to Data Science Class08:
 
 ## Homework
 
-### Lightening Talks!
+### Lightning Talks!
 
-Prepare a Lightening talk on your Term Project to be delivered in class Wednesday
+Prepare a Lightning talk on your Term Project to be delivered in class Wednesday
 
 Three parts:
 1. Describe your project-- what question are you hoping to answer
