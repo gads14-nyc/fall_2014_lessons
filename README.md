@@ -5,10 +5,10 @@
 
 ## Upcoming Activity:
 
-* 10/20/2014 Guest Speaker: Jeroen Janssens, Data Scientist at YPlan
-             Intro to Classification Problems, Logistic Regression
-* 10/22/2014 Bayes Theorem
-             Naive Bayes Classification
+* 10/27/2014: Evaluating Classifier Models, the ROC Curve
+* 10/29/2014: Term Project Lightening Talks, Basyesian A/B Testing
+* 11/03/2014: Time Series Analysis, Dataexplor06 due
+* 11/05/2014: Guest Speaker, Datakind Workshop
 
 ### Getting Help
 
@@ -39,13 +39,13 @@ David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 | **10/13/2014**| | **Columbus Day (Holiday/ No class)** | |
 | 10/15/2014 | | Regularization, Dimensionality Reduction | *dataexplor03* 
 | **10/20/2014** | | Classification, Logistic Regression | *dataexplor04*
-| 10/22/2014 | | Probability and Bayes Theorem, Naive Bayes | 
-| **10/27/2014** | | Bayesian Classifiers, Discriminant Analysis | *dataexplor05*
-| 10/29/2014 | |  | 
+| 10/22/2014 | | Probability and Bayes Theorem, Naive Bayes Classifiers | 
+| **10/27/2014** | | Evaluating Classifier Models | *dataexplor05*
+| 10/29/2014 | |  | Bayesian A/B Testing | Project Update
 | **11/3/2014**  | | Time Series Analysis | *dataexplor06*
-| 11/5/2014 | | kNN | 
-| **11/10/2014** | | k-means Clustering | *dataexplor07*
-| 11/12/2014 | | Review | 
+| 11/5/2014 | | Datakind Workshop | 
+| **11/10/2014** | | Clustering | *dataexplor07*
+| 11/12/2014 | | Collaborative Filtering | 
 | **11/17/2014** | | Natural Language Processing | *dataexplor08*
 | 11/19/2014 | | Bayes Networks | 
 | **11/24/2014** | GA East (902 Broadway, 4th Floor) | Decision Trees and Ensemble Methods | *dataexplor09*
@@ -53,14 +53,14 @@ David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 | **12/1/2014** | | Data Engineering: Distributed Computing | *dataexplor10*
 | 12/3/2014  | | TBA | 
 | **12/8/2014**  | | Review | *dataexplor11*
-| 12/10/2014  | |Presentation Workshop | Presentation Slides/Outline
+| 12/10/2014  | | Presentation Workshop | Presentation Slides/Outline
 | **12/15/2014** | |Final Presentations | Final Project Due
 
 ### Submitting Assignments
 
 We will be using the <a href="https://help.github.com/articles/using-pull-requests#fork--pull">Fork and Pull</a> git model for submitting labs and some assignments.
 
-For the first assignment:
+For the **first assignment**:
 
 1. Fork the assignments repo for the class:
 
