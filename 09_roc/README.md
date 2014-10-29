@@ -1,4 +1,4 @@
-Intro to Data Science Class08: 
+Intro to Data Science Class09: 
 =======
 
 ## Evaluating Classifier Models, The ROC Curve
@@ -25,19 +25,22 @@ Intro to Data Science Class08:
 Prepare a Lightning talk on your Term Project to be delivered in class Wednesday
 
 Three parts:
+
 1. Describe your project-- what question are you hoping to answer
+
 2. Describe your data and share results of any EDA done so far
+
 3. Describe any difficulties you are having or anticipate having
 
 Constraints:
--Maximum of three minutes
--Maximum of one slide
+- Maximum of three minutes
+- Maximum of one slide
 
 ## Class Materials
 
 * [Lecture Slides](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/09_roc/class09.pdf) (posted after class meets)
 * [ROC curve Demo](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/09_roc/lab/example_roc.ipynb)
-* [Classification Example](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/08_bayes/lab/student_loan_classifier.ipynb)
+* [Classification Example](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/09_roc/lab/student_loan_classifier.ipynb)
 
 * Utility class for accessing [APIs]((https://github.com/gads14-nyc/fall_2014_lessons/blob/master/utils/base_api.py)
  - [lastfm example](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/utils/lastfm_api.py)
