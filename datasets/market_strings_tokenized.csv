@@ -1,0 +1,5001 @@
+	token0	token1	token2	token3	token4	token5	token6	token7	token8	token9
+0	ho	m	2.71	2.81	callspread	1				
+1	good	morning	brent	oct	86	93	calls			
+2	go	v	738	776	csprd	720.2				
+3	wti	sep	82.7	call	offer	69.9				
+4	hey	wti	dec	77.9	put					
+5	whats	up	brent	k	87.8	95.8	putspread	99		
+6	you	want	in	brent	apr	88	96	puts	81	
+7	whats	up	wti	m	86.5	strd				
+8	brent	q	82	p		53.7	69.3			
+9	brt	jun	94	111	calls	88	108			
+10	good	morning	brent	g	91.3	103.5	psprd	84.6	104.1	
+11	yo	ho	feb	2.83	strad	0.7				
+12	brt	k	96.0	c	80					
+13	whats	up	brent	nov	95	111	callspread	89.1	108.9	
+14	brent	apr	90.4	call	offer	76				
+15	brent	f	82.2	strad	69.5					
+16	good	morning	go	q	816	put		587	637	
+17	wti	oct	87.9	strad	74.0					
+18	yo	brt	aug	83.4	86.7	psprd	offer	93		
+19	ho	f	2.47	put						
+20	go	f	829	971	csprd	894				
+21	ho	h	2.204	2.204	calls	1				
+22	brent	jun	87	93	callspread		79.1			
+23	yo	go	may	823	958	psprd				
+24	wti	dec	86	98	csprd	offer	98			
+25	brt	g	83	strad	54.4	70.1				
+26	good	morning	brt	feb	80.5	81.0	putspread	71.6		
+27	ho	dec	4.15	straddle	offer	5				
+28	yo	ho	jul	3.17	3.37	putspread		1.4	5.0	
+29	hey	brent	h	92	105	calls		85.5		
+30	you	want	in	wti	n	79	strad			
+31	brt	mar	96.8	115.9	puts		91.5	111.7		
+32	hey	brt	apr	93	strd	61	78			
+33	you	want	in	wti	jul	76	77	csprd	offer	85.0
+34	whats	up	go	feb	758	816	calls		744.7	
+35	yo	go	m	818	947	csprd				
+36	you	want	in	ho	jul	4.807	5.642	puts	7.3	
+37	hey	go	u	752	call					
+38	hey	wti	k	89	105	puts	83.4			
+39	whats	up	brt	u	95	112	callspread			
+40	you	want	in	brent	dec	91.1	c	60.1	76.6	
+41	brent	f	89.9	straddle						
+42	whats	up	brent	h	89.9	100.4	csprd	102		
+43	you	want	in	brt	k	91	102	puts		84
+44	brent	n	93	strd						
+45	hey	go	jun	834	straddle	offer	650.5			
+46	you	want	in	go	aug	729	p	523.4		
+47	yo	go	v	726	751	puts	705	759		
+48	good	morning	brent	x	91.5	strd	offer	77		
+49	go	m	846	1011	callspread	nan				
+50	go	m	786	strd	614					
+51	whats	up	brent	h	94.3	110.3	putspread	88		
+52	ho	dec	2.84	2.97	calls					
+53	brt	z	88.8	97.9	callspread		82			
+54	good	morning	brt	sep	90	100	calls	102.1		
+55	go	x	760	strad	546					
+56	hey	go	jun	760	821	psprd	747	803		
+57	you	want	in	brt	f	83	call			
+58	yo	brt	may	84.0	88.0	callspread	offer	94		
+59	ho	sep	3.73	p	1					
+60	go	apr	845	p		608.6				
+61	you	want	in	wti	jan	85.7	98.0	puts		
+62	ho	may	2.539	c						
+63	hey	brt	feb	94	110	callspread	107.9			
+64	you	want	in	go	h	786	p		565	
+65	ho	f	4.654	5.415	putspread					
+66	you	want	in	brt	aug	94	109	callspread		
+67	yo	go	oct	794	894	psprd	790.4			
+68	you	want	in	ho	jun	4.08	4.59	csprd	2.2	6.3
+69	yo	brent	oct	95	111	csprd		89.1		
+70	brent	k	85	c						
+71	wti	jun	78	c						
+72	whats	up	ho	k	2.524	strad				
+73	wti	n	77.2	strd	50.3					
+74	yo	brt	v	90.5	strad	59.6	76.1			
+75	whats	up	ho	q	3.48	3.78	calls	2		
+76	yo	brt	g	80.4	c	52.5				
+77	hey	brent	x	96.4	115.0	putspread				
+78	brent	jan	82	p	69					
+79	you	want	in	brent	k	88.6	p			
+80	ho	q	4.04	call	1.3	4.8				
+81	hey	wti	jun	79	put	offer	67			
+82	whats	up	brent	jul	92	c		61	77	
+83	whats	up	wti	k	75	c	48.8			
+84	yo	wti	z	89	105	csprd		83.4		
+85	brent	m	83.8	87.6	csprd	94.0				
+86	whats	up	wti	nov	85.1	straddle	55.8	71.8		
+87	yo	go	m	719	p	516.0	562.5			
+88	hey	brent	g	92	strd					
+89	whats	up	wti	jan	81.6	straddle				
+90	you	want	in	brent	u	81	c	69		
+91	good	morning	go	aug	729	c				
+92	brt	oct	92	straddle						
+93	ho	apr	3.73	straddle	1	4				
+94	brent	g	95.7	strad	offer	80.2				
+95	good	morning	ho	x	2.75	strd				
+96	hey	go	dec	835	985	calls	offer	902		
+97	hey	brent	mar	93.9	put		62	79		
+98	you	want	in	brent	oct	91.5	p	77		
+99	you	want	in	ho	h	4.268	4.857	calls	2.3	
+100	ho	v	2.71	straddle	1	3				
+101	wti	q	86.9	100.8	putspread					
+102	whats	up	brent	jan	90	call				
+103	go	v	786	877	putspread					
+104	go	x	820	call	639.8					
+105	brent	dec	81.7	83.3	puts		73.0			
+106	whats	up	wti	v	80.1	strd				
+107	you	want	in	go	z	844	put	608	658	
+108	brt	q	91	strd	60					
+109	go	h	764	c						
+110	ho	jun	4.40	put						
+111	brt	jan	95	straddle						
+112	good	morning	brt	u	88	96	puts			
+113	yo	brt	mar	96	115	callspread	90.7			
+114	hey	brent	jun	87	strd					
+115	hey	wti	j	81.9	89.5	calls	74.6			
+116	good	morning	ho	j	3.23	strad	0.9	4.0		
+117	you	want	in	go	u	803	strad		577.7	626.8
+118	yo	go	f	821	p	590.9				
+119	brt	nov	92.1	105.3	putspread	86				
+120	you	want	in	brent	h	84	call			
+121	you	want	in	go	jan	832	979	csprd		
+122	brt	z	81	81	psprd		72			
+123	yo	brt	jan	85.8	strd	offer	72			
+124	hey	wti	z	76	78	psprd		67.8	85.2	
+125	wti	sep	75	76	callspread		67			
+126	yo	brent	k	87.5	put	57.5				
+127	good	morning	brt	dec	90.6	102.0	puts		84	103
+128	brt	u	86.8	93.8	csprd	79	98			
+129	good	morning	wti	jan	84.4	put	55	71		
+130	hey	brt	sep	93.8	strd	62.0				
+131	yo	wti	h	82	90	calls		74.8		
+132	brt	may	91.5	strd	60.3	76.9				
+133	brt	g	83.7	call		55	71			
+134	brt	nov	86	strd	56					
+135	hey	brent	jan	82.4	84.8	calls	92			
+136	whats	up	ho	aug	3.684	strad				
+137	yo	brent	q	81	82	psprd		72	90	
+138	ho	h	2.873	put	4					
+139	hey	wti	m	80	straddle					
+140	you	want	in	go	g	725	749	psprd	offer	758.0
+141	wti	z	78.5	82.2	callspread	offer	88			
+142	you	want	in	wti	j	79.7	call	68		
+143	ho	k	2.944	3.090	csprd	1.3				
+144	brt	u	87.8	strd		58				
+145	yo	brent	dec	88.0	96.4	calls		80.6		
+146	hey	brent	z	93.2	p		62	78		
+147	hey	brent	may	87	94	csprd	98			
+148	yo	wti	jun	87	100	calls	offer	100		
+149	whats	up	brent	sep	81	c		53		
+150	you	want	in	brent	k	89	straddle		59	
+151	hey	ho	n	4.71	strad	5.4				
+152	yo	ho	feb	3.785	strd					
+153	wti	sep	87.0	100.9	puts	100				
+154	hey	go	jun	846	p	660				
+155	whats	up	go	x	727	p	offer	568.6		
+156	ho	feb	3.203	put		0.9				
+157	ho	u	3.85	4.28	callspread	2.0				
+158	yo	go	u	758	816	calls	744.7			
+159	hey	ho	may	3.76	4.15	putspread				
+160	brent	sep	86.7	put	73.1					
+161	brent	z	86	p						
+162	good	morning	go	jun	736	771	puts	offer	772	
+163	yo	brt	n	95.1	112.1	calls				
+164	good	morning	brent	nov	91	102	csprd		84.1	103.4
+165	whats	up	go	nov	700	701	callspread	673.8	726.7	
+166	whats	up	brt	z	87	95	callspread	79.6		
+167	whats	up	go	nov	738	775	putspread			
+168	good	morning	ho	nov	2.673	2.758	putspread			
+169	go	mar	840	996	calls	849				
+170	go	z	706	c	506.5	552.5				
+171	you	want	in	brent	jul	88.2	strad			
+172	yo	brent	n	95.4	strd					
+173	whats	up	ho	f	5.154	p	offer	6		
+174	hey	brent	oct	88	95	psprd	99			
+175	you	want	in	go	f	738	p		530	577
+176	you	want	in	brent	mar	90	strad	76		
+177	wti	z	85.9	strd	56					
+178	hey	wti	dec	76	strd		49.5	64.5		
+179	hey	brent	apr	84	call	55.1				
+180	hey	ho	u	3.762	c	1				
+181	ho	may	3.50	c						
+182	ho	f	2.419	p	0					
+183	wti	g	78	put	offer	66.1				
+184	hey	wti	mar	85	straddle		56			
+185	yo	brt	sep	95.4	112.6	puts		89.7	109.7	
+186	yo	ho	k	3.835	4.253	calls	2			
+187	ho	z	3.037	strd	4					
+188	good	morning	go	may	759	put		545	593	
+189	wti	dec	78	put		50.9	66.1			
+190	yo	brent	jan	92.9	107.1	psprd				
+191	yo	brent	feb	85	91	callspread	77	96		
+192	whats	up	wti	n	86.6	99.9	calls			
+193	whats	up	brent	u	85	strd				
+194	whats	up	go	may	747	794	putspread	731.2		
+195	brent	aug	96	113	puts	90	110			
+196	brent	m	86	93	puts	78	97			
+197	good	morning	wti	aug	83.0	91.8	puts	94.4		
+198	yo	wti	k	88	p					
+199	whats	up	go	mar	734	767	calls	715.0	769.5	
+200	yo	ho	mar	4.721	c					
+201	brent	j	89	put	58.6					
+202	whats	up	go	jan	718	735	callspread	749.1		
+203	hey	wti	oct	88	104	calls				
+204	good	morning	brent	m	82	85	psprd			
+205	ho	feb	4.112	c	4.8					
+206	yo	brt	z	83	87	putspread	93			
+207	you	want	in	wti	g	80.7	strd	offer	68	
+208	wti	h	89.3	straddle	58.8	75.2				
+209	brent	x	85.5	91.0	csprd	78	96			
+210	good	morning	ho	jul	3.805	call	1.2	4.5		
+211	wti	n	79.8	c	68					
+212	go	feb	765	831	csprd	offer	809.5			
+213	wti	f	84	strd						
+214	ho	jul	3.619	call						
+215	you	want	in	brt	q	92.6	106.3	psprd		
+216	yo	wti	aug	85	96	psprd				
+217	brt	nov	94	p	62	79				
+218	go	mar	833	call	600					
+219	brent	f	86.9	strad						
+220	whats	up	wti	u	81	87	calls		73	
+221	ho	aug	4.507	p	1.5					
+222	you	want	in	brent	v	83	call		54	70
+223	brt	g	89	strd	75					
+224	yo	ho	z	4.66	5.42	csprd	2.6	7.1		
+225	hey	go	z	742	p	offer	580			
+226	yo	brent	jul	95	strd	63	80			
+227	go	jan	741	c						
+228	you	want	in	brent	q	94.8	111.3	csprd		
+229	go	jan	797	899	psprd	851				
+230	you	want	in	brt	apr	95.8	113.5	putspread		
+231	go	h	798	put	574	623				
+232	good	morning	brt	sep	88.3	strad	58.1	74.4		
+233	whats	up	brt	sep	96.8	p		64	81	
+234	hey	ho	jan	3.837	4.256	puts	2.0	5.9		
+235	yo	brt	k	88.4	call	58.2				
+236	you	want	in	brent	feb	87.3	94.9	callspread		80
+237	whats	up	brt	v	93	107	calls	86.7	106.3	
+238	brent	j	97	116	callspread	92				
+239	brent	n	87.3	p	73.6					
+240	whats	up	brt	jan	82	straddle	53.7	69.3		
+241	yo	wti	n	81	87	putspread	73.4	91.6		
+242	yo	brt	q	86	92	callspread	78.1	96.9		
+243	good	morning	brent	nov	86	c	72.5			
+244	hey	ho	jul	3.483	3.781	calls		2	5	
+245	good	morning	brt	jun	94	p	79			
+246	brent	m	90	straddle	75.7					
+247	whats	up	brent	jul	85.3	p		56		
+248	good	morning	go	f	781	straddle	offer	610.0		
+249	yo	go	dec	725	749	csprd	704			
+250	go	jul	813	straddle	585					
+251	brt	may	83.7	strad		54.9	70.7			
+252	whats	up	wti	apr	77.1	p				
+253	good	morning	brt	v	86.6	93.4	csprd	offer	98	
+254	yo	wti	h	86	99	puts				
+255	whats	up	ho	x	3.92	4.37	csprd			
+256	hey	ho	z	4.66	5.42	puts				
+257	hey	brt	mar	84	strad		55.1	70.9		
+258	whats	up	wti	g	81	strd	53			
+259	whats	up	brt	f	93	strad	78			
+260	yo	brt	jul	87	put	73.3				
+261	yo	ho	q	3.042	call		1			
+262	hey	brt	mar	94	strd		62			
+263	you	want	in	wti	jul	87	c	73		
+264	whats	up	brent	aug	90.6	strad		59.7	76.2	
+265	yo	wti	may	80	p	52.3				
+266	yo	brent	v	83	call					
+267	brt	v	92	105	calls	offer	105.0			
+268	wti	u	78	put	51					
+269	whats	up	brent	f	83.0	86.0	csprd	75	93	
+270	you	want	in	brt	f	86	92	calls	78	97
+271	you	want	in	wti	k	87	101	puts	81	100
+272	brt	m	88	96	callspread					
+273	hey	brent	nov	86	92	puts	offer	96.9		
+274	good	morning	go	k	730	put				
+275	wti	u	78	81	csprd					
+276	you	want	in	brent	f	93.8	put	78.7		
+277	you	want	in	brt	n	81	c			
+278	go	z	818	947	putspread	offer	879			
+279	you	want	in	wti	x	78	strad	50.9		
+280	good	morning	brent	x	90.8	102.3	psprd			
+281	good	morning	brt	m	80.2	80.3	psprd			
+282	whats	up	go	aug	715	728	callspread	691	745	
+283	brent	m	81	strd		53.0	68.5			
+284	good	morning	ho	x	3.62	p	1	4		
+285	good	morning	brent	oct	93	108	psprd	87	107	
+286	brent	q	94.5	110.6	putspread	108				
+287	brt	jan	84	88	puts	94.2				
+288	hey	brt	aug	87	straddle		57.2			
+289	whats	up	brent	q	91	103	csprd	103.7		
+290	brt	n	96	c						
+291	you	want	in	brt	oct	89	put		59	75
+292	brt	q	88.5	97.3	psprd	offer	100.2			
+293	yo	brt	dec	88	c	offer	74			
+294	hey	brent	dec	96	strd	80				
+295	hey	brent	nov	90	c	59.3				
+296	whats	up	brt	dec	92	105	putspread		85	
+297	whats	up	go	j	767	c	551.3			
+298	yo	go	k	784	872	calls		777.6	834.4	
+299	yo	brent	j	87	94	callspread	79.3	98.2		
+300	hey	brt	v	95	111	calls	108.9			
+301	yo	ho	k	3.39	3.65	psprd				
+302	brent	aug	88	97	csprd		81	100		
+303	good	morning	ho	nov	3.35	straddle	4.1			
+304	hey	go	q	749	798	psprd				
+305	good	morning	wti	apr	80.3	p	offer	68		
+306	yo	go	oct	833	981	csprd				
+307	go	v	818	p	638					
+308	yo	brt	apr	80	c		52.3	67.7		
+309	you	want	in	brt	u	94.9	call	80		
+310	brt	v	81	83	csprd	72.5	90.5			
+311	brent	q	93	106	putspread	86				
+312	whats	up	wti	h	86.4	put	73			
+313	ho	n	2.460	2.502	puts	0.9				
+314	good	morning	wti	u	86.0	call	73			
+315	whats	up	wti	h	89.6	107.2	csprd	offer	104	
+316	whats	up	wti	jul	76	call	64.5			
+317	you	want	in	ho	dec	4.23	4.80	calls		2
+318	wti	k	78.4	put	51	66				
+319	brt	oct	91.8	104.5	psprd	offer	104.7			
+320	hey	wti	aug	81.7	88.9	putspread		74.4	92.6	
+321	brt	apr	82.1	84.1	csprd		73.5	91.7		
+322	go	mar	755	809	calls	796.2				
+323	yo	wti	x	81.4	straddle		53			
+324	you	want	in	wti	nov	83	strad	offer	70	
+325	go	jun	710	p		509.4				
+326	you	want	in	brt	h	87.8	p	58	74	
+327	whats	up	go	n	800	907	puts	798		
+328	hey	ho	n	2.507	put		1			
+329	whats	up	wti	j	80	86	putspread		72.5	90.5
+330	yo	wti	k	83	p		54			
+331	brt	g	84	call	offer	70.9				
+332	yo	wti	dec	77	79	putspread				
+333	whats	up	brt	f	90.9	strd				
+334	you	want	in	brent	sep	84.6	89.3	psprd	offer	95
+335	brent	x	91.5	104.0	psprd	84.9	104.4			
+336	yo	brt	dec	85.3	90.6	psprd				
+337	whats	up	wti	feb	84	94	calls			
+338	go	dec	821	strad						
+339	whats	up	brt	dec	93.2	strd				
+340	you	want	in	wti	sep	76	76	csprd	67.3	
+341	whats	up	go	dec	732	763	psprd	767		
+342	brt	f	81.6	call						
+343	brt	oct	85.2	straddle	56					
+344	hey	brt	sep	94	c	78.9				
+345	brt	m	86	strad	56.5					
+346	brt	sep	89	strd		59	75			
+347	whats	up	brt	u	95	straddle	62.8			
+348	ho	jul	4.81	5.65	calls		3	7		
+349	good	morning	brent	aug	95.1	straddle	62.9			
+350	go	m	825	strd	594	644				
+351	you	want	in	wti	k	89.5	106.7	puts		84.1
+352	good	morning	wti	apr	82	call		54	69	
+353	yo	brent	apr	93	108	callspread	86.9	106.6		
+354	brt	f	82	83	putspread					
+355	hey	brent	oct	94.4	110.5	puts	108.3			
+356	whats	up	wti	j	84.5	strd				
+357	hey	brent	j	84	c	55	71			
+358	good	morning	go	sep	711	722	puts	687.0	740.5	
+359	brt	n	89	98	csprd	82				
+360	wti	n	86.7	call						
+361	hey	wti	sep	80	c	52.3	67.7			
+362	you	want	in	ho	n	5.086	put	2	6	
+363	you	want	in	brt	oct	86.2	92.5	csprd		78.4
+364	wti	h	75	strad	offer	64				
+365	yo	go	g	736	771	callspread				
+366	brent	z	96	113	puts					
+367	hey	brent	q	91	c	76.5				
+368	wti	dec	82	strad	69.3					
+369	yo	ho	f	4.07	4.57	psprd	2.1	6.2		
+370	hey	go	may	810	930	csprd	811			
+371	good	morning	brent	oct	90.2	100.9	callspread			
+372	hey	ho	jun	4.697	5.479	callspread	2.7	7.1		
+373	whats	up	brent	aug	85.7	91.5	psprd			
+374	you	want	in	brt	k	88	strad	58	74	
+375	ho	jan	3.808	4.216	putspread	5.9				
+376	you	want	in	brent	dec	91	103	psprd		
+377	yo	ho	jul	5.037	strad	2	6			
+378	you	want	in	brent	f	96.6	115.5	csprd		
+379	yo	wti	jul	77.5	80.1	puts	87.0			
+380	good	morning	ho	n	2.270	2.280	csprd		1	
+381	ho	dec	3.484	3.783	psprd	5				
+382	you	want	in	wti	q	86.8	p	57.0		
+383	wti	jan	76	78	psprd					
+384	wti	nov	76.8	78.6	csprd	86				
+385	go	f	804	strad	578.4					
+386	hey	wti	aug	81	p					
+387	good	morning	brt	g	82.6	85.1	putspread			
+388	go	mar	848	straddle						
+389	good	morning	ho	oct	4.77	5.59	putspread			
+390	you	want	in	go	apr	703	706	calls	677	
+391	brt	g	88	96	putspread	80.5	99.5			
+392	hey	brent	aug	88	96	puts	81	99		
+393	brt	k	81.0	82.0	csprd					
+394	good	morning	brt	mar	86.1	92.2	csprd	97		
+395	good	morning	go	nov	730	p	571			
+396	wti	m	75.3	straddle	64.0					
+397	yo	ho	jan	3.87	4.30	psprd		2.0		
+398	good	morning	brt	jun	83	strad	54			
+399	go	jul	773	847	psprd	820				
+400	go	u	768	838	csprd	813.5				
+401	yo	wti	jan	83	92	csprd	76.0	94.5		
+402	hey	ho	g	2.46	p		0	3		
+403	hey	wti	jul	87.3	call					
+404	yo	brent	jun	83	87	puts				
+405	yo	go	aug	785	call					
+406	go	h	777	857	puts	768.8				
+407	hey	wti	nov	76	c					
+408	ho	k	3.57	3.90	csprd		2			
+409	wti	v	78	strad	51	66				
+410	wti	u	79	83	csprd	71.1	88.9			
+411	you	want	in	brt	q	92	106	calls	105	
+412	brt	jan	96	115	psprd	91				
+413	you	want	in	go	g	726	straddle	521.2	567.8	
+414	brt	m	81	82	calls	72.2				
+415	good	morning	brt	x	90	101	putspread		83.1	102.4
+416	you	want	in	ho	k	2.555	strad		0.5	3.3
+417	you	want	in	brt	v	84.6	89.1	psprd		
+418	whats	up	ho	jan	4.00	p	1.3	4.7		
+419	hey	go	h	776	put					
+420	hey	wti	may	87.7	102.7	putspread				
+421	hey	wti	f	89	106	putspread	83.6			
+422	you	want	in	go	j	832	p	599.0	649.0	
+423	whats	up	wti	h	81	88	psprd			
+424	brent	jun	90.1	100.8	puts					
+425	hey	brt	k	81.2	strad		53	69		
+426	brent	u	81.8	83.5	callspread	73.2	91.3			
+427	hey	go	g	716	731	putspread		693		
+428	wti	jun	88.2	103.6	psprd	82				
+429	whats	up	brt	v	83	call	70			
+430	go	x	726	strd						
+431	wti	j	84.2	94.5	putspread	77.5	96.1			
+432	hey	brent	m	94	p	62	79			
+433	whats	up	brt	may	90	101	callspread	83		
+434	yo	brt	jun	81	82	csprd	72			
+435	wti	mar	81	88	callspread	91.8				
+436	you	want	in	ho	v	5.105	6.094	puts		
+437	hey	brent	oct	94.5	call	62				
+438	hey	go	q	816	strad		587	637		
+439	whats	up	brent	mar	84.2	88.4	putspread	94.5		
+440	whats	up	brt	aug	91	strad				
+441	yo	brt	m	88	straddle	74.1				
+442	yo	brent	may	83	strd	offer	70			
+443	go	u	804	916	psprd	803				
+444	good	morning	wti	feb	88	103	csprd		82.2	101.3
+445	you	want	in	wti	sep	81	p		53.0	
+446	brt	jan	91.9	straddle	60.6					
+447	good	morning	ho	f	3.953	c				
+448	yo	ho	j	4.070	strad	offer	5			
+449	ho	x	3.12	3.31	csprd	4.9				
+450	brent	nov	91	103	psprd	84.3	103.7			
+451	wti	f	88	straddle	offer	74.1				
+452	whats	up	go	j	781	c	610.0			
+453	wti	q	79	82	csprd		70.8			
+454	yo	brt	n	89.2	98.9	calls				
+455	you	want	in	wti	h	81.7	strd			
+456	good	morning	wti	v	84	put	55			
+457	you	want	in	brt	jul	82	call	54	69	
+458	ho	dec	4.129	put						
+459	yo	brt	apr	92.6	straddle		61	78		
+460	whats	up	go	jul	756	p				
+461	wti	k	87	100	csprd					
+462	hey	go	sep	836	987	puts		844		
+463	whats	up	ho	jan	2.75	2.85	calls		1	
+464	brent	sep	92.9	strad	61	78				
+465	good	morning	brt	mar	84.6	call	55.5			
+466	wti	m	81.4	straddle	69					
+467	you	want	in	ho	g	3.29	3.53	calls	1.5	5.2
+468	go	u	829	strd						
+469	you	want	in	wti	jul	88.2	put	58.0		
+470	brt	f	81.5	c						
+471	ho	u	4.40	straddle	1	5				
+472	go	may	814	937	csprd					
+473	whats	up	brent	h	95	112	putspread		89	
+474	go	sep	704	707	psprd	678.2				
+475	ho	k	4.76	straddle	5.5					
+476	good	morning	go	jun	740	779	csprd	offer	777.1	
+477	you	want	in	brent	g	81	p			
+478	whats	up	brent	nov	91	straddle				
+479	wti	m	89.9	p						
+480	yo	wti	f	76	77	csprd	68	85		
+481	whats	up	wti	m	77	call	50.2			
+482	wti	z	83.8	93.7	puts	77	96			
+483	brt	jul	82	84	putspread	91.6				
+484	brent	j	93	strad	61	78				
+485	ho	jan	5.17	c						
+486	good	morning	ho	apr	3.338	3.591	callspread	2		
+487	brent	u	96.0	114.0	csprd	offer	110.5			
+488	good	morning	ho	u	4.43	c	1	5		
+489	hey	go	jan	741	782	callspread	778.7			
+490	go	dec	800	put		575.5	624.5			
+491	you	want	in	brt	apr	88.8	98.0	puts	81.6	
+492	hey	ho	v	3.395	3.666	callspread	offer	5.3		
+493	hey	go	may	777	strad		558.6			
+494	ho	apr	2.866	2.993	callspread	1.2	4.6			
+495	wti	m	85.9	98.4	csprd	offer	98			
+496	go	aug	786	strad						
+497	go	k	745	790	putspread	728.8	783.8			
+498	good	morning	ho	jun	4.255	4.838	csprd	offer	6.5	
+499	brt	f	93.6	call	62	79				
+500	yo	go	sep	759	strad	offer	593			
+501	you	want	in	ho	u	4.139	4.674	callspread	offer	6.3
+502	brt	jul	82	83	putspread		73			
+503	wti	h	90	strd						
+504	ho	k	5.157	straddle	2	6				
+505	ho	v	4.23	strd	offer	5.0				
+506	brt	h	84.0	87.9	calls					
+507	whats	up	brt	z	87.6	p	57.6	73.8		
+508	brt	k	92	106	calls	86	105			
+509	whats	up	go	k	744	787	putspread	782		
+510	ho	may	2.79	strd	0.6					
+511	good	morning	go	k	705	709	putspread	679.4		
+512	ho	dec	2.439	2.478	psprd	4				
+513	good	morning	go	n	743	785	psprd	726	781	
+514	wti	u	80.0	85.3	puts	offer	90			
+515	hey	ho	k	2.41	strd		0	3		
+516	good	morning	go	nov	826	964	psprd			
+517	go	m	823	958	csprd		827.5			
+518	brt	n	85.6	91.3	csprd	78				
+519	ho	f	3.608	p						
+520	brent	u	83.5	87.0	putspread	75				
+521	brt	jun	94	108	calls	107				
+522	you	want	in	ho	sep	5.04	strad	5.7		
+523	hey	brt	u	81.1	put					
+524	yo	go	jun	802	call	577				
+525	yo	ho	x	5.19	6.22	callspread				
+526	brent	apr	86.0	strad		56.5	72.5			
+527	whats	up	brent	dec	89	99	calls	101		
+528	brt	dec	95.8	113.7	psprd	90.3				
+529	wti	jan	85.2	96.7	callspread					
+530	you	want	in	wti	nov	85.8	98.2	calls		
+531	yo	wti	feb	79	straddle	51.6				
+532	yo	wti	may	89.5	straddle	offer	75.3			
+533	hey	brent	jan	85	89	psprd				
+534	yo	wti	h	79	83	psprd		71		
+535	wti	may	78	81	calls	offer	87.6			
+536	ho	jun	4.01	strd		1.3	4.7			
+537	hey	go	g	823	959	puts				
+538	you	want	in	ho	u	3.63	call	1.1	4.4	
+539	brt	feb	91.6	strad						
+540	ho	q	3.175	c						
+541	you	want	in	brent	k	92	strd			
+542	hey	go	q	706	straddle					
+543	brt	h	90.6	101.9	puts					
+544	go	v	758	817	puts	745.0	800.5			
+545	yo	wti	apr	89	straddle	58.6	74.9			
+546	brt	apr	95	call	63	80				
+547	wti	sep	77	79	puts					
+548	wti	aug	79.7	84.6	callspread		72	90		
+549	go	m	707	714	puts					
+550	good	morning	wti	sep	86	100	putspread	80	99	
+551	you	want	in	brent	jan	82.3	84.6	csprd	92.0	
+552	you	want	in	ho	aug	5.00	straddle	6		
+553	go	g	773	847	calls	819.6				
+554	hey	wti	jan	75.7	76.4	calls	offer	84.6		
+555	hey	brent	jul	94	111	puts	108			
+556	hey	wti	u	79.2	strd	51.7	67.1			
+557	yo	go	sep	708	call	508	554			
+558	good	morning	ho	may	3.69	4.06	psprd	2		
+559	hey	ho	m	4.560	5.278	calls	7			
+560	whats	up	brt	j	83	85	putspread		74	93
+561	brent	jul	93	108	calls	87				
+562	hey	go	u	742	784	psprd		725.1	779.9	
+563	yo	brt	k	86.5	93.1	calls	offer	97.5		
+564	yo	brt	jan	87.6	c	57.6				
+565	you	want	in	ho	may	2.43	2.47	callspread		1
+566	good	morning	brent	m	84.9	put				
+567	ho	jul	3.61	3.95	csprd	1.8				
+568	yo	wti	apr	81.9	straddle					
+569	whats	up	brent	v	94	call	79			
+570	good	morning	ho	apr	4.15	put	1.3	4.9		
+571	you	want	in	brent	v	97	115	calls	111.6	
+572	brent	f	85	put						
+573	go	f	700	701	callspread					
+574	whats	up	ho	oct	2.423	strad	0	3		
+575	brt	k	95.1	straddle		62.9	79.8			
+576	you	want	in	go	jul	763	call			
+577	good	morning	ho	j	3.198	3.410	calls	1		
+578	wti	m	78	80	csprd	69.6				
+579	ho	may	3.12	strd	3.9					
+580	brent	jul	92	106	csprd					
+581	hey	wti	oct	75	call		49	64		
+582	ho	x	2.839	c	4					
+583	you	want	in	go	jan	794	895	psprd	791	
+584	whats	up	brent	jan	85	91	puts	96		
+585	brt	aug	95.4	112.6	puts					
+586	go	nov	732	p	572					
+587	yo	go	g	794	893	calls	offer	847.4		
+588	whats	up	brent	q	94.1	p	62			
+589	hey	wti	nov	79	strad		52			
+590	yo	wti	v	82.9	91.6	puts				
+591	hey	brt	jul	85	straddle	offer	72			
+592	whats	up	ho	jun	2.21	straddle	2.9			
+593	go	dec	840	c	655.1					
+594	hey	brt	f	83	p		54.4	70.1		
+595	yo	wti	feb	83	put	70				
+596	yo	ho	x	2.388	strd					
+597	hey	ho	n	2.414	p		0	3		
+598	go	z	801	909	callspread					
+599	yo	ho	n	2.926	strd	0.7				
+600	hey	brt	jul	82	84	puts	73.4	91.6		
+601	whats	up	go	jun	743	straddle		534	581	
+602	hey	brent	h	89.1	put	58.7	75.0			
+603	good	morning	ho	sep	4.44	5.10	csprd	6.8		
+604	hey	brent	g	83.3	c	54.6				
+605	hey	go	x	750	straddle	offer	586.2			
+606	whats	up	go	h	768	strad	552.0			
+607	whats	up	go	z	812	933	puts		813	
+608	brt	f	80.5	c	offer	68.1				
+609	brt	mar	86.6	93.3	puts	97.7				
+610	yo	ho	h	4.77	strad	offer	5			
+611	go	mar	739	778	puts	776.1				
+612	you	want	in	ho	jun	4.42	5.07	callspread	2.4	
+613	you	want	in	ho	k	4.33	4.95	callspread		2
+614	ho	n	2.778	put	0.6	3.5				
+615	whats	up	go	nov	833	call		599.8	649.7	
+616	you	want	in	wti	dec	83	straddle	54		
+617	ho	x	3.86	4.29	putspread					
+618	wti	mar	77.2	c	50	66				
+619	whats	up	brent	apr	85	p	72			
+620	hey	brt	z	89	strad	59				
+621	hey	brt	oct	82.9	c		54	70		
+622	brt	dec	81.5	82.9	calls					
+623	whats	up	brt	feb	95	strd	63			
+624	go	h	833	call		599.8				
+625	brt	sep	90.5	c		60				
+626	you	want	in	wti	apr	81	p		53.0	
+627	go	dec	740	780	calls					
+628	you	want	in	go	aug	839	996	puts	848.6	907.9
+629	ho	f	2.89	c						
+630	whats	up	ho	oct	4.18	call	4.9			
+631	you	want	in	brt	feb	87.9	96.0	psprd	offer	99
+632	whats	up	wti	may	78	82	csprd		70.1	87.9
+633	hey	brent	dec	89	99	puts				
+634	wti	aug	75.1	75.3	puts					
+635	hey	brent	v	93.5	straddle	78.5				
+636	brent	feb	90	101	callspread	83	102			
+637	wti	m	86.4	put						
+638	you	want	in	wti	f	83.0	call	54		
+639	brent	mar	90	101	csprd		83			
+640	hey	ho	dec	5.022	5.968	csprd	3.0			
+641	go	n	762	strad						
+642	hey	go	jun	714	call					
+643	yo	brent	jul	88.3	96.8	callspread	99.9			
+644	hey	brt	z	90	straddle		59			
+645	brent	nov	85.7	91.5	psprd	77.8				
+646	wti	dec	88	102	calls		82			
+647	good	morning	go	v	791	886	callspread		786.2	843.3
+648	hey	brent	k	95	112	psprd	89			
+649	you	want	in	ho	apr	2.93	3.07	callspread	5	
+650	brent	h	88	call	offer	74				
+651	yo	ho	apr	4.063	strad	1	5			
+652	you	want	in	go	apr	771	c	554.2		
+653	yo	brt	nov	96	strd	63.5				
+654	good	morning	brt	h	87.2	call				
+655	brent	feb	95.8	113.7	csprd	110				
+656	brt	v	85.6	91.2	psprd					
+657	wti	aug	76	76	calls		67.3			
+658	ho	n	2.97	3.13	psprd	4.7				
+659	ho	nov	4.749	5.555	calls					
+660	hey	brt	f	81.2	straddle	53.1	68.7			
+661	wti	k	75.4	strd		49	64			
+662	yo	brent	x	96.6	strad	64	81			
+663	wti	oct	76.7	strd	65					
+664	brt	n	89.3	c	75					
+665	ho	f	3.87	4.30	calls	6				
+666	go	q	700	put	502.1	547.9				
+667	good	morning	wti	may	87.4	101.9	putspread	81.5	100.6	
+668	you	want	in	go	n	743	c	533.6	580.9	
+669	you	want	in	brent	f	91.1	103.0	calls		84.4
+670	hey	ho	v	2.25	2.26	calls	3.8			
+671	ho	v	3.23	p						
+672	brt	mar	87	94	csprd	79.3	98.2			
+673	good	morning	ho	j	3.23	put		1		
+674	brent	aug	81.6	83.1	puts	offer	91			
+675	ho	n	3.303	straddle	0.9					
+676	wti	h	86	c		56	73			
+677	hey	go	m	807	922	putspread		807	865	
+678	whats	up	go	aug	827	strd	595	645		
+679	yo	brent	jan	81	strad					
+680	go	dec	735	strd	offer	575				
+681	brent	jul	80	call	52.3	67.7				
+682	hey	brt	apr	96.9	c		64	81		
+683	wti	feb	86	c	offer	72.5				
+684	brent	may	89	98	putspread	101				
+685	ho	z	3.523	3.834	callspread					
+686	ho	oct	3.94	p						
+687	wti	jul	80.5	86.4	csprd	91.0				
+688	yo	ho	nov	2.551	p	offer	3			
+689	you	want	in	go	u	767	call		551.3	599.2
+690	go	n	770	call						
+691	you	want	in	brt	j	95	113	callspread	offer	109.5
+692	brt	x	92.3	put	78					
+693	wti	jan	76	78	csprd					
+694	brt	jun	95	111	puts	89.1	108.9			
+695	hey	ho	apr	4.049	call					
+696	good	morning	wti	v	82	c				
+697	wti	h	79	83	psprd	offer	89			
+698	hey	ho	oct	3.243	c	1	4			
+699	yo	brent	nov	91	p	60.0				
+700	brt	f	81.1	straddle		53.0				
+701	brt	may	88.0	strad						
+702	whats	up	ho	n	3.90	4.34	callspread		2.0	
+703	whats	up	brt	k	89	98	puts			
+704	good	morning	brent	v	91	102	calls		84.1	
+705	yo	go	sep	784	871	puts		777	834	
+706	whats	up	wti	x	78.1	strd	51			
+707	yo	ho	n	2.28	2.29	csprd	4			
+708	hey	ho	k	2.94	strad					
+709	go	oct	781	864	psprd	830				
+710	you	want	in	wti	f	83.5	93.0	csprd	95	
+711	hey	brent	jan	81.3	call	53.2	68.8			
+712	you	want	in	ho	j	2.544	p		1	
+713	you	want	in	ho	f	2.338	call	offer	3	
+714	whats	up	brent	oct	97	116	puts	111.8		
+715	yo	brt	j	92.3	strd		60.9			
+716	you	want	in	brent	u	80	80	psprd	71	89
+717	yo	ho	oct	3.135	3.330	csprd				
+718	good	morning	wti	k	86	c		56.5	72.5	
+719	brent	k	90.9	102.5	psprd		84.1	103.5		
+720	brt	n	85	91	csprd	95.8				
+721	brent	nov	80.0	80.0	calls					
+722	brent	v	94	110	puts		88	108		
+723	hey	brent	m	83	straddle	54.4	70.1			
+724	yo	brt	n	83.6	p		54.8	70.6		
+725	go	mar	728	put	offer	569				
+726	hey	brent	dec	96.4	c					
+727	hey	go	oct	717	p	514.6				
+728	good	morning	brt	k	96.3	put	80.7			
+729	yo	go	sep	747	794	putspread	731			
+730	wti	f	84	94	puts					
+731	brt	k	80.9	81.8	callspread	offer	90.1			
+732	ho	j	2.55	2.61	putspread	1.0	4.2			
+733	yo	brt	u	84	88	putspread	76			
+734	ho	m	3.25	3.48	callspread	1	5			
+735	ho	q	4.21	call						
+736	hey	ho	oct	5.03	straddle		1.8	5.7		
+737	yo	wti	k	83.9	93.9	csprd				
+738	hey	wti	m	85.4	97.2	callspread	79.0			
+739	good	morning	ho	sep	5.133	6.136	csprd	3.1	7.7	
+740	good	morning	wti	z	77.6	80.3	calls		69	87
+741	whats	up	ho	q	2.85	strad	1			
+742	wti	feb	81	87	csprd	73	92			
+743	brt	g	85.9	91.8	callspread	97				
+744	whats	up	brt	f	92.7	strad		61	78	
+745	hey	brt	may	91	put	offer	77			
+746	ho	f	2.23	2.23	csprd		0.7			
+747	go	h	754	strad		542				
+748	whats	up	wti	nov	78	put		50.9	66.1	
+749	wti	aug	86.4	99.5	psprd	80.2				
+750	ho	f	2.803	2.916	csprd	offer	4.5			
+751	brent	x	80.1	put	52.3					
+752	go	n	771	strd	554	602				
+753	good	morning	brt	n	94.2	110.0	putspread	108		
+754	hey	ho	h	4.728	strd	5.4				
+755	yo	wti	f	84	95	psprd		77		
+756	brt	v	88	put	74					
+757	whats	up	go	v	755	c		542.5		
+758	whats	up	brent	jun	90	c	59			
+759	brt	k	89	98	csprd		82	101		
+760	brent	u	83	call	70.1					
+761	hey	brent	x	86	c	73				
+762	you	want	in	go	k	775	852	putspread	766.1	822.4
+763	brt	k	88	strd						
+764	brt	g	85	strd		56				
+765	you	want	in	brt	mar	89.3	strd	58.8		
+766	go	sep	733	straddle		526				
+767	brent	k	80	c	52					
+768	yo	ho	feb	3.41	3.69	putspread	1.6			
+769	hey	wti	m	85	straddle	71.7				
+770	brent	dec	93.1	strd						
+771	wti	dec	83.3	92.5	putspread	76.3	94.9			
+772	yo	go	q	772	c	offer	603.1			
+773	yo	go	g	831	p	598.3	648.2			
+774	good	morning	brent	jan	95	strad	offer	80		
+775	good	morning	go	dec	740	c				
+776	you	want	in	wti	sep	84	straddle		55.1	
+777	yo	go	jul	743	785	calls				
+778	ho	v	3.032	c						
+779	you	want	in	go	sep	822	955	puts	826	
+780	brent	k	94	strd	78.9					
+781	good	morning	wti	x	79.0	strad				
+782	go	feb	732	strd	525.6	572.4				
+783	brt	x	88	96	puts		81			
+784	whats	up	wti	jan	83	92	calls			
+785	wti	aug	85	strad	56					
+786	ho	v	4.56	5.27	puts	offer	6.9			
+787	brent	jul	86.6	put						
+788	brent	h	91.4	strd	76.8					
+789	go	may	713	strad	512					
+790	good	morning	go	dec	836	straddle		602.0		
+791	hey	ho	dec	2.88	3.01	csprd				
+792	go	feb	836	call	652					
+793	good	morning	wti	g	87	100	csprd			
+794	wti	m	83	92	calls	76	94			
+795	whats	up	go	x	733	766	calls	714	768	
+796	wti	q	85.0	96.4	calls	97.2				
+797	whats	up	brent	mar	81.8	83.5	psprd		73	91
+798	brent	m	89	99	csprd	offer	101			
+799	good	morning	brt	v	83	put	offer	70.1		
+800	ho	apr	5.04	strad	2					
+801	wti	u	75.0	call	63.8					
+802	yo	ho	apr	4.661	5.426	calls	offer	7		
+803	good	morning	brt	j	91.0	102.7	callspread			
+804	you	want	in	brt	dec	86	92	puts	offer	97
+805	you	want	in	ho	aug	4.579	5.306	puts	offer	7
+806	good	morning	brt	v	95	112	callspread			
+807	good	morning	brt	apr	91	straddle				
+808	whats	up	brt	f	87	94	putspread	79.3		
+809	go	q	829	straddle						
+810	hey	ho	jan	5.10	6.08	callspread	3			
+811	wti	f	78	81	psprd	69.9	87.6			
+812	whats	up	ho	x	4.185	strad	5			
+813	yo	wti	feb	87	102	puts	81	100		
+814	good	morning	brt	h	83	86	callspread	75		
+815	good	morning	brt	dec	93	call	78.1			
+816	you	want	in	wti	oct	80.6	86.5	psprd	73	91
+817	go	n	728	put		523	569			
+818	yo	go	sep	701	702	puts	727.7			
+819	yo	ho	aug	4.769	5.586	puts		2.7	7.2	
+820	hey	brt	jan	86.7	strad		57	73		
+821	yo	brent	k	88.6	97.6	putspread	81.3	100.4		
+822	brt	m	90	call		59.3				
+823	brt	feb	90	put		59				
+824	brt	m	88.0	put	57.9	74.1				
+825	wti	sep	82	c	53.7	69.3				
+826	ho	feb	2.502	2.553	psprd	0.9	4.1			
+827	good	morning	brent	aug	96	115	puts			
+828	yo	go	k	713	725	calls	689.2			
+829	you	want	in	go	sep	796	straddle		573	
+830	go	x	808	strad	581	631				
+831	brt	jul	94.8	put		63	80			
+832	good	morning	ho	z	3.857	4.283	callspread	offer	6	
+833	yo	brt	sep	86.4	92.9	psprd	79	97		
+834	wti	n	79	c		52				
+835	good	morning	ho	dec	2.996	put	1			
+836	brt	q	82	84	callspread		73	92		
+837	whats	up	wti	f	82	call	69.3			
+838	you	want	in	brent	dec	87.9	strad	57.8	74.0	
+839	brt	sep	92	106	calls	86				
+840	whats	up	ho	aug	2.382	2.411	csprd		0.8	
+841	yo	brt	g	94	call					
+842	hey	brent	k	92.4	put		61	78		
+843	hey	wti	oct	77	80	puts	87			
+844	yo	brent	may	82.6	85.1	calls	92.3			
+845	hey	brt	k	84.0	87.9	putspread	75.8			
+846	you	want	in	go	apr	704	708	putspread	732	
+847	brt	aug	84	87	callspread	76	94			
+848	yo	brent	h	96	straddle					
+849	brt	v	92	106	calls					
+850	brent	jun	82	straddle						
+851	you	want	in	brt	jul	81	c	offer	69	
+852	brt	jun	94.6	110.9	puts					
+853	you	want	in	brt	u	93.2	107.7	callspread		
+854	good	morning	ho	g	3.90	4.35	puts	6		
+855	brent	g	82	call	54	69				
+856	hey	brt	n	87.0	call	73.3				
+857	go	nov	773	c	556	604				
+858	go	n	837	990	csprd	904.8				
+859	ho	v	4.577	5.302	callspread	3	7			
+860	brt	apr	94	strad	62					
+861	whats	up	ho	aug	3.738	4.122	putspread			
+862	brt	f	81.2	straddle	53.1					
+863	hey	go	mar	719	737	csprd				
+864	good	morning	brent	h	94	strad	62.1	78.9		
+865	you	want	in	brent	apr	96	114	putspread		
+866	whats	up	go	m	805	917	csprd	804.1	861.9	
+867	ho	f	3.558	strd						
+868	yo	go	v	738	strad	530	577			
+869	hey	wti	x	75.0	75.0	csprd	66	84		
+870	whats	up	ho	q	2.83	c	offer	3.6		
+871	good	morning	brent	q	81.5	83.0	putspread	72.8		
+872	hey	brt	z	85	91	csprd				
+873	brt	k	95.0	p	62.8	79.7				
+874	whats	up	ho	u	3.17	3.37	putspread			
+875	hey	wti	q	86.4	c	56.8				
+876	hey	wti	g	77.1	p	offer	65.4			
+877	ho	oct	2.56	2.62	psprd	1.0	4.2			
+878	hey	brt	jun	82.2	c		53.8			
+879	you	want	in	brent	dec	84.1	p	offer	71	
+880	yo	brt	nov	91	strad	60.0	76.5			
+881	you	want	in	brt	v	81.3	82.6	callspread	91	
+882	whats	up	brent	feb	85.2	strad	55.9	71.9		
+883	good	morning	brt	f	91	call	77			
+884	brt	jun	97	c		64.2	81.3			
+885	brent	may	85.1	90.3	psprd					
+886	good	morning	wti	x	88	c		57.9	74.1	
+887	yo	wti	m	83	92	calls	76			
+888	good	morning	go	mar	711	p	510	556		
+889	ho	n	2.636	strd	offer	3				
+890	yo	go	u	770	842	puts				
+891	hey	ho	n	3.09	c					
+892	yo	brt	n	83.0	call					
+893	wti	m	85.1	call						
+894	wti	f	83.2	strad	offer	70.3				
+895	brt	m	91.1	put						
+896	good	morning	brt	sep	82.0	strd	53.7			
+897	hey	brt	may	84	88	psprd	75.8			
+898	you	want	in	wti	j	77.3	79.6	csprd		69.1
+899	whats	up	wti	mar	77.7	80.4	calls			
+900	go	g	831	strad	offer	648.2				
+901	brent	jan	86	92	callspread					
+902	ho	aug	3.486	3.785	csprd					
+903	you	want	in	brent	z	89	99	psprd	101	
+904	whats	up	brent	jan	82	c		53.7		
+905	hey	ho	g	3.03	3.20	calls	1	5		
+906	ho	k	3.31	3.55	callspread		2			
+907	whats	up	wti	m	85	straddle	offer	72		
+908	you	want	in	wti	v	85.4	strd		56	72
+909	good	morning	go	z	715	c	513	559		
+910	hey	brt	f	86.5	p					
+911	good	morning	wti	aug	89.9	p		59		
+912	ho	may	4.10	4.62	puts		2	6		
+913	yo	wti	g	79.0	c	52	67			
+914	whats	up	ho	sep	4.56	p	2	5		
+915	you	want	in	brent	jun	95.7	113.3	csprd	90.1	110.1
+916	wti	n	85	strd		55.8				
+917	good	morning	brent	jul	81	straddle				
+918	whats	up	brent	nov	94.0	c				
+919	whats	up	wti	mar	79	strad	offer	66.9		
+920	whats	up	go	oct	739	call	531	578		
+921	good	morning	ho	oct	2.310	c				
+922	good	morning	brt	z	91.3	strd				
+923	go	m	777	p	606.9					
+924	go	j	726	752	csprd					
+925	hey	brent	may	96.1	114.2	puts	110.7			
+926	you	want	in	go	j	805	917	psprd		
+927	whats	up	brt	dec	84.6	c	55.5	71.4		
+928	brt	jul	95.8	c	offer	80.3				
+929	good	morning	brent	q	83	call	54	70		
+930	ho	q	2.984	put						
+931	good	morning	go	nov	718	735	psprd			
+932	wti	x	86	call	56.5					
+933	hey	go	h	777	857	psprd				
+934	brt	g	80.4	c	53	68				
+935	wti	x	78.2	strd	51.0	66.3				
+936	you	want	in	brent	feb	81	put			
+937	yo	brt	h	89	p	75				
+938	whats	up	ho	f	2.22	2.22	callspread		1	
+939	brent	aug	96	p	63.5	80.5				
+940	good	morning	go	aug	713	725	puts	689.2	742.8	
+941	brt	apr	81	82	callspread	72.2				
+942	you	want	in	ho	v	4.998	5.931	callspread		2.9
+943	brt	x	82	strd	69.3					
+944	yo	ho	j	5.07	strad	2				
+945	brent	q	90	101	psprd		83.1			
+946	you	want	in	wti	f	78.7	strd			
+947	hey	brent	z	83	put					
+948	ho	j	2.69	2.77	puts	1	4			
+949	yo	brent	f	85.9	strad		56			
+950	brt	m	81.4	82.7	callspread	91				
+951	ho	g	2.61	strd	1	3				
+952	ho	mar	3.270	strad	1					
+953	brent	j	90	101	psprd		83.1			
+954	you	want	in	ho	mar	3.193	straddle		0.8	
+955	whats	up	brt	nov	84	87	puts			
+956	wti	dec	79	83	callspread	71.1	88.9			
+957	good	morning	brent	x	84.2	c		55.2	71.1	
+958	ho	g	4.544	put	1.6					
+959	whats	up	brent	sep	87	94	callspread	79.3		
+960	yo	brt	jun	88.3	p					
+961	whats	up	ho	oct	3.17	put	0.8			
+962	ho	k	2.941	3.086	putspread		1			
+963	yo	go	n	709	put	554.8				
+964	hey	brt	f	96	p	80				
+965	yo	brent	g	94.9	111.5	csprd	89.1			
+966	good	morning	brt	j	87.4	strad	offer	73.6		
+967	whats	up	brt	v	87	strad				
+968	whats	up	brt	aug	88.9	98.2	puts			
+969	go	k	721	straddle	offer	564				
+970	hey	ho	aug	3.53	3.85	callspread		2	6	
+971	whats	up	brt	aug	93	strad	78			
+972	whats	up	brent	m	92.4	105.8	putspread		86	106
+973	wti	apr	81.8	c	54	69				
+974	yo	brt	m	82.9	strad					
+975	good	morning	go	x	767	strd	551	599		
+976	brt	x	85.4	strad	72					
+977	hey	brent	mar	97	c		64	81		
+978	good	morning	ho	jun	5.113	straddle	2	6		
+979	wti	oct	77	79	putspread		69	86		
+980	good	morning	go	may	730	p		524		
+981	whats	up	go	h	729	straddle				
+982	you	want	in	brt	z	81.8	83.6	callspread		73
+983	yo	brt	dec	88.8	98.0	puts	82			
+984	brt	dec	91.8	104.6	psprd	offer	104.7			
+985	brent	jun	83	p	54.4					
+986	yo	wti	g	82.9	strad	70				
+987	you	want	in	brent	mar	94.4	c			
+988	hey	wti	z	75	75	puts				
+989	good	morning	wti	feb	81	c	offer	68.5		
+990	whats	up	go	apr	836	988	puts		844.4	
+991	good	morning	ho	n	3.37	3.63	puts	1.6	5.3	
+992	go	h	847	straddle	610.0					
+993	good	morning	go	aug	805	strd		579	628	
+994	wti	v	81.4	straddle	53.2					
+995	whats	up	ho	mar	3.52	3.83	putspread	5.5		
+996	whats	up	go	f	742	783	putspread		724.8	779.7
+997	hey	go	q	751	put	587.0				
+998	you	want	in	wti	z	79.9	85.2	callspread	72.2	90.2
+999	good	morning	wti	nov	78.5	82.1	psprd			
+1000	brt	q	86	92	psprd					
+1001	whats	up	brt	may	90.3	p	76			
+1002	hey	brt	h	84	87	callspread				
+1003	whats	up	ho	oct	3.682	4.046	callspread			
+1004	good	morning	brt	sep	81.7	p	53.4			
+1005	brent	q	89	straddle	58.6					
+1006	good	morning	brt	g	91.6	c	60.4			
+1007	wti	g	82.9	91.7	puts	offer	94.3			
+1008	good	morning	brent	jun	90.2	100.9	putspread		83.2	102.5
+1009	you	want	in	go	v	829	p	596.8		
+1010	whats	up	brt	m	91	p	60.0	76.5		
+1011	good	morning	go	may	762	p				
+1012	whats	up	brt	q	82.7	strad	54.1			
+1013	ho	jul	3.949	4.410	callspread	2.0				
+1014	hey	brt	n	80.7	81.4	csprd	offer	89.9		
+1015	wti	h	82	91	puts	75.1				
+1016	yo	go	aug	754	c	542				
+1017	brt	feb	86	93	callspread		78.4			
+1018	hey	brent	u	94	110	puts				
+1019	whats	up	ho	feb	4.95	5.86	calls	3		
+1020	yo	brent	apr	96	115	csprd	90.7	110.8		
+1021	you	want	in	ho	v	4.450	5.118	psprd	offer	6.8
+1022	brt	n	89	strd	offer	75				
+1023	go	jan	757	815	puts		744	799		
+1024	you	want	in	ho	jul	3.490	call	1	4	
+1025	good	morning	ho	jan	4.049	4.548	callspread			
+1026	good	morning	brent	z	96.1	p		64		
+1027	good	morning	wti	jan	78	82	puts	88		
+1028	good	morning	go	jul	807	put		581		
+1029	yo	brt	dec	83.3	straddle		54.6			
+1030	brent	sep	88.2	straddle		58.0				
+1031	ho	sep	4.11	straddle						
+1032	hey	ho	mar	2.32	strad		0			
+1033	ho	apr	4.174	put						
+1034	good	morning	ho	n	4.513	strad	1.5	5.2		
+1035	whats	up	ho	g	3.768	put		1		
+1036	brt	feb	90	strad		59	76			
+1037	you	want	in	brent	nov	92	p			
+1038	good	morning	ho	j	5.060	strad	1.8			
+1039	hey	go	may	728	755	callspread	offer	761.9		
+1040	ho	oct	5.197	6.236	puts	3.1	7.8			
+1041	whats	up	ho	f	5.131	6.134	csprd	3.1		
+1042	ho	feb	4.345	strad	1	5				
+1043	you	want	in	brent	m	91.0	strad	77		
+1044	you	want	in	ho	u	2.215	strad	0.4	3.0	
+1045	good	morning	ho	j	3.888	put		1	5	
+1046	whats	up	brent	z	88.6	97.6	psprd	100.4		
+1047	yo	brt	aug	96.5	115.3	callspread	91.1			
+1048	go	g	816	call	587					
+1049	brent	sep	96.3	114.8	csprd		90.9	111.0		
+1050	wti	u	75	put	48.8	63.8				
+1051	ho	q	4.05	4.55	putspread	2	6			
+1052	hey	wti	u	79.5	84.2	calls		71.7	89.7	
+1053	you	want	in	brt	g	84	87	calls	76	
+1054	go	apr	804	916	calls	860.8				
+1055	hey	go	u	809	straddle	631				
+1056	yo	brent	k	88.5	97.3	psprd	81.2	100.2		
+1057	brent	m	89	98	csprd	101				
+1058	you	want	in	brt	n	82.2	84.4	puts		
+1059	yo	brent	x	87.4	straddle	57				
+1060	you	want	in	brt	x	85.2	c	72		
+1061	yo	brt	apr	91.3	103.4	putspread				
+1062	brt	jun	91.7	call	77.1					
+1063	good	morning	wti	jun	89.0	strad				
+1064	brt	k	93.4	call	62	78				
+1065	brt	j	86	92	puts		78	97		
+1066	whats	up	wti	v	81	88	psprd	offer	91.8	
+1067	good	morning	brt	h	81	strad				
+1068	you	want	in	ho	g	2.64	2.72	csprd		1
+1069	wti	dec	78.6	p	51.3	66.6				
+1070	whats	up	go	jun	707	713	psprd		681.9	
+1071	yo	brent	dec	86.4	p					
+1072	you	want	in	ho	f	4.277	4.869	callspread		2.3
+1073	ho	apr	4.280	strd						
+1074	brt	n	80.9	straddle						
+1075	brent	aug	85	91	csprd					
+1076	yo	brt	apr	94.9	111.5	psprd				
+1077	you	want	in	go	nov	803	strad			
+1078	go	k	708	715	puts	683.1	736.4			
+1079	yo	brent	n	90	100	putspread		82.9	102.1	
+1080	good	morning	go	apr	709	718	callspread	684.6		
+1081	wti	jun	85.3	put		56.0				
+1082	good	morning	brent	mar	84	88	callspread			
+1083	good	morning	brent	x	88.5	strd	74.5			
+1084	yo	brt	dec	95	call		62.8	79.7		
+1085	yo	go	mar	707	put					
+1086	hey	brent	apr	95.1	strd		63			
+1087	brt	jan	95.8	113.7	putspread	90.3	110.3			
+1088	ho	jun	4.340	call	5					
+1089	brt	apr	95	111	puts					
+1090	yo	brent	g	87.5	95.3	putspread	98.9			
+1091	go	jan	812	934	csprd	872				
+1092	good	morning	brt	z	93.8	108.9	csprd		88	
+1093	yo	ho	h	3.634	strad	4				
+1094	good	morning	wti	jul	81	p				
+1095	hey	ho	q	2.96	put		0.7			
+1096	good	morning	go	z	726	752	callspread	offer	760	
+1097	whats	up	wti	nov	88.0	c	74			
+1098	hey	brent	g	83	c	54.4				
+1099	brt	g	86.3	put						
+1100	whats	up	brt	jun	87.3	94.9	callspread		79.8	
+1101	you	want	in	brent	sep	91	call	77		
+1102	yo	wti	oct	82.6	call	70				
+1103	good	morning	go	g	791	888	psprd			
+1104	wti	may	77.4	79.8	csprd					
+1105	hey	ho	j	2.814	2.929	puts		1.2	4.5	
+1106	hey	wti	jan	88	p	57.9	74.1			
+1107	go	k	727	752	calls					
+1108	ho	h	3.98	4.45	putspread					
+1109	brt	k	90.2	101.0	callspread	83.3	102.5			
+1110	yo	brt	n	94.3	110.3	csprd	88.4			
+1111	ho	aug	4.15	4.69	calls	offer	6			
+1112	yo	go	jul	714	727	calls				
+1113	whats	up	brt	f	93.3	107.9	csprd	87		
+1114	ho	n	4.17	4.72	puts		2.2			
+1115	brent	u	93	107	puts	86.7	106.3			
+1116	ho	may	2.869	c	4					
+1117	good	morning	wti	jun	86.3	99.3	calls			
+1118	go	aug	777	856	csprd	768.5				
+1119	go	apr	701	straddle		502.8	548.7			
+1120	brt	jan	92.1	call		61				
+1121	hey	wti	apr	87.0	100.9	calls	100.0			
+1122	ho	j	3.710	straddle		1.1				
+1123	brent	k	89	98	psprd	81.7				
+1124	you	want	in	ho	j	4.201	strad	1.4	4.9	
+1125	ho	oct	3.337	3.590	puts					
+1126	whats	up	brt	g	96.3	114.8	calls	111		
+1127	yo	brt	mar	85.4	p					
+1128	hey	brent	v	90	101	putspread				
+1129	ho	k	2.56	straddle		0.5				
+1130	hey	brent	sep	84	p	55	71			
+1131	go	jul	788	881	putspread	782.8	839.7			
+1132	go	jul	721	c	517	564				
+1133	you	want	in	wti	oct	87.8	102.7	putspread	82.0	
+1134	go	oct	795	call	621					
+1135	brent	dec	89.8	100.2	puts	102				
+1136	good	morning	brent	oct	83.8	87.6	puts		75.5	94.0
+1137	hey	wti	jul	85.9	98.4	psprd		79.6	98.5	
+1138	brent	sep	87.6	strd		57.6				
+1139	yo	go	dec	811	930	calls				
+1140	brt	feb	91	put	60.0	76.5				
+1141	brt	jun	85.9	put	56	72				
+1142	hey	wti	u	76.9	strad					
+1143	yo	ho	f	3.04	call	offer	3.8			
+1144	you	want	in	brt	n	93	c	61.4	78.1	
+1145	good	morning	go	g	804	915	calls	802.9		
+1146	hey	brent	k	87	strd	73.3				
+1147	whats	up	go	jul	813	strad				
+1148	ho	f	3.24	3.46	callspread					
+1149	whats	up	wti	u	83.6	straddle	70.6			
+1150	good	morning	wti	may	89.9	107.7	callspread		84.6	104.1
+1151	brent	apr	91.9	104.7	calls		85.3			
+1152	brent	k	84.4	88.7	calls	95				
+1153	whats	up	wti	x	89	106	callspread	83.6	102.9	
+1154	brent	h	84	87	csprd		76			
+1155	yo	ho	z	3.47	3.77	putspread		1.7		
+1156	whats	up	go	nov	773	call		555.7	603.8	
+1157	go	feb	718	call	515.3	561.7				
+1158	brent	jun	88	c	74					
+1159	ho	may	5.17	6.19	callspread					
+1160	good	morning	brent	dec	88.2	96.7	puts	offer	100	
+1161	ho	z	5.011	straddle						
+1162	ho	f	4.68	p	5					
+1163	wti	feb	90.0	c	59	76				
+1164	yo	brent	h	93.0	call	61	78			
+1165	wti	may	88.7	straddle						
+1166	go	g	756	812	calls	798				
+1167	whats	up	go	jun	740	780	callspread			
+1168	yo	ho	m	3.756	4.145	callspread		1.9		
+1169	you	want	in	brt	aug	86.3	92.6	callspread		
+1170	wti	g	81	87	csprd	73.4				
+1171	brent	oct	80.4	80.8	putspread	offer	89			
+1172	whats	up	brt	nov	93	strd	61			
+1173	yo	brt	v	88	strad	74				
+1174	brent	aug	86.0	p	56.5					
+1175	brt	apr	84.5	strd	offer	71				
+1176	brt	jun	85	90	putspread	95.5				
+1177	good	morning	wti	may	82	c		54	69	
+1178	whats	up	wti	aug	88.4	104.3	csprd	83		
+1179	go	j	707	strad		507				
+1180	yo	ho	z	4.49	5.18	psprd	2.5	6.8		
+1181	hey	ho	m	2.364	call					
+1182	you	want	in	brent	u	83.4	p			
+1183	brt	sep	94.3	110.2	putspread	88				
+1184	brt	aug	93.3	straddle	62					
+1185	ho	dec	3.07	p	1	4				
+1186	good	morning	wti	jul	79.4	c		52		
+1187	whats	up	brt	aug	82	84	calls	91.6		
+1188	good	morning	wti	sep	80	straddle		52		
+1189	hey	ho	u	3.955	call		1.2			
+1190	brt	k	82.7	strad	offer	70				
+1191	yo	wti	aug	86.2	99.1	calls	80	99		
+1192	you	want	in	go	feb	799	put		574.8	623.7
+1193	ho	may	3.351	3.608	callspread		1.6			
+1194	good	morning	brt	jun	90	strd		59.3	75.7	
+1195	wti	j	84.5	c	55					
+1196	brent	f	96.9	call						
+1197	whats	up	ho	h	3.94	4.40	psprd	6		
+1198	brent	jul	90	100	puts		83			
+1199	ho	jul	3.19	p						
+1200	good	morning	go	x	798	strd	offer	623		
+1201	yo	wti	oct	90	strad					
+1202	wti	jan	87.1	straddle		57				
+1203	hey	wti	q	78	82	callspread	88			
+1204	wti	dec	84.5	straddle	55	71				
+1205	go	v	737	774	putspread	719	774			
+1206	ho	g	3.56	3.89	callspread	6				
+1207	whats	up	go	dec	749	strd	585			
+1208	whats	up	ho	nov	2.24	2.25	callspread		1	
+1209	whats	up	wti	aug	81.7	straddle		53	69	
+1210	go	dec	748	796	puts	732.4	787.6			
+1211	you	want	in	go	feb	766	833	callspread	offer	811
+1212	brt	apr	84.7	89.4	psprd					
+1213	whats	up	brt	oct	95	112	calls	offer	109	
+1214	good	morning	brt	j	81.6	straddle	53			
+1215	ho	may	2.720	c	1	3				
+1216	go	m	722	p		518.2	564.8			
+1217	brent	k	87	call	57					
+1218	wti	sep	83.1	p	54.4					
+1219	good	morning	brt	oct	85.2	straddle	56	72		
+1220	yo	go	g	803	c	627				
+1221	brent	x	91	c	offer	77				
+1222	whats	up	brt	f	95	112	putspread	89	109	
+1223	yo	brent	nov	87	94	psprd				
+1224	whats	up	brent	n	92.7	p	offer	78		
+1225	hey	go	n	735	770	puts				
+1226	yo	ho	jul	3.032	3.200	calls	1.3			
+1227	ho	u	2.992	3.150	csprd		1.3			
+1228	ho	g	4.469	5.144	puts					
+1229	you	want	in	brent	v	92	105	callspread	85.5	
+1230	yo	brent	dec	84	straddle					
+1231	brent	x	96.1	114.2	calls	90.6	110.7			
+1232	you	want	in	go	sep	735	c	528	575	
+1233	you	want	in	ho	jun	3.869	4.300	puts		2.0
+1234	good	morning	wti	jan	82	90	calls	93.2		
+1235	brent	jun	83.2	86.3	csprd	offer	93.1			
+1236	yo	brt	may	84	c		55			
+1237	you	want	in	brt	aug	92.8	straddle		61	78
+1238	you	want	in	go	sep	715	730	csprd	692	746
+1239	whats	up	ho	k	3.17	strad				
+1240	whats	up	wti	n	89	strad				
+1241	go	feb	832	strad	offer	649				
+1242	yo	brt	u	85	p	offer	71.7			
+1243	you	want	in	ho	jan	2.840	2.961	psprd	1	5
+1244	you	want	in	wti	mar	85.3	c	56.0		
+1245	go	m	842	1001	csprd	nan				
+1246	ho	jul	2.88	3.01	puts					
+1247	yo	wti	n	87.1	strad					
+1248	yo	brt	u	97	straddle					
+1249	ho	nov	5.08	put		2				
+1250	yo	brent	q	82.3	84.6	psprd	offer	92		
+1251	hey	brent	u	92	strad					
+1252	brent	f	89.3	99.1	putspread	101.3				
+1253	yo	wti	nov	90	108	puts	84.8	104.2		
+1254	good	morning	wti	mar	75.8	76.5	callspread			
+1255	wti	dec	88	p	57.9	74.1				
+1256	yo	ho	j	2.332	2.353	callspread	1			
+1257	brt	jun	83	straddle	54					
+1258	yo	wti	apr	77.0	call	offer	65.3			
+1259	yo	ho	may	2.841	straddle	3.6				
+1260	you	want	in	go	z	740	p	531.4		
+1261	wti	n	77.1	p	50					
+1262	brent	dec	87	93	putspread					
+1263	yo	brt	apr	83.5	put	70.5				
+1264	whats	up	ho	feb	2.36	2.38	csprd		1	
+1265	good	morning	brent	q	95.3	112.4	psprd			
+1266	yo	ho	feb	4.145	4.682	putspread		2	6	
+1267	whats	up	wti	f	75	75	calls	84		
+1268	go	q	813	935	callspread	814.5				
+1269	go	oct	733	766	putspread		714	768		
+1270	whats	up	wti	x	82	straddle				
+1271	go	apr	700	strd	502.1	547.9				
+1272	go	z	753	807	csprd		739			
+1273	yo	brt	dec	97	115	calls	91.4	111.6		
+1274	hey	wti	aug	84.9	96.1	callspread				
+1275	whats	up	wti	x	90	put	offer	75.7		
+1276	wti	m	85	c	56					
+1277	hey	ho	n	3.71	4.08	putspread	2			
+1278	wti	apr	77.2	79.5	calls	offer	87			
+1279	hey	go	jun	742	call		532.9	580.1		
+1280	wti	oct	76	78	puts		68	85		
+1281	whats	up	brent	jan	94.6	strad	offer	79.4		
+1282	brent	x	91	strd	60.0					
+1283	yo	go	u	791	887	putspread				
+1284	whats	up	ho	z	4.197	strd	1	5		
+1285	good	morning	wti	nov	76.7	78.5	puts		68.4	
+1286	ho	x	3.19	call		1				
+1287	yo	brt	v	82	83	putspread		73	91	
+1288	hey	go	sep	800	strd		576	624		
+1289	wti	x	88.9	c	75					
+1290	good	morning	wti	z	77.0	79.1	callspread	86		
+1291	brt	jan	83.8	87.6	puts		76			
+1292	ho	jun	4.93	c						
+1293	whats	up	wti	oct	85	strd	offer	71.7		
+1294	go	f	846	1011	calls	offer	nan			
+1295	wti	q	87	strad	57.2	73.3				
+1296	you	want	in	ho	n	4.62	5.37	putspread	2.6	
+1297	hey	wti	g	79	strd					
+1298	brt	dec	95.3	put	63					
+1299	yo	brt	dec	96	113	csprd		90	110	
+1300	yo	wti	jan	89	straddle	74.9				
+1301	wti	feb	89	strad						
+1302	ho	g	2.832	call		0.7	3.6			
+1303	wti	jun	84	94	calls	95.8				
+1304	go	z	782	straddle	562.3					
+1305	whats	up	brt	nov	85	strad	55.8	71.7		
+1306	whats	up	ho	h	3.903	4.346	callspread		2.0	
+1307	whats	up	brt	n	88.4	p				
+1308	wti	apr	77	79	callspread					
+1309	hey	brt	f	83	85	calls	74	93		
+1310	good	morning	brent	jan	82.3	strad	53.9	69.6		
+1311	good	morning	ho	mar	4.902	c	1.8			
+1312	good	morning	brent	m	85.4	90.7	csprd			
+1313	hey	wti	u	76	strad		49			
+1314	ho	v	4.473	p	1.5					
+1315	yo	brent	v	87.3	94.7	psprd	99			
+1316	good	morning	ho	z	4.659	strad	1.6	5.4		
+1317	ho	nov	3.095	3.280	psprd					
+1318	ho	jul	4.618	strd	5					
+1319	good	morning	ho	jan	4.302	strad	1.4			
+1320	ho	jan	2.459	call	0.5					
+1321	brt	j	82	call	54	69				
+1322	hey	wti	jan	81	88	callspread	92			
+1323	ho	apr	2.81	2.92	psprd					
+1324	yo	brt	v	86.8	93.7	calls	98			
+1325	brent	mar	87	94	psprd	98.2				
+1326	yo	brent	jun	86.2	c	offer	73			
+1327	yo	go	z	753	806	calls				
+1328	wti	v	77	straddle	65.3					
+1329	yo	wti	f	88	call	57.9	74.1			
+1330	ho	k	3.26	call						
+1331	brt	nov	96.8	straddle		64				
+1332	yo	brent	feb	84.4	strd	55				
+1333	brt	may	84	88	puts	94.2				
+1334	brt	nov	80.1	80.2	puts					
+1335	ho	nov	2.71	2.80	csprd	offer	4.4			
+1336	yo	go	m	841	999	psprd				
+1337	wti	jan	80	84	callspread	72.0	90.0			
+1338	ho	nov	4.30	c						
+1339	yo	brt	dec	89.4	strd	59	75			
+1340	hey	ho	f	3.28	3.52	puts	1.5	5.2		
+1341	brt	mar	85.9	91.9	putspread	78.1	96.7			
+1342	whats	up	brt	n	81.2	put		53	69	
+1343	whats	up	wti	g	80	85	puts	90		
+1344	wti	h	78	81	callspread		70			
+1345	whats	up	brt	dec	90.6	102.0	callspread	103		
+1346	brent	k	92	p	60.7					
+1347	brt	h	85	c	56	72				
+1348	yo	wti	z	85	p		56			
+1349	hey	brt	u	85.7	straddle	56.3				
+1350	brent	g	93.6	108.6	putspread					
+1351	good	morning	go	jun	728	strd	569			
+1352	you	want	in	wti	apr	89	106	calls		
+1353	ho	dec	2.519	2.572	putspread	4				
+1354	brt	nov	81	p						
+1355	you	want	in	go	mar	729	758	callspread	709	763
+1356	wti	x	81.0	p	53	69				
+1357	whats	up	brent	k	80.1	call		52		
+1358	brent	q	83.1	straddle	54.4	70.2				
+1359	go	f	781	866	puts					
+1360	wti	jan	81.2	87.8	calls	92				
+1361	you	want	in	wti	may	75.1	call	63.8		
+1362	good	morning	brt	n	83.6	87.2	calls		75	94
+1363	hey	wti	j	77	strad	50.2				
+1364	brt	j	91	strd	60	77				
+1365	yo	wti	h	75	75	csprd	66	84		
+1366	go	v	806	strad	579.9	629.1				
+1367	you	want	in	brent	dec	84	88	putspread	76	94
+1368	ho	g	2.81	p						
+1369	yo	wti	jul	87	101	putspread	81.0	100.0		
+1370	good	morning	ho	u	3.694	put	1.1			
+1371	brt	oct	84	87	psprd	94				
+1372	yo	brt	feb	85	strad	55.8	71.7			
+1373	you	want	in	ho	apr	4.62	p			
+1374	whats	up	go	dec	789	call				
+1375	whats	up	ho	v	3.971	4.440	psprd		2	
+1376	brent	x	86.7	93.6	callspread	98				
+1377	yo	ho	n	3.95	call	offer	5			
+1378	yo	brent	j	89.6	99.6	csprd	102			
+1379	hey	go	m	727	c	569				
+1380	whats	up	brt	nov	83.4	strad				
+1381	brt	apr	83	c	70					
+1382	hey	go	dec	769	p	552.7				
+1383	you	want	in	go	n	797	p	622.2		
+1384	brent	aug	89	98	csprd		82			
+1385	good	morning	brent	j	82.5	put	69.7			
+1386	brent	jul	84	89	callspread	76.0				
+1387	whats	up	brent	x	92	straddle		60.7		
+1388	yo	ho	feb	5.161	c					
+1389	yo	ho	jun	4.570	5.292	putspread	3	7		
+1390	yo	wti	jan	90	call	59				
+1391	good	morning	go	x	765	832	calls		754	
+1392	you	want	in	brt	j	89.7	99.9	psprd	offer	101.9
+1393	yo	go	m	769	put	offer	601			
+1394	hey	ho	f	2.22	strd		0.4	3.0		
+1395	you	want	in	ho	jul	3.59	strd	1		
+1396	you	want	in	brt	jun	87.2	put	57		
+1397	good	morning	go	may	800	p				
+1398	you	want	in	wti	q	82.4	strd			
+1399	you	want	in	brent	aug	84.2	88.3	callspread	76	94
+1400	good	morning	brt	v	85.7	91.3	calls	78		
+1401	ho	jul	2.36	strad	0.4					
+1402	hey	brt	jan	94.0	p	62				
+1403	ho	k	2.597	2.666	callspread	1				
+1404	brt	jun	83	86	callspread	74.6				
+1405	hey	wti	aug	81	c	53	69			
+1406	hey	wti	v	84	strad	55.1				
+1407	ho	nov	2.37	call	0.4					
+1408	hey	brent	q	80	strad		52.3	67.7		
+1409	yo	brent	jun	84	strad	55.1				
+1410	hey	go	k	787	c	614.5				
+1411	go	sep	822	strd	592					
+1412	whats	up	brt	q	87.4	95.0	putspread	79.9	98.7	
+1413	whats	up	ho	x	4.673	5.444	puts	offer	7.1	
+1414	yo	wti	v	77.8	call	51				
+1415	yo	go	m	778	straddle	607.7				
+1416	good	morning	ho	feb	2.842	2.964	calls		1.2	
+1417	you	want	in	ho	may	2.378	2.407	putspread		1
+1418	whats	up	brent	mar	88	p	58			
+1419	brent	nov	96.5	115.3	calls		91.1	111.3		
+1420	wti	u	76.1	call						
+1421	good	morning	wti	aug	89	106	csprd	84		
+1422	good	morning	ho	k	2.896	3.030	callspread	1	5	
+1423	brt	mar	90	put	76					
+1424	you	want	in	ho	dec	3.81	4.21	putspread	1.9	5.9
+1425	good	morning	go	z	756	put		543	591	
+1426	whats	up	brt	n	96	113	putspread		90	
+1427	good	morning	go	m	843	1004	putspread		nan	nan
+1428	yo	brt	z	96	straddle	63.5	80.5			
+1429	you	want	in	ho	jul	5.020	5.963	calls	7.5	
+1430	you	want	in	wti	k	85	97	puts	97	
+1431	good	morning	wti	g	80	strd				
+1432	wti	n	88	104	callspread					
+1433	good	morning	brent	dec	83.1	put				
+1434	whats	up	ho	jan	3.01	3.17	callspread	1		
+1435	hey	brent	j	82.1	put					
+1436	good	morning	brent	sep	83.0	c	54	70		
+1437	hey	wti	mar	86.1	98.8	calls		79.8		
+1438	go	j	776	p	558					
+1439	whats	up	brt	apr	83	strd	70			
+1440	wti	n	82	90	calls		74.8	93.2		
+1441	good	morning	wti	z	80	p				
+1442	whats	up	go	jan	761	824	putspread			
+1443	you	want	in	wti	jul	81.1	87.8	putspread		
+1444	go	h	821	953	csprd		825	883		
+1445	whats	up	brent	k	91.9	p	61			
+1446	you	want	in	brent	nov	87.9	strad		58	
+1447	hey	go	f	726	strad					
+1448	ho	feb	2.228	p	0					
+1449	whats	up	go	jun	752	804	psprd			
+1450	ho	u	3.066	c	1					
+1451	yo	wti	jan	87.7	102.5	puts		81.8		
+1452	ho	apr	4.050	strad	1	5				
+1453	brt	h	96	put	offer	80				
+1454	whats	up	wti	jun	86.1	98.8	putspread	79.8	98.7	
+1455	hey	wti	jun	89	call	74.9				
+1456	whats	up	go	may	845	strd		609		
+1457	ho	apr	3.522	3.832	putspread		2			
+1458	brt	sep	94.1	109.8	csprd					
+1459	you	want	in	wti	jul	84	93	csprd		
+1460	you	want	in	brt	aug	82	85	csprd		
+1461	ho	q	3.58	3.90	calls	6				
+1462	yo	brent	z	92	p		60.7			
+1463	brent	h	94	109	putspread	offer	107.6			
+1464	you	want	in	go	m	714	p			
+1465	hey	go	sep	756	812	puts		742.3		
+1466	wti	z	89.9	strad	75.6					
+1467	brent	aug	89.1	p						
+1468	good	morning	brt	sep	93.3	108.0	putspread	106.8		
+1469	hey	go	sep	823	958	putspread		827.5		
+1470	good	morning	brt	q	86.1	92.2	csprd			
+1471	go	u	764	c						
+1472	you	want	in	go	m	702	strad	offer	549	
+1473	yo	ho	jul	3.986	strd		1.3	4.7		
+1474	good	morning	ho	q	4.461	5.133	csprd	2	7	
+1475	whats	up	brt	nov	85	89	psprd			
+1476	yo	brent	h	88.1	straddle	58	74			
+1477	ho	apr	3.739	4.122	puts	2				
+1478	whats	up	brt	h	91	strad	77			
+1479	wti	x	77.2	put	50	66				
+1480	brent	h	96.1	strad	64					
+1481	wti	j	84	strad						
+1482	hey	brt	dec	81	p	53				
+1483	ho	oct	4.453	strd	2					
+1484	good	morning	brent	j	83	put	54.4	70.1		
+1485	ho	j	4.692	5.471	psprd	offer	7			
+1486	hey	brent	z	88.4	put	58				
+1487	you	want	in	wti	jul	80.1	85.6	calls	72.4	90.5
+1488	good	morning	go	apr	785	straddle		564	613	
+1489	whats	up	ho	h	2.39	2.42	calls		0.8	3.9
+1490	hey	brt	may	90.5	call	76.1				
+1491	ho	u	3.256	3.485	calls	1.5	5.1			
+1492	hey	go	oct	818	946	puts		821	879	
+1493	whats	up	ho	may	2.521	c		1		
+1494	brent	feb	91	strd		60				
+1495	hey	brent	sep	92.5	put	offer	77.7			
+1496	yo	brt	q	89	straddle		58.6	74.9		
+1497	brt	nov	93	strad	61					
+1498	hey	brent	nov	91	straddle	60.0				
+1499	brent	apr	81.1	82.1	csprd					
+1500	good	morning	brt	q	93.5	call				
+1501	go	f	845	1008	callspread	nan				
+1502	brent	x	84.4	strd	55.3	71.3				
+1503	brent	jun	86.1	92.3	calls					
+1504	whats	up	go	jun	736	772	csprd	772.3		
+1505	yo	brent	aug	84.3	c	55				
+1506	yo	ho	k	2.50	2.55	puts	0.9	4.1		
+1507	go	oct	775	c						
+1508	whats	up	brt	apr	96	c	64	80		
+1509	whats	up	go	sep	843	1004	callspread	nan		
+1510	whats	up	brt	x	85.0	straddle	offer	72		
+1511	yo	wti	z	76	call		49	65		
+1512	whats	up	ho	z	3.649	4.002	calls	6		
+1513	hey	ho	aug	3.172	strd					
+1514	hey	brt	x	92	strad					
+1515	good	morning	go	h	789	882	putspread		784	
+1516	wti	jan	77	c	65.3					
+1517	you	want	in	brt	sep	87.9	96.0	putspread		
+1518	yo	go	j	834	984	calls		842.0		
+1519	whats	up	brent	may	87	strad	57.2			
+1520	wti	nov	85	put	72					
+1521	ho	apr	3.88	put						
+1522	whats	up	wti	jun	86	p				
+1523	yo	brent	sep	86	put		56.5			
+1524	hey	wti	feb	82	90	putspread	75	93		
+1525	you	want	in	brt	g	85.9	strad	72		
+1526	whats	up	brent	sep	92.0	strad	61			
+1527	go	apr	835	c	651					
+1528	you	want	in	brt	h	89	put		58.6	74.9
+1529	brent	g	94	110	calls					
+1530	ho	q	4.84	5.70	calls	3	7			
+1531	you	want	in	brent	x	96.5	115.2	callspread	91.1	
+1532	yo	go	aug	789	straddle	567.4	616.1			
+1533	go	f	752	804	callspread					
+1534	go	feb	801	908	callspread	857				
+1535	whats	up	ho	q	2.85	strad	offer	4		
+1536	hey	go	g	818	straddle	589				
+1537	wti	q	80.7	86.8	putspread	offer	91.3			
+1538	ho	f	3.028	p	0.8					
+1539	wti	g	78	81	calls	offer	87.6			
+1540	yo	brt	q	95	c	80				
+1541	brt	jun	88.2	put	74					
+1542	hey	brent	j	88.8	98.0	csprd	82			
+1543	brent	k	94	110	putspread		88			
+1544	brent	z	80.8	81.7	putspread	72.0	90.0			
+1545	hey	brt	h	80.5	80.9	psprd	72			
+1546	hey	brent	m	92	call					
+1547	whats	up	wti	f	83	93	puts			
+1548	brent	x	96.9	call		64	81			
+1549	hey	go	h	799	904	calls	offer	854		
+1550	you	want	in	wti	apr	88	strad	74.1		
+1551	good	morning	brt	v	87.8	95.9	puts	80.3		
+1552	brent	q	82.3	84.6	psprd	92.0				
+1553	whats	up	brt	may	82	straddle				
+1554	hey	ho	h	3.03	c					
+1555	yo	ho	jun	3.17	straddle					
+1556	brt	f	85	c	offer	71.7				
+1557	yo	go	feb	821	strad		591	641		
+1558	you	want	in	brt	g	93	straddle		61	78
+1559	whats	up	ho	k	2.33	2.35	callspread	0.8	3.9	
+1560	yo	go	v	741	p	532				
+1561	good	morning	brent	q	96.6	115.4	puts	111.4		
+1562	wti	dec	83.8	93.7	psprd	offer	95.6			
+1563	good	morning	brt	k	91	104	putspread	85	104	
+1564	hey	brent	f	88.3	put		58.1	74.4		
+1565	yo	brent	k	81	p	53.0	68.5			
+1566	yo	wti	j	85.0	96.4	calls		78		
+1567	wti	v	83.9	c		55				
+1568	good	morning	brent	g	91	103	puts			
+1569	whats	up	brt	x	91.2	strad	60			
+1570	go	apr	776	straddle						
+1571	hey	go	v	762	strd	548				
+1572	good	morning	wti	sep	88.9	put	75			
+1573	wti	n	81	88	callspread	91.8				
+1574	hey	ho	apr	3.74	4.12	callspread	2			
+1575	yo	wti	mar	81.7	put					
+1576	whats	up	brent	f	94.1	109.7	callspread			
+1577	hey	ho	nov	4.611	5.353	puts	2.6			
+1578	ho	u	2.21	strd	0					
+1579	whats	up	go	mar	747	strd	536.6	583.9		
+1580	yo	go	apr	740	c	offer	578.6			
+1581	you	want	in	wti	j	87.8	strad	74		
+1582	brt	may	85	90	calls	95.5				
+1583	yo	brt	aug	85.4	strd		56			
+1584	ho	q	3.58	put	1.0	4.3				
+1585	brent	n	94	call						
+1586	whats	up	brent	aug	83.9	call	offer	71		
+1587	ho	f	2.360	2.385	putspread	1				
+1588	ho	j	5.08	6.05	callspread	3	8			
+1589	you	want	in	ho	g	2.963	strd	4		
+1590	wti	feb	85.3	strad		56.0	72.0			
+1591	ho	may	3.54	c						
+1592	good	morning	brent	feb	90.2	put		59		
+1593	yo	ho	oct	2.51	2.57	callspread				
+1594	wti	oct	77	put	50	65				
+1595	yo	brent	n	94.9	strad	62.7				
+1596	good	morning	wti	j	90	108	putspread			
+1597	whats	up	ho	dec	4.38	strad	1			
+1598	brt	h	87.8	p	58					
+1599	you	want	in	ho	j	3.08	c			
+1600	whats	up	ho	g	4.20	strd				
+1601	brent	jan	87.1	94.5	psprd	80				
+1602	whats	up	brt	v	89	c	58.6	74.9		
+1603	brent	j	97	straddle	81					
+1604	hey	brt	nov	86.8	93.7	putspread	79.1			
+1605	hey	brt	m	86.8	straddle	offer	73.2			
+1606	yo	wti	nov	76	77	puts	68			
+1607	go	v	841	1000	csprd		nan	nan		
+1608	ho	h	3.043	straddle		0.8	3.8			
+1609	hey	brt	k	89	p	offer	74.9			
+1610	you	want	in	brent	jan	88.9	98.2	putspread		
+1611	good	morning	wti	may	84.5	strad	71			
+1612	good	morning	ho	jun	4.997	5.929	psprd	2.9		
+1613	you	want	in	brent	h	87.6	put	74		
+1614	yo	ho	n	2.650	strad	3				
+1615	wti	apr	78.1	81.3	calls		70.0	87.8		
+1616	brt	aug	87.9	straddle	57.8					
+1617	yo	ho	may	2.99	3.15	csprd	4.8			
+1618	yo	brt	oct	96.5	call					
+1619	yo	brent	dec	88.8	call	58.4	74.8			
+1620	good	morning	ho	jun	4.144	4.680	calls	offer	6	
+1621	whats	up	go	apr	738	put	530.0			
+1622	brt	feb	93.8	109.1	csprd	108				
+1623	hey	ho	v	4.80	5.64	puts				
+1624	brent	j	81	82	putspread	72	90			
+1625	ho	j	3.780	strd						
+1626	brt	f	83.3	strd	offer	70				
+1627	hey	ho	h	3.54	3.86	calls				
+1628	you	want	in	ho	jan	3.35	3.61	calls	5.3	
+1629	ho	jul	2.32	2.34	psprd	3.8				
+1630	brent	may	82	84	puts					
+1631	you	want	in	ho	mar	3.42	3.70	putspread		
+1632	yo	wti	n	80.0	strad	52	68			
+1633	whats	up	brt	nov	82	straddle		53.7	69.3	
+1634	good	morning	ho	aug	2.305	strd	offer	3		
+1635	whats	up	brent	apr	84.2	call	71.1			
+1636	go	q	797	901	calls					
+1637	you	want	in	wti	v	87	101	psprd	100	
+1638	good	morning	go	feb	741	782	csprd			
+1639	hey	wti	may	89	105	putspread	83			
+1640	yo	brt	nov	87	94	psprd				
+1641	brent	may	91	straddle						
+1642	wti	u	77	79	calls	69				
+1643	whats	up	brent	feb	85	89	callspread		77	
+1644	good	morning	wti	q	78	80	psprd		69.6	87.4
+1645	brent	j	83.4	straddle	55					
+1646	whats	up	wti	oct	76.5	c	64.9			
+1647	whats	up	brent	may	83.2	p		55		
+1648	you	want	in	go	jul	703	p	offer	550.2	
+1649	hey	brt	k	94.4	110.5	putspread	89	108		
+1650	you	want	in	go	q	778	call			
+1651	brent	apr	81.7	call						
+1652	brt	apr	87	93	puts	79	98			
+1653	brent	jun	90	strad	59	76				
+1654	you	want	in	ho	sep	2.45	2.50	psprd	0.9	
+1655	yo	brent	mar	96	114	csprd		90	111	
+1656	you	want	in	go	jun	720	straddle	517	563	
+1657	wti	oct	77	put	50.2	65.3				
+1658	you	want	in	ho	mar	4.95	strd	2	6	
+1659	whats	up	wti	n	77.4	p				
+1660	brt	x	88	c	offer	74				
+1661	go	mar	835	985	puts					
+1662	brent	apr	95	strad		63				
+1663	whats	up	ho	v	3.981	4.453	putspread	2.1		
+1664	ho	x	4.728	call						
+1665	ho	n	3.893	4.332	psprd	6				
+1666	ho	k	3.272	3.506	csprd		1.5			
+1667	hey	wti	may	86.1	put	56.5	72.6			
+1668	brent	k	94.8	111.3	calls		89	109		
+1669	yo	go	jan	771	844	callspread	817.3			
+1670	hey	ho	apr	3.37	p	1	4			
+1671	go	h	810	929	calls					
+1672	wti	feb	77.2	79.4	csprd	68.9	86.6			
+1673	you	want	in	go	m	809	927	calls		810
+1674	hey	brt	sep	80.8	81.6	psprd	90.0			
+1675	yo	wti	feb	82.1	strad	53.7				
+1676	yo	brent	v	89.6	c	59.0	75.4			
+1677	good	morning	brt	sep	93	106	csprd	offer	106.1	
+1678	yo	go	dec	832	978	calls		839.0		
+1679	brt	dec	87.6	strad	58	74				
+1680	hey	wti	g	87	100	psprd	100			
+1681	whats	up	go	dec	734	strad	527.0			
+1682	good	morning	brent	k	89	strad	58.6	74.9		
+1683	good	morning	ho	mar	4.23	p	1.4	5.0		
+1684	brent	k	93	put	78					
+1685	yo	go	z	812	straddle					
+1686	hey	ho	jul	2.427	2.463	psprd				
+1687	yo	ho	g	3.69	4.06	putspread	5.7			
+1688	ho	u	4.41	5.06	callspread					
+1689	whats	up	brent	dec	96.5	put	63.9			
+1690	yo	go	apr	835	p					
+1691	whats	up	go	jul	777	call	558.6	606.9		
+1692	you	want	in	ho	dec	4.34	4.96	psprd	6.6	
+1693	go	oct	768	838	psprd	813.5				
+1694	go	sep	763	828	puts					
+1695	brent	feb	83.8	87.5	putspread	93.9				
+1696	brt	aug	82	84	calls	73.4				
+1697	yo	go	aug	742	put	533				
+1698	hey	go	apr	761	strd	546.9				
+1699	you	want	in	ho	aug	4.487	strad	1.5	5.2	
+1700	you	want	in	brent	m	89.3	99.0	calls	101	
+1701	yo	go	jul	782	p	562.3				
+1702	go	aug	716	732	puts	693	747			
+1703	you	want	in	go	h	767	strd	599.2		
+1704	brt	f	83.9	put	55					
+1705	good	morning	brt	may	81	83	calls	72		
+1706	wti	f	81.9	89.5	puts	74.6				
+1707	whats	up	brt	oct	87	strd	offer	73.3		
+1708	go	v	724	746	puts	756.5				
+1709	whats	up	brent	jun	94	p	offer	79		
+1710	yo	ho	j	2.688	2.775	csprd	1			
+1711	wti	oct	82	90	calls	offer	93			
+1712	yo	wti	f	87	101	psprd	81.0	100.0		
+1713	good	morning	go	h	726	straddle				
+1714	good	morning	wti	x	88.4	put	58	74		
+1715	you	want	in	go	jan	719	738	calls	696.8	
+1716	yo	brt	may	92.1	105.2	calls	105			
+1717	brt	jul	93.2	107.7	calls	107				
+1718	hey	ho	mar	4.34	straddle		1.5			
+1719	you	want	in	go	j	719	738	putspread	offer	751
+1720	good	morning	ho	g	5.01	strd	6			
+1721	good	morning	ho	x	4.61	put				
+1722	whats	up	brt	mar	80.9	81.9	psprd	72	90	
+1723	yo	ho	oct	3.99	c					
+1724	good	morning	go	jul	757	814	callspread	799.0		
+1725	yo	ho	sep	5.006	strd		1.8			
+1726	hey	brent	q	89	strd					
+1727	you	want	in	wti	x	80.2	85.8	puts	offer	90.6
+1728	go	f	725	call	567.1					
+1729	you	want	in	ho	x	4.898	5.779	callspread	2.9	7.4
+1730	yo	ho	may	2.264	c					
+1731	you	want	in	wti	z	76	straddle	offer	65	
+1732	good	morning	brent	aug	88.2	c	offer	74.3		
+1733	wti	sep	80.0	85.3	calls	72	90			
+1734	you	want	in	ho	nov	4.87	strad	1.7	5.6	
+1735	brt	aug	94.5	110.7	puts					
+1736	brt	jul	94	straddle	78.9					
+1737	yo	ho	may	3.44	3.72	puts	1.6	5.4		
+1738	ho	k	3.15	3.35	calls	1	5			
+1739	yo	brt	jul	96.0	strd	64				
+1740	you	want	in	wti	j	86.2	p	57		
+1741	you	want	in	go	mar	701	701	puts	674.5	
+1742	yo	brt	h	86.1	92.4	calls	97			
+1743	you	want	in	wti	u	86.7	strd	73.1		
+1744	ho	j	3.795	c	5					
+1745	yo	brt	aug	90	strd	76				
+1746	you	want	in	wti	f	79	82	csprd	89	
+1747	brent	h	91.3	103.5	putspread	84.6				
+1748	hey	brt	m	89.5	strd	59	75			
+1749	hey	brent	feb	82	call	offer	69			
+1750	wti	aug	75.9	76.8	putspread					
+1751	you	want	in	brt	g	82	84	csprd	73.4	91.6
+1752	good	morning	go	n	701	p				
+1753	ho	mar	3.099	p						
+1754	good	morning	go	h	817	call	638			
+1755	yo	ho	dec	2.260	straddle		0			
+1756	good	morning	wti	jul	88	103	callspread	101.3		
+1757	brt	sep	93.8	straddle						
+1758	yo	go	apr	785	strd		564			
+1759	yo	wti	jan	86	98	callspread	80	98		
+1760	whats	up	ho	x	2.641	call				
+1761	wti	m	82	89	calls	93				
+1762	hey	brt	nov	89.1	98.7	callspread	offer	101		
+1763	ho	q	5.073	c	2	6				
+1764	you	want	in	go	q	829	straddle	597		
+1765	ho	z	2.37	2.40	putspread	1				
+1766	brent	j	85	91	puts	77.2				
+1767	you	want	in	brt	jun	83	strd			
+1768	brent	m	93.1	107.4	csprd	106.5				
+1769	good	morning	brt	z	85.0	strd	offer	72		
+1770	brt	aug	90	102	puts					
+1771	brent	v	86	93	csprd	97				
+1772	whats	up	brent	may	90.7	102.1	psprd	84	103	
+1773	whats	up	go	n	807	922	calls		807	
+1774	wti	n	78.5	strd						
+1775	yo	ho	jun	4.27	call	1.4	5.0			
+1776	brent	h	86	put	56	73				
+1777	you	want	in	go	k	809	strd	582	631	
+1778	good	morning	wti	feb	80.4	p	offer	68		
+1779	wti	jan	78	p	51					
+1780	go	u	718	c		515	562			
+1781	whats	up	brent	may	94.8	111.4	psprd	89	109	
+1782	brent	k	94.1	call	79.0					
+1783	yo	wti	f	83.4	92.8	calls	95.0			
+1784	whats	up	go	f	793	c	570.4			
+1785	good	morning	wti	jan	85.3	96.9	callspread			
+1786	hey	ho	apr	5.12	strd	offer	6			
+1787	yo	go	may	720	c		517			
+1788	you	want	in	go	jun	770	842	psprd		
+1789	yo	wti	jan	80.1	put	52				
+1790	whats	up	wti	u	75.8	strd		49	64	
+1791	you	want	in	wti	z	76.8	c			
+1792	wti	aug	82	c						
+1793	yo	ho	k	4.82	5.66	callspread	2.8	7.3		
+1794	yo	wti	v	85	p	56	72			
+1795	brt	jul	83.1	c						
+1796	whats	up	ho	aug	4.770	put	2			
+1797	good	morning	brent	k	83.8	strd	54.9	70.8		
+1798	go	h	715	728	puts	offer	745.1			
+1799	hey	go	n	799	905	putspread	796.8			
+1800	good	morning	wti	g	87.6	put	73.8			
+1801	good	morning	brt	u	81.8	83.6	calls	73	91	
+1802	brt	jul	89	99	putspread	101.1				
+1803	brt	may	80	strad		52	68			
+1804	you	want	in	brent	aug	84.7	straddle	71		
+1805	hey	wti	aug	82.9	c		54	70		
+1806	yo	brt	sep	84.3	p	55.3	71.2			
+1807	hey	brent	apr	81.4	p	53.2				
+1808	you	want	in	brt	k	91	103	putspread	84	
+1809	hey	wti	n	84	strad					
+1810	hey	brt	jan	85.9	91.9	calls	78.1			
+1811	ho	jul	3.957	4.421	calls					
+1812	brt	f	82	c	offer	69.3				
+1813	hey	brt	v	85.8	put		56			
+1814	you	want	in	wti	v	79.4	c		51.8	67.3
+1815	good	morning	brt	oct	81	strd	53.0	68.5		
+1816	yo	wti	aug	78.3	81.7	puts	88			
+1817	yo	wti	j	84	c	71				
+1818	good	morning	wti	mar	87	102	putspread	offer	100.3	
+1819	wti	q	84	95	calls					
+1820	go	z	777	c		558.6				
+1821	wti	apr	76.7	put	49.9					
+1822	brent	j	90.4	call	59.6	76.0				
+1823	whats	up	wti	g	89.1	call	58.7			
+1824	brt	j	83	put		54.4	70.1			
+1825	go	k	726	straddle						
+1826	yo	brent	apr	95.0	strd					
+1827	wti	dec	79	p						
+1828	ho	dec	3.026	3.192	callspread					
+1829	yo	go	m	762	825	psprd	750			
+1830	good	morning	wti	u	83	93	puts	76		
+1831	good	morning	ho	u	4.139	p	1.3			
+1832	hey	go	jan	818	946	psprd	820.8			
+1833	yo	go	apr	776	straddle	606				
+1834	brent	x	89.2	99.0	puts					
+1835	ho	mar	2.259	2.268	calls					
+1836	hey	ho	nov	5.048	c	offer	5.7			
+1837	yo	brent	mar	90.5	101.7	psprd	83.6			
+1838	hey	brt	q	83	strad	54.4	70.1			
+1839	whats	up	brent	jun	96	c				
+1840	hey	wti	j	80	85	puts	90			
+1841	hey	brent	apr	93	106	putspread		86.4		
+1842	hey	ho	j	5.00	5.93	putspread				
+1843	you	want	in	brent	mar	80.5	81.0	putspread		
+1844	you	want	in	brent	k	80.5	81.0	calls		71.6
+1845	hey	brt	sep	81.0	put	69				
+1846	good	morning	wti	dec	79	83	putspread	offer	89	
+1847	yo	go	dec	801	910	csprd	857			
+1848	whats	up	go	jul	793	p	570	619		
+1849	wti	jan	84.5	95.3	putspread	77.9	96.5			
+1850	good	morning	wti	q	88	strd	57.9			
+1851	yo	brt	x	88	strad					
+1852	wti	feb	89	106	puts	offer	102.9			
+1853	brent	feb	86	92	puts	offer	97			
+1854	ho	v	3.46	3.76	calls	2	5			
+1855	good	morning	brt	may	86.4	93.0	puts	97		
+1856	brt	apr	88	strd		57.9				
+1857	hey	ho	nov	4.825	c	6				
+1858	hey	wti	feb	79.8	p	52.1	67.6			
+1859	go	j	794	892	csprd	789.9	847.1			
+1860	wti	m	78.2	81.4	csprd	70.1				
+1861	yo	brent	apr	91	p	76.5				
+1862	yo	brent	f	93.1	straddle	61.5				
+1863	yo	brent	oct	83.3	86.5	putspread	offer	93.3		
+1864	hey	wti	j	82.6	strd	70				
+1865	go	m	710	strad						
+1866	brent	v	96	115	callspread		91	111		
+1867	go	h	716	730	puts	746				
+1868	yo	ho	apr	2.719	call		0.6			
+1869	whats	up	go	oct	789	call	offer	616		
+1870	brt	k	88.2	c						
+1871	yo	wti	mar	86	p	56	73			
+1872	brent	k	85.8	91.7	puts	77.9				
+1873	hey	brt	x	94.3	110.1	psprd	88.3			
+1874	go	oct	836	straddle	652.0					
+1875	whats	up	ho	feb	3.84	4.26	callspread	5.9		
+1876	hey	wti	n	75	strd	63.8				
+1877	ho	h	4.79	5.62	csprd	2.8	7.2			
+1878	hey	brt	may	82	84	putspread				
+1879	brent	h	81	c	53	69				
+1880	hey	ho	g	3.113	p	3.9				
+1881	yo	wti	jan	75	p	offer	64			
+1882	brent	oct	87	put	57.2					
+1883	yo	wti	x	84	93	calls	77.0	95.5		
+1884	brt	feb	89	98	puts		82			
+1885	good	morning	brt	aug	84	put	71			
+1886	you	want	in	ho	apr	3.35	straddle			
+1887	whats	up	ho	oct	4.48	p				
+1888	brent	jul	95.3	112.5	psprd					
+1889	good	morning	wti	aug	87	101	puts	81.0	100.0	
+1890	go	q	735	put	575					
+1891	wti	aug	89	105	csprd	83.4	102.6			
+1892	ho	n	3.72	strad						
+1893	good	morning	brent	jun	96	call	80.5			
+1894	brt	may	84	put	55.1	70.9				
+1895	good	morning	ho	apr	4.07	straddle				
+1896	ho	f	2.537	put						
+1897	hey	brent	g	83.1	p	70				
+1898	you	want	in	go	z	713	p			
+1899	whats	up	go	v	749	797	psprd			
+1900	hey	brt	q	86	strd					
+1901	you	want	in	wti	h	79	strad	offer	66.9	
+1902	brent	feb	86.1	straddle		56.5				
+1903	hey	brent	nov	84	call	55.1	70.9			
+1904	hey	wti	jul	76.7	78.4	psprd	68			
+1905	good	morning	go	aug	838	c	603.4			
+1906	brt	n	90.5	put						
+1907	wti	feb	86.8	100.5	csprd					
+1908	good	morning	go	may	703	706	calls	730		
+1909	hey	brent	f	81.3	82.6	putspread		73	91	
+1910	ho	v	3.312	strad	0.9					
+1911	yo	brent	n	88	call	74				
+1912	good	morning	brt	g	91.6	strd	offer	77.0		
+1913	yo	wti	v	85.8	strd	56.3				
+1914	wti	jan	75	76	callspread	83.9				
+1915	good	morning	brt	jul	94	put	62.1	78.9		
+1916	brt	jun	95.0	111.8	callspread	89.2				
+1917	hey	wti	x	76	77	callspread	67.5	85.0		
+1918	good	morning	go	nov	831	976	psprd			
+1919	whats	up	wti	n	77	78	psprd	68		
+1920	hey	go	sep	765	831	csprd				
+1921	whats	up	wti	feb	89	call	58.6	74.9		
+1922	whats	up	go	z	702	703	calls		676	729
+1923	brt	f	90	101	psprd					
+1924	whats	up	brent	sep	88.3	strad	58			
+1925	go	apr	789	strad						
+1926	brent	z	89	99	calls	81.9	101.1			
+1927	good	morning	ho	q	3.756	4.146	putspread	2	6	
+1928	brent	may	94.9	c		62.7	79.6			
+1929	brent	z	80	strd	52.3	67.7				
+1930	brt	x	80.1	p	52.3					
+1931	you	want	in	brt	n	80.8	call		52.8	68.4
+1932	brent	j	84.0	straddle						
+1933	ho	oct	2.402	2.434	calls		0.9			
+1934	brent	aug	83.9	87.7	psprd	76	94			
+1935	ho	nov	3.348	p	0.9	4.1				
+1936	good	morning	wti	m	79	83	putspread	offer	88.9	
+1937	brent	k	80.3	strad	52.5	68.0				
+1938	good	morning	ho	v	3.744	4.129	callspread	offer	5.8	
+1939	brent	k	94.9	111.4	psprd	109.0				
+1940	whats	up	brent	feb	84.8	put	56	72		
+1941	good	morning	go	v	839	strad	654.3			
+1942	wti	n	78	80	putspread	70	87			
+1943	yo	brt	mar	85.2	p	55.9	71.9			
+1944	you	want	in	brent	v	83	p			
+1945	brt	n	93	p	61	78				
+1946	whats	up	wti	g	86.2	99.1	psprd	80.0	98.9	
+1947	you	want	in	go	g	700	put	548		
+1948	brent	v	88	97	putspread	80.8	99.8			
+1949	brt	nov	91.9	c	61	77				
+1950	you	want	in	brent	jan	94.6	put	63	79	
+1951	good	morning	ho	v	4.98	5.90	csprd		3	
+1952	wti	x	79.0	83.2	callspread					
+1953	whats	up	ho	may	5.024	call	2	6		
+1954	you	want	in	brent	may	91.7	p		60	
+1955	ho	jul	2.858	put	4					
+1956	brent	dec	93.6	108.5	putspread					
+1957	whats	up	ho	m	4.75	5.56	psprd	3		
+1958	yo	brent	k	96	114	callspread				
+1959	brent	j	91	p		60.0				
+1960	good	morning	go	may	769	straddle	552.7	600.8		
+1961	yo	wti	g	87	102	callspread				
+1962	wti	f	86.0	straddle						
+1963	hey	wti	x	78	82	callspread				
+1964	yo	brt	h	85	90	psprd				
+1965	wti	oct	75.3	75.7	puts	offer	84			
+1966	whats	up	wti	dec	83.6	call	55	71		
+1967	yo	wti	x	83.1	92.2	callspread	94.6			
+1968	go	jun	836	988	putspread	844	904			
+1969	yo	wti	x	79	straddle	52				
+1970	go	m	749	797	psprd	733.4				
+1971	good	morning	ho	q	3.857	c	5			
+1972	wti	q	77.1	79.2	puts	69	86			
+1973	hey	brt	jul	92.8	c	77.9				
+1974	you	want	in	go	aug	754	808	psprd	739.8	795.2
+1975	hey	brt	k	84	straddle					
+1976	hey	ho	u	2.327	2.347	calls				
+1977	yo	brt	j	91	102	putspread				
+1978	yo	wti	oct	76	78	putspread	68	85		
+1979	ho	may	3.099	3.285	calls	offer	4.9			
+1980	wti	j	80	86	callspread	91				
+1981	hey	brt	sep	80.4	80.8	calls		71.5		
+1982	whats	up	ho	sep	3.86	4.28	csprd	2.0	6.0	
+1983	you	want	in	go	v	720	738	puts		697.6
+1984	yo	brt	x	85	90	csprd	96			
+1985	yo	go	q	765	c					
+1986	good	morning	brent	mar	84.6	89.3	callspread	77	95	
+1987	hey	go	feb	755	811	csprd	741			
+1988	whats	up	brent	dec	92	104	callspread	85		
+1989	yo	brt	jan	94.3	110.1	psprd	offer	108		
+1990	you	want	in	go	u	832	p			
+1991	ho	nov	4.14	strad		1.3	4.9			
+1992	you	want	in	ho	feb	2.85	2.97	csprd	1	
+1993	good	morning	go	jul	829	strad	596.8			
+1994	whats	up	brt	x	91	104	calls	offer	104	
+1995	good	morning	ho	apr	3.304	strd				
+1996	brt	m	86.4	92.9	csprd	offer	97.4			
+1997	brent	jan	89	99	callspread		82	101		
+1998	you	want	in	wti	apr	75.8	76.7	callspread	offer	85
+1999	wti	jun	82.7	91.1	callspread		76	94		
+2000	hey	brt	may	88	96	csprd	99			
+2001	good	morning	brent	oct	89.4	p	59	75		
+2002	brt	apr	84	88	csprd		76			
+2003	wti	f	90	strd						
+2004	hey	brent	nov	93.0	107.2	puts		87		
+2005	hey	wti	z	86	99	puts				
+2006	whats	up	go	sep	766	833	calls	755		
+2007	brent	may	95.3	112.4	csprd	109.6				
+2008	good	morning	wti	j	87	c	73.3			
+2009	yo	ho	oct	4.50	5.19	puts	3	7		
+2010	wti	jul	84	call	offer	70.9				
+2011	brt	n	81	strd	offer	69				
+2012	whats	up	brt	nov	88.7	97.9	calls			
+2013	hey	brent	nov	95	strad					
+2014	yo	brent	k	90	100	putspread	102			
+2015	good	morning	ho	h	2.94	3.08	puts	4.7		
+2016	hey	brent	h	89.7	strad		59.1	75.5		
+2017	whats	up	wti	x	79	84	callspread		71	89
+2018	good	morning	go	feb	727	put	521.9	568.6		
+2019	hey	brent	aug	94	109	csprd				
+2020	good	morning	go	jan	822	p				
+2021	ho	apr	4.57	straddle						
+2022	go	q	771	strd	602					
+2023	brt	n	87.6	p	58	74				
+2024	wti	z	79.6	c	52	67				
+2025	good	morning	go	v	700	700	psprd	726.5		
+2026	yo	wti	h	83.2	92.2	callspread				
+2027	hey	ho	feb	2.811	2.926	psprd	1.2	4.5		
+2028	ho	m	2.668	2.751	callspread	offer	4.3			
+2029	you	want	in	wti	h	76.4	77.7	calls		
+2030	you	want	in	wti	m	82	call	69		
+2031	ho	mar	2.229	2.234	callspread	1				
+2032	yo	go	may	759	p	545				
+2033	hey	brent	jun	87.5	straddle	58				
+2034	ho	q	4.068	strad	1.3	4.8				
+2035	yo	brt	apr	86.6	93.2	puts	79	98		
+2036	you	want	in	wti	apr	82	89	csprd	74.6	92.9
+2037	wti	nov	85.3	straddle	56.0	72.0				
+2038	wti	jun	78	81	callspread					
+2039	good	morning	brent	u	91	103	putspread	104		
+2040	hey	ho	jul	3.576	strd	1.0	4.3			
+2041	good	morning	go	may	805	918	csprd	offer	862.1	
+2042	yo	go	may	789	call	616.1				
+2043	hey	ho	oct	5.169	c	1.9	5.8			
+2044	brent	dec	88.6	97.7	psprd	81.3				
+2045	good	morning	brent	n	89.2	put	58.7	75.1		
+2046	go	jul	730	760	puts	710.3	764.7			
+2047	ho	j	3.34	p	0.9					
+2048	go	z	751	strad		540				
+2049	ho	n	2.836	2.957	csprd	1.2	4.6			
+2050	yo	brt	mar	81	straddle	69				
+2051	wti	g	88	p		58	74			
+2052	ho	m	3.978	4.450	puts					
+2053	good	morning	brent	aug	84	88	puts			
+2054	whats	up	ho	oct	4.706	strd				
+2055	you	want	in	brt	j	95	111	puts	89.1	
+2056	hey	ho	v	4.32	straddle					
+2057	you	want	in	go	jan	822	c			
+2058	whats	up	ho	feb	3.80	4.21	calls		2	
+2059	good	morning	go	f	803	put	626.8			
+2060	brent	f	84	87	putspread	76	94			
+2061	good	morning	brent	feb	94	109	csprd	107.6		
+2062	hey	ho	feb	5.11	p	1.9	5.8			
+2063	yo	ho	h	4.268	strd	1				
+2064	yo	brent	apr	86	p	56	73			
+2065	wti	oct	77	79	csprd	86.3				
+2066	go	jun	757	815	psprd	799.3				
+2067	yo	brt	k	81	strd	offer	69			
+2068	good	morning	brent	h	89.6	strad				
+2069	go	z	720	739	csprd					
+2070	good	morning	brent	g	88.5	97.3	puts			
+2071	whats	up	go	h	788	880	putspread			
+2072	you	want	in	brt	k	94	put			
+2073	good	morning	brent	j	83	p	offer	70		
+2074	you	want	in	wti	nov	78.2	81.4	putspread		
+2075	whats	up	brt	jun	84	call	71			
+2076	brt	may	84.5	c	55					
+2077	hey	brt	z	94.5	straddle	79.3				
+2078	you	want	in	go	m	836	put	602.0		
+2079	brt	may	83.3	call	55					
+2080	yo	wti	may	80.6	c		52.7			
+2081	wti	x	78	call						
+2082	brt	dec	91.0	p	60	77				
+2083	brt	g	85	strd	55.8	71.7				
+2084	whats	up	brt	n	93	108	psprd	offer	106.6	
+2085	yo	ho	oct	5.14	6.15	csprd				
+2086	you	want	in	wti	g	85	96	callspread	78	97
+2087	brent	h	89	97	callspread	101				
+2088	go	jan	776	call	606.1					
+2089	go	apr	800	907	putspread	855.5				
+2090	hey	wti	k	85	97	psprd		78.6	97.4	
+2091	yo	wti	jul	88	102	calls		82		
+2092	hey	go	feb	821	953	callspread	824.8	883.2		
+2093	hey	go	j	750	p	538.8	586.2			
+2094	hey	ho	u	3.54	3.86	csprd	2			
+2095	good	morning	brt	q	86.5	straddle				
+2096	yo	brent	h	96.8	put		64.1	81.1		
+2097	yo	brent	nov	89	put	59				
+2098	go	feb	824	strad	643					
+2099	wti	feb	81	87	putspread	73.4				
+2100	good	morning	go	sep	771	844	csprd	offer	817	
+2101	wti	nov	76	77	calls	68	85			
+2102	you	want	in	go	u	798	c	offer	623	
+2103	brent	h	81.3	straddle	53					
+2104	yo	brt	feb	86	strd		56.5	72.5		
+2105	good	morning	brt	q	81	straddle		53.0	68.5	
+2106	go	m	839	put	654					
+2107	you	want	in	ho	k	2.657	straddle			
+2108	brent	dec	89	call						
+2109	ho	feb	2.340	strad	3.1					
+2110	whats	up	go	feb	837	c				
+2111	yo	go	mar	753	put		541	589		
+2112	hey	ho	z	3.05	strad		0.8			
+2113	ho	feb	3.763	4.155	putspread	2	6			
+2114	whats	up	go	z	790	884	callspread			
+2115	yo	wti	z	89	105	calls		83.4	102.6	
+2116	yo	brt	dec	83	straddle					
+2117	good	morning	brt	f	80.6	strad	68			
+2118	wti	jun	76	strd		49.5	64.5			
+2119	hey	brt	m	83	p	54				
+2120	whats	up	ho	may	3.82	4.24	calls			
+2121	brt	jun	92	104	puts	85.3	104.7			
+2122	go	oct	807	straddle		581	630			
+2123	hey	go	x	708	716	puts	737			
+2124	whats	up	go	q	744	c				
+2125	brt	jul	88	c	57.9	74.1				
+2126	you	want	in	brt	aug	95	111	callspread		
+2127	yo	brt	jul	92	106	putspread		86	105	
+2128	brent	jun	89.2	98.8	calls	101				
+2129	whats	up	wti	g	84	93	callspread		77	96
+2130	ho	dec	3.79	put	1	5				
+2131	ho	n	3.13	strad						
+2132	go	v	849	1017	calls	nan	nan			
+2133	brt	sep	91.9	c	77					
+2134	ho	jan	3.542	3.859	csprd	6				
+2135	ho	z	2.356	strd	0					
+2136	you	want	in	brent	k	82.1	84.2	csprd		
+2137	wti	aug	82	strd	53.7					
+2138	whats	up	wti	u	87	101	callspread	81.0		
+2139	you	want	in	wti	h	81	87	calls	73	
+2140	whats	up	go	x	722	743	calls	offer	754	
+2141	you	want	in	brent	k	93	107	psprd	106	
+2142	good	morning	wti	jan	82.8	call	54			
+2143	ho	j	3.84	4.26	callspread		2.0	5.9		
+2144	go	jul	705	709	putspread					
+2145	yo	ho	may	2.78	2.89	putspread	1	4		
+2146	good	morning	go	jun	846	strd	609	660		
+2147	hey	brt	aug	93	107	csprd				
+2148	hey	ho	m	2.652	2.732	puts				
+2149	whats	up	brent	j	89.7	strad	59	75		
+2150	good	morning	brt	oct	94.1	109.6	puts			
+2151	go	m	820	952	putspread					
+2152	good	morning	brt	j	87.8	95.8	psprd			
+2153	good	morning	brt	v	96.6	115.4	psprd		91	111
+2154	ho	f	4.65	5.41	csprd	3				
+2155	hey	brent	aug	95.8	113.6	puts	90.2			
+2156	good	morning	ho	aug	2.793	put		1	4	
+2157	hey	brent	x	85.4	90.9	csprd	77.5			
+2158	brent	apr	80	strad	offer	67.7				
+2159	you	want	in	go	nov	741	p	532		
+2160	yo	go	apr	792	890	psprd	787.9	845.1		
+2161	brent	jan	96.1	114.4	calls	91	111			
+2162	brent	apr	90	100	callspread		83			
+2163	good	morning	wti	u	79	c	67			
+2164	whats	up	brent	m	81.4	straddle	69			
+2165	hey	brent	sep	80.6	81.2	putspread	89.7			
+2166	yo	ho	sep	2.91	3.04	psprd		1		
+2167	brent	oct	96	strd	offer	80.5				
+2168	whats	up	brt	u	89.6	99.7	calls	101.7		
+2169	good	morning	ho	x	2.82	2.93	csprd		1	
+2170	brt	jun	84	put	offer	71				
+2171	brent	jan	85.9	call		56	72			
+2172	hey	wti	m	84	put	55	71			
+2173	good	morning	brent	jul	93	108	putspread	87	107	
+2174	wti	k	84.5	95.2	psprd	77.8	96.5			
+2175	whats	up	ho	jul	2.234	p		0.4		
+2176	go	j	784	873	calls	835				
+2177	wti	jan	81.1	p		53.0	68.6			
+2178	brt	mar	96.0	114.0	callspread	90.5	110.5			
+2179	wti	m	83.2	put	70.3					
+2180	brent	z	87.5	95.1	csprd	80				
+2181	hey	brt	may	96.3	call	81				
+2182	go	n	780	strad	609.2					
+2183	you	want	in	brt	f	92.1	105.3	callspread	85.6	105.2
+2184	hey	brt	mar	88	95	callspread				
+2185	ho	jan	2.996	strad	4					
+2186	good	morning	brent	mar	87.0	94.2	putspread	offer	98.2	
+2187	brent	may	93	106	putspread	86				
+2188	good	morning	brt	z	80	80	putspread		71	89
+2189	yo	wti	aug	77.5	80.1	csprd	87			
+2190	go	nov	832	979	psprd	839.3	898.2			
+2191	hey	brt	jan	92	106	putspread				
+2192	you	want	in	brt	sep	85.6	91.2	puts	96.3	
+2193	yo	ho	sep	4.330	straddle	1.4	5.0			
+2194	good	morning	wti	jul	83	strad		54.4	70.1	
+2195	wti	k	88.6	104.7	puts					
+2196	wti	n	88	103	psprd	101.3				
+2197	brt	oct	91.8	104.5	csprd	105				
+2198	whats	up	brent	apr	87.3	straddle	offer	73.6		
+2199	good	morning	wti	jul	86.3	99.3	callspread	offer	99.0	
+2200	hey	ho	z	2.461	c		0.5			
+2201	wti	nov	89.2	call						
+2202	hey	wti	u	75	strad					
+2203	you	want	in	wti	dec	84	call			
+2204	you	want	in	wti	aug	88.0	103.1	psprd	offer	101.4
+2205	brent	jul	81.3	82.5	psprd					
+2206	yo	wti	jul	82	91	callspread	offer	93		
+2207	brt	mar	96.1	114.2	psprd	91				
+2208	yo	go	dec	795	put					
+2209	good	morning	go	q	829	call				
+2210	wti	q	87.3	101.6	callspread		81.3			
+2211	good	morning	brt	aug	95	112	putspread			
+2212	you	want	in	go	h	752	803	psprd		737
+2213	brent	x	86	91	csprd					
+2214	brt	sep	87	call	57.2					
+2215	you	want	in	wti	z	76.1	77.2	puts	68	
+2216	hey	go	k	721	741	callspread				
+2217	whats	up	brent	j	93	107	csprd			
+2218	whats	up	go	j	813	put				
+2219	good	morning	brt	sep	88	call	74.1			
+2220	you	want	in	go	nov	831	strad	offer	648.2	
+2221	brent	jun	89.4	99.4	callspread	82	101			
+2222	hey	brent	m	83.0	call					
+2223	hey	wti	z	87.1	call					
+2224	good	morning	ho	dec	3.99	c				
+2225	ho	m	5.07	call	2	6				
+2226	whats	up	go	z	757	put		544		
+2227	hey	go	jan	848	1016	putspread	offer	nan		
+2228	good	morning	go	may	744	789	csprd	783		
+2229	yo	wti	oct	79	84	callspread				
+2230	yo	wti	may	76.3	strad	50	65			
+2231	whats	up	ho	z	3.305	c				
+2232	brt	h	90	c		59.3				
+2233	yo	ho	jan	2.82	2.94	calls		1		
+2234	hey	wti	x	75	75	callspread	84			
+2235	yo	ho	m	3.791	strad	1				
+2236	hey	brt	h	88	put	58				
+2237	hey	go	k	700	strad		502.1			
+2238	you	want	in	wti	f	87.6	strad			
+2239	you	want	in	wti	m	88.8	straddle			
+2240	hey	ho	dec	3.974	call	5				
+2241	wti	h	80	85	calls		72			
+2242	you	want	in	wti	feb	90.0	108.0	putspread		
+2243	go	jan	752	strd	587.7					
+2244	yo	brent	dec	91	call	60.0	76.5			
+2245	wti	z	89.3	put		58.8	75.2			
+2246	yo	brt	jan	84	c		55.1	70.9		
+2247	whats	up	brent	z	88.0	p	74.1			
+2248	go	feb	715	729	putspread					
+2249	ho	z	3.251	strad	0.9	4.0				
+2250	hey	ho	feb	2.920	p					
+2251	whats	up	ho	jun	2.287	2.301	csprd			
+2252	yo	go	q	750	straddle					
+2253	whats	up	brent	dec	94	c	62			
+2254	good	morning	brent	m	92	c		61		
+2255	brent	jul	94	109	callspread	87.9				
+2256	good	morning	go	oct	742	784	calls	725.1		
+2257	whats	up	brt	jan	92	105	calls	85.5	105.0	
+2258	yo	go	jul	723	745	csprd	701.5			
+2259	brent	n	90	strad						
+2260	you	want	in	brt	oct	89.4	99.3	putspread	101.5	
+2261	ho	apr	3.14	3.33	calls					
+2262	brt	m	91.1	strd	offer	77				
+2263	wti	q	87	100	psprd					
+2264	good	morning	wti	g	85.6	97.8	puts	offer	98	
+2265	good	morning	go	h	776	straddle				
+2266	go	jun	775	853	puts		766.3			
+2267	ho	may	5.10	straddle		1.9	5.8			
+2268	whats	up	ho	u	4.037	call	1	5		
+2269	go	u	811	c	633					
+2270	hey	brent	nov	87	94	calls		79.3		
+2271	brt	dec	91	p	60.0					
+2272	brent	jul	93.9	109.2	putspread		88			
+2273	ho	f	3.324	3.573	csprd	1.5	5.2			
+2274	good	morning	ho	v	3.84	4.26	puts	offer	6	
+2275	good	morning	wti	aug	84.6	95.4	putspread			
+2276	brent	u	86	call	73					
+2277	good	morning	go	may	779	p		560	608	
+2278	whats	up	go	v	839	strd		604		
+2279	go	aug	814	put						
+2280	brent	dec	92	call	77.3					
+2281	wti	nov	89	call	offer	75				
+2282	brent	n	81.1	82.2	csprd		72.4	90.4		
+2283	wti	u	79.3	83.8	csprd					
+2284	brt	g	87.3	strad	57	74				
+2285	brent	mar	81.5	p		53				
+2286	go	g	735	769	csprd		716	771		
+2287	you	want	in	brt	jun	94	straddle	offer	79	
+2288	you	want	in	wti	k	81	87	puts		73
+2289	yo	brent	apr	93.6	108.7	calls				
+2290	good	morning	go	q	789	strd	offer	616		
+2291	whats	up	wti	n	80	86	csprd			
+2292	go	h	719	737	psprd	offer	750			
+2293	wti	dec	76.0	77.0	putspread	67.5				
+2294	go	oct	769	call	600.8					
+2295	go	dec	765	832	callspread					
+2296	go	aug	770	842	calls	759.9				
+2297	you	want	in	ho	q	3.000	3.161	csprd		
+2298	you	want	in	go	oct	725	strd	520		
+2299	wti	x	79.9	c	67.7					
+2300	go	may	823	straddle	592.4	642.1				
+2301	yo	ho	jan	3.04	3.21	psprd	1			
+2302	brt	q	86	straddle	offer	72.5				
+2303	you	want	in	wti	oct	79.4	84.1	csprd	71.6	89.6
+2304	yo	brent	jun	92.1	straddle					
+2305	brt	feb	94	109	putspread		87.9			
+2306	good	morning	wti	oct	79.7	84.7	calls	72		
+2307	wti	h	84	94	puts	offer	96			
+2308	yo	ho	feb	2.65	p	0.6				
+2309	yo	ho	feb	4.56	strad	1.6				
+2310	whats	up	wti	feb	84.6	95.5	puts	78.0	96.7	
+2311	whats	up	ho	aug	3.071	3.250	callspread			
+2312	hey	brt	dec	95.1	112.0	puts	89.4			
+2313	good	morning	brent	feb	80.3	80.5	puts		71.4	
+2314	yo	ho	f	3.897	straddle	1.2				
+2315	ho	x	4.752	5.561	putspread	offer	7.2			
+2316	whats	up	ho	dec	2.267	c	0	3		
+2317	hey	brt	may	86	93	csprd	97			
+2318	yo	wti	g	88.6	104.6	putspread	83	102		
+2319	go	feb	702	call	504	549				
+2320	brt	jan	85.4	c	72.1					
+2321	you	want	in	go	g	801	c	625		
+2322	whats	up	wti	g	78	put	66			
+2323	brent	x	83.8	strd	54.9					
+2324	yo	go	feb	802	912	csprd	800.7	858.3		
+2325	yo	brent	g	81	81	calls	90.0			
+2326	ho	sep	4.185	call						
+2327	go	q	770	put	offer	601.5				
+2328	you	want	in	brent	sep	82	strad			
+2329	brt	dec	94	call		62.1	78.9			
+2330	brt	f	87	94	puts	98				
+2331	wti	jun	75.9	put		49	64			
+2332	good	morning	go	mar	806	put	579.9	629.1		
+2333	you	want	in	brt	nov	85	call		56	
+2334	ho	feb	4.14	4.67	putspread	2				
+2335	ho	x	5.079	c	1.9					
+2336	yo	wti	mar	77	79	csprd		69	86	
+2337	ho	aug	3.07	3.25	csprd		1			
+2338	ho	aug	3.819	straddle						
+2339	brt	j	82.1	put	53.7	69.4				
+2340	ho	f	2.22	put						
+2341	good	morning	wti	v	76	77	csprd	68		
+2342	good	morning	ho	f	3.976	4.446	callspread	2.1		
+2343	you	want	in	brent	v	92	105	callspread	85.5	
+2344	good	morning	ho	v	4.807	strd	1.7			
+2345	whats	up	brt	oct	95	111	puts	offer	108.9	
+2346	hey	brent	nov	89.1	98.7	callspread	101			
+2347	good	morning	brt	mar	91	104	callspread			
+2348	wti	u	83	92	csprd					
+2349	you	want	in	wti	dec	88	103	putspread		82.2
+2350	go	m	737	p	529.2					
+2351	hey	brt	jul	91.9	call	offer	77			
+2352	yo	wti	z	80	straddle		52	68		
+2353	wti	mar	78.5	82.2	psprd	70.5	88.3			
+2354	brent	v	94	c	62.1	78.9				
+2355	wti	dec	81.0	87.5	putspread	74	92			
+2356	ho	feb	3.36	3.62	callspread	offer	5			
+2357	yo	wti	jun	87	102	calls	81.2			
+2358	wti	oct	85	96	putspread					
+2359	ho	sep	4.518	put	5					
+2360	yo	ho	k	4.934	5.834	csprd		2.9		
+2361	whats	up	brt	aug	88.6	p	75			
+2362	you	want	in	wti	u	76	77	putspread		
+2363	yo	go	dec	730	759	callspread				
+2364	you	want	in	brt	dec	88.5	97.4	callspread	100	
+2365	you	want	in	brent	j	88	97	calls		
+2366	ho	m	5.05	straddle						
+2367	good	morning	ho	h	5.114	6.107	puts	3	8	
+2368	go	feb	754	808	putspread	740				
+2369	good	morning	ho	u	3.912	straddle				
+2370	wti	q	89.7	put		59	75			
+2371	go	jan	720	740	csprd					
+2372	good	morning	wti	aug	84.0	p	offer	71		
+2373	yo	wti	h	84.0	p	71				
+2374	ho	q	4.49	put		2				
+2375	ho	may	4.21	straddle	1					
+2376	good	morning	go	h	815	call	586.5	636.0		
+2377	ho	f	3.58	3.90	csprd		1.7			
+2378	whats	up	brt	sep	86	92	callspread			
+2379	you	want	in	brt	v	95	112	putspread		89
+2380	good	morning	ho	oct	2.22	call	0.4			
+2381	whats	up	go	jun	803	914	psprd	801.9	859.6	
+2382	good	morning	go	dec	814	straddle	586			
+2383	whats	up	brt	x	80.4	80.8	psprd	89		
+2384	whats	up	brt	n	89.8	strad	59.1	75.6		
+2385	good	morning	brent	may	84	call	55	71		
+2386	good	morning	brt	h	93.7	c	offer	79		
+2387	brt	m	92	call						
+2388	go	g	720	740	puts	751.9				
+2389	ho	h	2.357	2.381	putspread	offer	3.9			
+2390	you	want	in	ho	oct	4.800	p	2		
+2391	wti	nov	87	p	57.2					
+2392	ho	jan	4.892	p	1.8	5.6				
+2393	hey	go	j	834	984	puts		842	901	
+2394	hey	brent	m	89	strad	74.9				
+2395	whats	up	wti	f	89.8	107.4	putspread			
+2396	brent	h	90	strd	76					
+2397	whats	up	brent	nov	81	straddle	53	69		
+2398	whats	up	go	h	836	987	puts	844.2	903.3	
+2399	whats	up	brt	nov	95	p				
+2400	brt	h	90	101	calls		83.1			
+2401	whats	up	wti	nov	76.9	strad				
+2402	whats	up	go	sep	819	put				
+2403	wti	mar	90.0	107.9	puts					
+2404	brt	aug	90.1	strd	59.4	75.8				
+2405	good	morning	ho	nov	4.28	4.87	calls		2.3	6.5
+2406	hey	ho	may	3.565	3.889	puts	1.7			
+2407	good	morning	go	v	775	call				
+2408	you	want	in	go	m	762	826	psprd	offer	806
+2409	ho	f	3.24	put	0.9	4.0				
+2410	yo	brt	n	87.9	p	57.8				
+2411	brt	q	90.9	put	60	76				
+2412	go	oct	838	993	puts					
+2413	good	morning	brt	z	95.6	113.1	putspread		90	
+2414	brt	feb	91	c		60	77			
+2415	whats	up	wti	x	75.3	p	49.0	64.0		
+2416	brt	oct	86	93	callspread	offer	97			
+2417	whats	up	go	u	736	770	callspread	717.2		
+2418	yo	go	h	777	strd	offer	607			
+2419	brent	jun	90.1	straddle	59					
+2420	good	morning	go	u	791	straddle	568.9	617.6		
+2421	go	u	838	call						
+2422	wti	apr	84.5	strad	55.4	71.3				
+2423	hey	ho	h	4.10	4.62	csprd		2	6	
+2424	go	dec	727	call						
+2425	yo	go	h	803	strad	577.7	626.8			
+2426	good	morning	go	sep	789	884	calls			
+2427	good	morning	wti	feb	81	88	csprd	73.7		
+2428	whats	up	brt	z	88.7	97.7	psprd		81	
+2429	you	want	in	brent	apr	88.6	97.6	putspread		
+2430	go	may	750	801	putspread					
+2431	hey	ho	apr	2.45	2.49	callspread		1		
+2432	whats	up	brent	k	84	88	psprd	94		
+2433	wti	h	77	78	psprd	86.0				
+2434	ho	apr	4.08	put	1	5				
+2435	hey	go	jun	844	1005	csprd	nan	nan		
+2436	you	want	in	brt	apr	84.3	straddle	71		
+2437	go	h	810	928	calls	811				
+2438	good	morning	ho	v	3.903	strd	1	5		
+2439	whats	up	wti	h	85	p				
+2440	brt	may	84.3	put						
+2441	brt	z	86.0	call	offer	73				
+2442	whats	up	wti	mar	76	78	calls		67.8	
+2443	hey	brent	nov	82	strd	53.7	69.3			
+2444	you	want	in	brent	may	86.5	93.0	puts		
+2445	good	morning	brent	jan	86	strd				
+2446	brent	apr	90	p						
+2447	whats	up	go	x	806	p	629			
+2448	you	want	in	ho	q	2.46	call	3		
+2449	whats	up	ho	z	4.430	5.088	psprd	7		
+2450	you	want	in	brt	h	96	115	putspread		90.7
+2451	ho	jun	4.057	call	1.3	4.8				
+2452	wti	oct	75	76	psprd	84				
+2453	yo	brent	oct	93.4	108.2	callspread				
+2454	yo	go	jun	821	strad					
+2455	ho	oct	3.656	c						
+2456	brent	x	94.5	strd	62.5	79.3				
+2457	yo	go	apr	821	call					
+2458	whats	up	go	jan	742	strd	532.9	580.1		
+2459	yo	ho	j	2.67	p					
+2460	go	j	721	c		517				
+2461	brent	j	86.8	c	57.0					
+2462	you	want	in	brt	jul	97	strd	81		
+2463	good	morning	wti	jul	87	put	57.2	73.3		
+2464	you	want	in	brt	x	93.8	109.0	psprd		
+2465	brt	k	96.4	put						
+2466	hey	go	n	761	strd	546.9				
+2467	yo	ho	apr	3.111	p	4				
+2468	wti	j	83	call		54	70			
+2469	you	want	in	brent	g	95	112	putspread		
+2470	hey	ho	jan	3.83	strad		1			
+2471	good	morning	brent	h	87	straddle				
+2472	wti	g	88	103	putspread	101				
+2473	wti	jun	87	straddle	57					
+2474	yo	brent	aug	94	call	78.9				
+2475	brt	v	88	strad	74					
+2476	hey	brent	x	80.8	81.5	psprd	72.0	90.0		
+2477	yo	brent	nov	90.3	101.3	psprd	83	103		
+2478	whats	up	wti	g	84.3	straddle		55.3		
+2479	whats	up	go	oct	799	strd	624			
+2480	go	u	736	772	callspread					
+2481	you	want	in	go	jun	750	800	puts	735	790
+2482	yo	brt	q	89	straddle	74.9				
+2483	good	morning	ho	jan	5.091	p	1.9			
+2484	good	morning	go	q	803	strd	577.7	626.8		
+2485	good	morning	go	z	761	call	594.6			
+2486	hey	wti	m	84.5	95.3	csprd		78	97	
+2487	hey	brt	k	94	110	csprd				
+2488	you	want	in	brt	may	85	call			
+2489	go	f	772	846	callspread	762	819			
+2490	you	want	in	brt	q	95	straddle		63	
+2491	go	mar	839	995	csprd	848				
+2492	yo	ho	mar	3.60	put	4				
+2493	you	want	in	brent	apr	96	strd	63.5		
+2494	you	want	in	ho	dec	2.98	3.13	callspread	offer	4.8
+2495	go	g	751	call	539.5					
+2496	wti	g	75	strd						
+2497	brt	q	82	85	psprd		74			
+2498	you	want	in	brt	dec	90	100	calls		
+2499	go	dec	717	c		515				
+2500	go	x	837	p	653					
+2501	whats	up	brt	may	87	95	callspread		79.6	98.4
+2502	yo	ho	apr	2.315	straddle	0.4				
+2503	ho	h	2.737	straddle		1	3			
+2504	wti	jul	80.1	85.6	callspread	offer	91			
+2505	brent	g	86.5	strad						
+2506	hey	ho	jan	2.742	2.841	calls				
+2507	yo	ho	u	2.282	2.295	csprd				
+2508	good	morning	go	dec	734	c	offer	574		
+2509	wti	g	77	strd	50					
+2510	you	want	in	wti	u	82	90	putspread	93	
+2511	wti	aug	89	107	csprd	83.8				
+2512	brent	feb	92.9	107.0	callspread					
+2513	yo	go	n	726	call					
+2514	whats	up	wti	x	83.4	92.7	puts		76	95
+2515	whats	up	go	oct	741	call	579			
+2516	wti	dec	87	put						
+2517	whats	up	wti	may	79	strd				
+2518	brent	nov	86.0	92.0	psprd	96.9				
+2519	brt	u	83	c	54	70				
+2520	brent	k	91	strad	60.0					
+2521	hey	brt	z	89	99	callspread	offer	101		
+2522	hey	brt	n	90	101	csprd				
+2523	you	want	in	wti	mar	78.1	strd			
+2524	yo	brent	z	88.8	98.0	putspread				
+2525	brent	aug	80.6	81.2	putspread	71.8	89.7			
+2526	brt	q	96.4	strad		63.8	80.8			
+2527	good	morning	go	z	818	946	puts			
+2528	good	morning	brt	oct	86.8	93.6	psprd	98		
+2529	go	oct	720	c	516.8	563.2				
+2530	yo	wti	f	78.7	strad		51.3			
+2531	ho	m	4.250	4.831	psprd	offer	6			
+2532	brt	oct	80.6	81.2	puts					
+2533	you	want	in	ho	x	4.19	4.74	putspread	2	
+2534	yo	wti	dec	78	p		50.9			
+2535	go	x	743	786	calls					
+2536	whats	up	brent	apr	82.9	c				
+2537	hey	brt	z	91	strd					
+2538	whats	up	brent	nov	87.8	p	74			
+2539	yo	brent	x	91	103	csprd	84.3	103.7		
+2540	hey	brt	q	95	p	80				
+2541	yo	brent	z	83	85	putspread	offer	93		
+2542	whats	up	wti	nov	77.4	79.9	calls			
+2543	whats	up	wti	jul	76	78	puts			
+2544	yo	brt	oct	94.6	110.9	callspread		89		
+2545	yo	brt	aug	94	strd		62	79		
+2546	good	morning	brent	m	82	84	calls			
+2547	hey	ho	dec	2.25	straddle	0.4				
+2548	brt	h	90	100	psprd		83			
+2549	hey	brt	oct	80	p	52.3				
+2550	you	want	in	brt	jun	82.6	85.1	psprd	74	
+2551	you	want	in	brt	v	86	call	56.5	72.5	
+2552	brt	z	85	90	callspread					
+2553	go	jun	739	776	putspread	offer	775.6			
+2554	hey	brt	dec	83	p		54.4	70.1		
+2555	ho	oct	3.60	3.94	puts		1.8			
+2556	hey	ho	m	4.41	strad					
+2557	wti	dec	84.4	94.9	callspread	78				
+2558	go	jan	743	strd	533.6					
+2559	you	want	in	wti	k	83.9	strd	55.0		
+2560	whats	up	wti	n	77.4	79.8	psprd	69.2	86.8	
+2561	wti	m	89.7	107.3	putspread	104				
+2562	brt	x	89.2	98.8	csprd	101.2				
+2563	hey	wti	may	77.0	79.0	puts	69	86		
+2564	go	feb	845	1010	calls	nan	nan			
+2565	whats	up	ho	apr	4.995	call				
+2566	go	k	709	c	555					
+2567	whats	up	brent	jan	88.2	straddle	58			
+2568	brt	apr	85	straddle	71.7					
+2569	good	morning	go	dec	741	straddle	532.2			
+2570	brt	may	91.7	strd						
+2571	whats	up	ho	oct	3.769	p				
+2572	brt	may	91.2	p						
+2573	hey	brt	h	82.2	c	70				
+2574	brt	v	83	c						
+2575	go	nov	729	strd						
+2576	you	want	in	brent	may	93.9	109.2	csprd	offer	108
+2577	yo	wti	u	75.1	c		49			
+2578	whats	up	brent	oct	81	p	53	69		
+2579	brent	aug	91.0	102.7	putspread					
+2580	ho	v	3.91	4.35	calls					
+2581	wti	x	78	c						
+2582	you	want	in	brt	h	81.3	82.6	callspread	90.7	
+2583	ho	q	3.02	3.18	calls		1.3	4.8		
+2584	wti	jun	89	105	putspread	83.4	102.6			
+2585	good	morning	wti	feb	89.4	106.5	callspread	103		
+2586	go	feb	836	put	602.0	652.0				
+2587	hey	ho	f	4.73	5.52	callspread	2.7			
+2588	wti	apr	78.3	81.7	psprd	70	88			
+2589	hey	ho	q	4.87	5.74	psprd	2.8			
+2590	good	morning	ho	q	2.445	strd		0.5		
+2591	yo	ho	z	2.68	2.76	puts	4.3			
+2592	go	f	818	p						
+2593	yo	ho	f	3.86	4.29	csprd	2.0			
+2594	yo	ho	q	2.25	call		0.4			
+2595	brent	v	80.4	80.8	putspread					
+2596	whats	up	wti	feb	84	94	puts		77.2	
+2597	yo	wti	n	77	p	50				
+2598	you	want	in	go	dec	774	850	csprd	764.8	
+2599	brt	aug	82.5	put						
+2600	whats	up	wti	z	75.6	76.2	callspread		67.0	
+2601	good	morning	ho	h	3.35	3.61	psprd	1.6		
+2602	you	want	in	wti	dec	75.7	strd	49.2		
+2603	ho	x	4.46	strad	5					
+2604	wti	f	81.3	put	53					
+2605	hey	wti	dec	77.2	strd	65.5				
+2606	brt	z	89	99	callspread	81.9				
+2607	ho	oct	5.10	6.09	putspread					
+2608	ho	jan	3.63	3.98	csprd	1.8	5.6			
+2609	hey	go	oct	841	1000	callspread	nan			
+2610	good	morning	brt	may	92	p		61	77	
+2611	brent	m	85	91	putspread		77.2			
+2612	yo	go	g	833	straddle	649.7				
+2613	whats	up	brent	n	96	115	psprd	offer	111	
+2614	whats	up	wti	v	86	strd		56.5		
+2615	good	morning	wti	u	90	c	offer	76		
+2616	whats	up	ho	dec	2.282	p	0	3		
+2617	hey	brt	dec	87.5	95.2	putspread				
+2618	ho	dec	3.564	3.888	calls		1.7	5.6		
+2619	brent	sep	94.7	call	63					
+2620	you	want	in	brent	g	81	82	psprd		
+2621	good	morning	ho	g	2.760	call	3.5			
+2622	good	morning	brt	mar	83	straddle	54.4	70.1		
+2623	yo	brent	apr	85	put					
+2624	brent	x	89.2	98.8	psprd	82.0				
+2625	yo	ho	nov	4.37	c		1			
+2626	you	want	in	ho	nov	4.531	strad	2	5	
+2627	good	morning	brent	oct	83	87	calls			
+2628	brt	feb	89.7	100.0	callspread	offer	102			
+2629	yo	ho	feb	4.852	5.710	putspread	2.8			
+2630	ho	dec	2.351	strd		0	3			
+2631	go	x	809	strd						
+2632	whats	up	wti	n	82.4	c	54	70		
+2633	go	m	826	965	puts					
+2634	good	morning	wti	feb	78	strd	51			
+2635	ho	x	4.036	put	1.3	4.8				
+2636	brent	k	96	call	63.5					
+2637	you	want	in	wti	nov	83.9	93.9	calls	95.7	
+2638	ho	f	3.166	3.370	csprd					
+2639	yo	brent	sep	80.5	81.0	putspread	71.6	89.6		
+2640	hey	brt	nov	86	91	callspread	offer	96.6		
+2641	hey	go	n	755	strad					
+2642	go	nov	794	892	callspread	offer	847			
+2643	ho	m	2.91	3.05	putspread					
+2644	yo	go	mar	714	727	callspread	690.5	744.0		
+2645	brent	f	82	straddle	53.7	69.3				
+2646	yo	ho	u	3.593	3.927	puts				
+2647	wti	m	87	c	57	73				
+2648	go	f	800	p	575.5	624.5				
+2649	hey	ho	nov	3.68	4.04	putspread				
+2650	brt	x	81.2	put	53					
+2651	you	want	in	go	sep	813	call			
+2652	brent	u	91.6	104.1	puts	offer	104.5			
+2653	you	want	in	go	jun	790	put	568		
+2654	you	want	in	ho	jan	4.448	5.114	psprd	6.8	
+2655	wti	j	81	p	53.0	68.5				
+2656	brent	sep	89.0	call	74.9					
+2657	ho	x	2.59	2.65	puts	1				
+2658	you	want	in	wti	feb	81	call	offer	68.5	
+2659	yo	brent	j	92.9	p	78				
+2660	hey	brt	feb	84.8	89.7	callspread	77	95		
+2661	wti	sep	82	p						
+2662	you	want	in	ho	nov	3.135	3.331	calls		
+2663	whats	up	wti	oct	86	strd	72.5			
+2664	you	want	in	go	jan	831	straddle	offer	648	
+2665	go	sep	810	c						
+2666	hey	brent	jun	91.1	strd		60			
+2667	ho	mar	2.96	strad						
+2668	go	n	732	strd	offer	572				
+2669	go	z	824	call	593.1	642.9				
+2670	whats	up	ho	h	3.17	put	0.8	3.9		
+2671	go	h	742	strad	580.1					
+2672	go	oct	778	straddle	offer	608				
+2673	good	morning	ho	z	2.77	c	0.6			
+2674	ho	feb	3.61	call						
+2675	yo	go	q	723	strd	519	566			
+2676	brent	j	84	87	puts	75.5				
+2677	good	morning	go	x	707	strad	553.3			
+2678	good	morning	wti	k	79.8	strad		52	68	
+2679	good	morning	brent	nov	96	115	puts			
+2680	you	want	in	brent	apr	84	call			
+2681	brent	v	91.4	103.8	calls		85			
+2682	wti	k	87.3	strad	57.4	73.6				
+2683	brent	h	84	87	putspread					
+2684	hey	wti	jun	81	call	68.5				
+2685	yo	ho	g	3.145	3.343	putspread	1	5		
+2686	hey	brent	feb	82	83	puts	73.2	91.3		
+2687	whats	up	wti	q	80.1	85.5	csprd		72.4	
+2688	yo	ho	x	5.191	put	1.9	5.9			
+2689	go	may	759	straddle	593					
+2690	whats	up	brt	x	92	105	puts	85.5		
+2691	ho	may	4.37	strad	1.5	5.1				
+2692	brent	f	87	strd						
+2693	go	m	768	838	callspread		757.5			
+2694	good	morning	wti	m	75.1	75.3	callspread	66.5	83.8	
+2695	hey	wti	u	84	call					
+2696	you	want	in	wti	q	78	82	callspread		
+2697	yo	wti	mar	83.5	93.1	csprd		76.6	95.2	
+2698	go	z	834	982	calls	900.5				
+2699	hey	go	jan	830	straddle	647.4				
+2700	good	morning	ho	apr	2.31	2.33	csprd	1	4	
+2701	yo	go	apr	730	759	puts	764			
+2702	brt	h	93.0	107.2	calls	106.4				
+2703	you	want	in	brt	q	90	102	csprd	102.6	
+2704	go	oct	703	p	504	550				
+2705	whats	up	ho	apr	4.504	strd	5.2			
+2706	wti	jan	86	98	puts		80	98		
+2707	you	want	in	ho	v	4.99	strad	6		
+2708	hey	brt	jan	86.3	92.7	psprd	79	97		
+2709	whats	up	ho	nov	2.691	call				
+2710	hey	ho	v	4.89	5.76	puts	3			
+2711	yo	brent	dec	82.2	84.3	calls	offer	91.8		
+2712	yo	ho	k	2.626	put	0.6	3.4			
+2713	yo	wti	dec	80	86	puts				
+2714	good	morning	brent	z	89	99	puts	offer	101.1	
+2715	ho	nov	2.69	c	1					
+2716	you	want	in	brt	jun	86	93	calls	offer	97
+2717	you	want	in	brt	m	86.0	strd			
+2718	whats	up	wti	k	86.8	strad	57.0			
+2719	whats	up	go	x	766	834	psprd			
+2720	hey	ho	k	2.62	2.69	calls	4			
+2721	go	u	819	strad	offer	639.0				
+2722	whats	up	wti	x	85.8	strd	56	72		
+2723	hey	ho	aug	2.644	2.722	callspread	4.3			
+2724	brent	v	92	p		61	77			
+2725	hey	wti	aug	88.9	strd	58.5				
+2726	wti	j	88	103	psprd					
+2727	yo	brent	q	94	straddle		62	79		
+2728	yo	wti	h	75.7	76.5	psprd	84.6			
+2729	you	want	in	brent	g	93.7	c			
+2730	good	morning	brent	jan	94.5	110.7	psprd	108		
+2731	whats	up	brent	may	84	p	55			
+2732	brt	aug	86	91	csprd	96.6				
+2733	yo	brt	q	85	89	putspread		77		
+2734	brent	nov	96.9	116.1	puts	91.6				
+2735	yo	wti	jul	82.0	89.7	psprd		75	93	
+2736	whats	up	ho	may	3.009	p		1	4	
+2737	go	jan	717	734	callspread		694			
+2738	yo	brent	jun	88	96	puts	80.5	99.5		
+2739	whats	up	go	g	744	788	csprd	727.5		
+2740	hey	go	oct	829	971	psprd	835.1	893.9		
+2741	brent	h	83.0	85.9	puts	75				
+2742	yo	go	jul	781	straddle					
+2743	you	want	in	go	oct	753	807	puts	738.8	794.2
+2744	brt	n	87	94	callspread					
+2745	go	v	779	strd						
+2746	wti	oct	81.4	strad						
+2747	whats	up	brt	h	89	strd	74.9			
+2748	yo	go	oct	798	902	csprd				
+2749	hey	brent	m	92.0	p	77				
+2750	yo	brent	g	90	102	calls				
+2751	wti	m	75.4	call	49.0	64.1				
+2752	you	want	in	ho	m	4.346	strd			
+2753	yo	brt	jan	90.6	101.9	csprd				
+2754	ho	apr	5.040	5.994	callspread					
+2755	wti	oct	80.4	strad	68.1					
+2756	you	want	in	go	mar	827	call			
+2757	go	dec	705	710	putspread					
+2758	yo	wti	x	87.1	put	57	73			
+2759	yo	brt	dec	80.9	strad	53	68			
+2760	brent	jun	95	113	putspread		89.5	109.5		
+2761	brt	u	91	call						
+2762	whats	up	brent	z	85	90	calls			
+2763	yo	brent	oct	87	93	puts				
+2764	good	morning	wti	n	89.5	106.8	puts			
+2765	ho	oct	2.536	2.593	calls		1.0			
+2766	brt	g	91.4	103.6	puts		85	104		
+2767	yo	brt	k	90.8	p		60	76		
+2768	go	jan	816	p	offer	637				
+2769	go	j	735	769	callspread	771				
+2770	brt	m	83.7	87.3	putspread	75	94			
+2771	yo	brt	may	84.7	strd	71				
+2772	hey	go	sep	771	strad					
+2773	brent	h	86	strd		56				
+2774	wti	oct	87	100	calls	80.8	99.8			
+2775	good	morning	brt	h	94	strd	offer	78.9		
+2776	brent	dec	82	p		53.7				
+2777	brent	z	95.8	strad						
+2778	you	want	in	brt	n	95	112	putspread	109.2	
+2779	brent	z	85.9	91.8	csprd		78.0			
+2780	you	want	in	wti	h	76.0	call	65		
+2781	whats	up	ho	k	3.55	3.88	csprd		2	6
+2782	whats	up	brent	nov	88.3	c				
+2783	ho	f	3.64	3.99	callspread		2	6		
+2784	yo	ho	n	2.48	2.52	putspread	0.9			
+2785	whats	up	brent	feb	93	107	callspread	86.7	106.3	
+2786	brt	apr	88.6	97.6	calls	81	100			
+2787	hey	go	aug	813	straddle	585				
+2788	you	want	in	brent	aug	97	115	calls	91	
+2789	hey	brent	n	85.0	strad	offer	72			
+2790	ho	jun	2.42	2.45	psprd	4				
+2791	hey	go	mar	736	strd		529			
+2792	brt	f	95	111	csprd		89	109		
+2793	brent	nov	87	strd						
+2794	brent	feb	96.4	115.0	psprd		91	111		
+2795	whats	up	brent	oct	95.7	113.4	puts	offer	110	
+2796	brent	nov	88.5	p	58.2	74.5				
+2797	hey	brent	g	85.3	c	72.0				
+2798	good	morning	brt	apr	97.0	116.3	puts			
+2799	yo	ho	sep	4.35	4.97	puts	offer	7		
+2800	good	morning	brent	sep	89	c				
+2801	brt	u	84.6	strd	55.5					
+2802	good	morning	brt	nov	94	111	puts			
+2803	hey	wti	may	89.7	put		59	75		
+2804	you	want	in	ho	n	3.770	4.164	psprd	1.9	5.8
+2805	you	want	in	wti	z	83	93	calls	76	95
+2806	ho	dec	2.63	2.70	callspread	1	4			
+2807	good	morning	brent	apr	82.2	84.4	callspread		74	92
+2808	go	dec	756	813	puts					
+2809	hey	brt	oct	93.9	109.2	puts		87.8	107.6	
+2810	yo	brent	v	94	call	62.1				
+2811	brt	mar	91.0	102.7	psprd	84	104			
+2812	whats	up	wti	jun	81.6	straddle				
+2813	brent	x	91.6	104.1	callspread	85.0				
+2814	good	morning	brt	nov	86	call				
+2815	whats	up	brent	jan	93	c	61.4			
+2816	you	want	in	go	dec	816	c	offer	636.7	
+2817	yo	brt	h	88.3	strd					
+2818	you	want	in	ho	z	2.334	2.355	csprd	1	
+2819	good	morning	ho	dec	3.433	put	1.0	4.2		
+2820	yo	brent	x	80	80	csprd	offer	88.9		
+2821	yo	wti	jul	81.4	put	53.2				
+2822	yo	wti	may	76	77	calls	67.5	85.0		
+2823	yo	go	feb	713	p	558				
+2824	wti	z	86	98	calls	79.6				
+2825	wti	j	82	strd		54	69			
+2826	good	morning	brent	jun	88	97	csprd	81	100	
+2827	hey	go	dec	744	789	puts		727.8		
+2828	hey	ho	oct	4.611	5.353	putspread	offer	7.0		
+2829	ho	feb	3.773	c	1.1	4.5				
+2830	hey	wti	z	84.4	straddle	55	71			
+2831	good	morning	go	z	753	strd				
+2832	ho	f	4.416	p	offer	5.1				
+2833	hey	wti	q	84.3	94.7	callspread		77.6		
+2834	go	h	741	p	532					
+2835	go	f	782	put		562.3	610.7			
+2836	you	want	in	wti	jan	83	92	callspread		76
+2837	good	morning	brt	u	84	put		55.1	70.9	
+2838	you	want	in	wti	q	82	c			
+2839	hey	brt	z	88	call	74				
+2840	whats	up	brent	v	88.5	97.4	puts	offer	100.2	
+2841	hey	go	oct	835	985	csprd	843	902		
+2842	ho	f	4.780	put						
+2843	brt	v	86	strad						
+2844	brt	g	82	p						
+2845	good	morning	ho	m	4.138	4.673	psprd	2.2	6.3	
+2846	yo	go	x	792	888	callspread	787			
+2847	good	morning	ho	n	3.00	p				
+2848	whats	up	go	z	779	strd				
+2849	wti	jun	81	strad		53.0	68.5			
+2850	yo	wti	may	81	strd	69				
+2851	you	want	in	go	m	742	783	callspread	779.7	
+2852	wti	may	83	straddle	54.4					
+2853	brent	n	90.5	101.7	callspread	83.6	103.0			
+2854	go	u	849	p						
+2855	brent	feb	84.8	put						
+2856	whats	up	ho	g	3.07	call	3.8			
+2857	yo	wti	jun	80	85	psprd	offer	90.3		
+2858	ho	mar	4.689	5.467	calls	7.1				
+2859	ho	dec	4.55	5.26	puts					
+2860	good	morning	ho	m	2.55	put		0.5		
+2861	whats	up	go	may	841	998	calls			
+2862	yo	brt	sep	86.0	92.0	callspread	78			
+2863	hey	go	dec	745	put	582.4				
+2864	you	want	in	brt	z	96	strd	80.5		
+2865	good	morning	go	z	776	854	csprd	767.3		
+2866	yo	ho	jan	5.01	5.95	psprd				
+2867	good	morning	brt	z	81	83	csprd	90.5		
+2868	ho	mar	4.577	5.302	calls					
+2869	whats	up	brt	apr	90.1	c				
+2870	brt	nov	87.1	94.3	putspread		79.5			
+2871	hey	go	z	761	822	putspread	748.4	804.1		
+2872	wti	j	83.4	92.8	puts	95.0				
+2873	hey	wti	j	85	strad	55.8	71.7			
+2874	whats	up	brt	n	93.3	c	61.6	78.3		
+2875	go	sep	833	call		600				
+2876	hey	go	h	746	call					
+2877	good	morning	ho	n	3.59	straddle				
+2878	go	n	739	strd						
+2879	yo	brent	q	95.9	c	offer	80.4			
+2880	you	want	in	brent	jan	83	85	psprd	74.4	92.6
+2881	yo	ho	h	3.20	call		1			
+2882	yo	brent	q	81	82	csprd	90.3			
+2883	brt	m	91.7	104.4	csprd	105				
+2884	brt	x	80.3	strad	68.0					
+2885	wti	f	80.8	c	68					
+2886	brt	v	82.0	put	54	69				
+2887	wti	n	77.3	79.7	csprd	69.1				
+2888	hey	ho	x	2.501	call		0.5	3.2		
+2889	go	q	844	straddle	658.2					
+2890	you	want	in	brent	f	90.9	straddle	59.9	76.4	
+2891	go	jun	794	894	putspread					
+2892	brent	z	96.6	straddle	63.9	81.0				
+2893	you	want	in	wti	apr	89.3	106.2	calls	84	
+2894	go	sep	815	strd	636					
+2895	ho	may	4.65	5.41	puts	3	7			
+2896	hey	brt	m	91	put	60.0	76.5			
+2897	wti	jan	81	call						
+2898	good	morning	go	g	715	730	psprd	691.9	745.6	
+2899	yo	brent	q	95.8	113.5	csprd	90	110		
+2900	whats	up	go	sep	714	727	puts			
+2901	whats	up	brt	k	81.7	strd				
+2902	hey	brent	sep	88	96	callspread	99.5			
+2903	whats	up	ho	k	4.99	5.92	calls	3	8	
+2904	whats	up	wti	jun	84	p	71			
+2905	yo	brent	dec	90.2	strd		59.4	75.9		
+2906	good	morning	brt	feb	88.3	call	58			
+2907	hey	wti	dec	89	strd		58.6	74.9		
+2908	yo	brent	aug	92	c	60.7	77.3			
+2909	you	want	in	ho	h	4.622	put			
+2910	brt	aug	89.4	99.2	puts		82.3	101.4		
+2911	ho	x	3.239	straddle	4.0					
+2912	wti	j	80	85	callspread	90.3				
+2913	good	morning	brent	sep	81	83	calls			
+2914	you	want	in	brt	z	89.7	99.9	puts		
+2915	whats	up	go	u	764	828	puts	808		
+2916	yo	go	z	834	p	600.5	650.5			
+2917	whats	up	go	aug	845	1009	calls			
+2918	brt	g	86.0	92.1	psprd		78	97		
+2919	you	want	in	go	m	774	call	556.4	604.6	
+2920	wti	apr	78.8	call						
+2921	brt	k	96.8	116.0	puts	91.5				
+2922	brent	g	97	116	csprd	92				
+2923	good	morning	go	u	791	887	puts	843.5		
+2924	brent	mar	90	101	putspread					
+2925	ho	k	4.971	straddle	offer	5.7				
+2926	wti	jan	85.5	put	56.1	72.1				
+2927	go	x	705	strd		506	552			
+2928	wti	jul	85.1	call						
+2929	yo	wti	g	86	98	putspread	79.6			
+2930	whats	up	brt	dec	94.3	110.2	callspread	88	108	
+2931	whats	up	wti	x	87	101	calls		81	100
+2932	whats	up	ho	v	4.18	c		1.4		
+2933	whats	up	brt	aug	88.0	96.4	csprd			
+2934	good	morning	brent	oct	91.3	strd	60			
+2935	brt	z	86.6	put	73.0					
+2936	whats	up	wti	jan	76.4	strad	50			
+2937	brt	feb	82	call	69					
+2938	good	morning	ho	jul	4.832	c	1.7			
+2939	go	sep	813	strd	634					
+2940	good	morning	go	h	837	990	calls	845.7		
+2941	you	want	in	brt	dec	87	93	psprd	79	
+2942	ho	nov	3.498	put	1	4				
+2943	good	morning	ho	feb	4.222	strad		1.4		
+2944	wti	x	85.9	straddle	72.5					
+2945	brent	k	83	86	csprd	75	93			
+2946	yo	wti	f	80	p		52			
+2947	whats	up	wti	n	81.8	strad	53.5	69.2		
+2948	good	morning	brt	v	95	113	putspread		90	109
+2949	good	morning	ho	jul	2.656	call	1	3		
+2950	go	sep	849	strd						
+2951	you	want	in	brent	nov	89.0	98.5	callspread		81.8
+2952	hey	brt	feb	85.0	90.0	puts				
+2953	hey	brent	mar	87	94	puts	offer	98		
+2954	wti	v	78.5	c	51.2	66.5				
+2955	you	want	in	wti	apr	83	c		54	70
+2956	wti	sep	78.9	83.0	puts	offer	89			
+2957	you	want	in	go	dec	849	call	offer	662.0	
+2958	good	morning	brent	oct	80	p	offer	68		
+2959	hey	go	jun	702	704	putspread	offer	729.0		
+2960	brent	aug	84.4	88.8	psprd	76	95			
+2961	yo	ho	n	3.13	strad		0.8			
+2962	wti	g	89.7	call	59.1					
+2963	wti	may	78.2	c						
+2964	ho	feb	3.16	put	0.8	3.9				
+2965	hey	brent	jul	89	c	offer	74.9			
+2966	you	want	in	wti	oct	86.7	100.1	calls	81	100
+2967	wti	aug	87	straddle						
+2968	wti	oct	75.3	75.6	calls	84				
+2969	go	nov	837	990	puts					
+2970	good	morning	wti	j	89	put	58.6			
+2971	good	morning	ho	u	3.85	strd				
+2972	ho	jun	3.86	call	5					
+2973	you	want	in	ho	k	2.389	2.420	putspread		
+2974	brt	jan	89.0	put		58.6				
+2975	yo	wti	g	75.1	75.1	calls				
+2976	brent	h	91.0	102.8	calls	offer	103.6			
+2977	you	want	in	ho	v	4.93	5.82	callspread	2.9	
+2978	wti	mar	85	put	55.8					
+2979	yo	brt	apr	86.6	put	73.0				
+2980	ho	oct	3.37	strad	1	4				
+2981	brt	j	94	straddle	offer	78.9				
+2982	go	apr	797	p						
+2983	whats	up	go	f	730	put	571			
+2984	yo	wti	jun	77	strad	65.3				
+2985	good	morning	ho	sep	2.90	strad	0.7	3.6		
+2986	whats	up	wti	jul	89.6	strd		59	75	
+2987	hey	wti	q	81.0	87.4	callspread	74			
+2988	good	morning	brt	jan	83.4	put	54.6	70.5		
+2989	good	morning	brt	v	88.4	97.1	callspread		81.1	100.1
+2990	good	morning	brt	jul	86.2	92.6	puts		78.4	
+2991	whats	up	go	g	813	straddle	634			
+2992	wti	dec	90	strd	offer	76				
+2993	hey	brent	h	96.9	straddle	64	81			
+2994	yo	go	jan	774	851	calls	765			
+2995	brent	oct	89	99	csprd	101.1				
+2996	yo	brt	z	90.1	c	59	76			
+2997	brt	aug	81.4	82.8	psprd	73	91			
+2998	whats	up	go	mar	748	795	putspread		732.2	
+2999	good	morning	brent	mar	87.8	95.9	calls	99		
+3000	brt	k	95	straddle		62.8				
+3001	ho	jun	3.66	put		1	4			
+3002	ho	jul	4.417	5.070	puts	2				
+3003	go	apr	737	774	calls	774				
+3004	yo	ho	mar	3.073	strad	4				
+3005	ho	jun	2.468	2.513	calls		0.9			
+3006	wti	may	84.0	p		55	71			
+3007	brent	jun	91.6	c	60	77				
+3008	good	morning	wti	feb	77.8	call	offer	66.0		
+3009	yo	brent	nov	85.4	90.8	calls	77.4	96.1		
+3010	you	want	in	brent	may	83	put	offer	70.1	
+3011	hey	wti	n	88	102	puts	offer	101.1		
+3012	hey	go	q	839	c	604.2				
+3013	good	morning	ho	jul	4.390	strd				
+3014	go	h	789	882	csprd	offer	840.8			
+3015	brent	mar	80.5	call						
+3016	good	morning	brt	sep	87.1	strad		57		
+3017	ho	v	4.674	put		2				
+3018	whats	up	wti	g	82.9	c				
+3019	good	morning	ho	mar	4.511	p	2			
+3020	ho	aug	4.765	5.580	csprd	offer	7			
+3021	good	morning	go	j	849	1017	calls	nan		
+3022	hey	wti	jun	81.5	88.5	calls		74.1	92.4	
+3023	hey	ho	j	4.59	5.32	puts		2.6		
+3024	hey	wti	z	80	p					
+3025	good	morning	ho	f	2.561	p				
+3026	brent	sep	90.5	p						
+3027	whats	up	brent	u	95.3	strad				
+3028	good	morning	wti	may	88	104	puts	101.6		
+3029	whats	up	ho	x	3.774	4.171	putspread			
+3030	wti	m	82.0	strd	53.7	69.3				
+3031	brt	oct	80.2	strad		52				
+3032	hey	brent	may	83	c	70				
+3033	you	want	in	go	f	731	call	571.7		
+3034	whats	up	brent	v	93.7	strad	61.9			
+3035	yo	brt	q	83.3	86.5	putspread		75		
+3036	whats	up	ho	q	3.14	strd	1	4		
+3037	whats	up	brt	q	94	straddle	62			
+3038	ho	aug	2.477	2.523	csprd		0.9			
+3039	you	want	in	ho	jan	3.445	3.731	putspread		
+3040	ho	jan	4.96	5.87	calls	7.5				
+3041	yo	wti	oct	78.0	81.1	puts	69.9	87.7		
+3042	brent	dec	90	strad		59				
+3043	ho	mar	4.494	5.181	puts					
+3044	good	morning	wti	k	86.8	100.5	callspread	81	100	
+3045	hey	wti	q	89	105	putspread	83	103		
+3046	brent	k	84.5	strd		55.4	71.3			
+3047	whats	up	go	aug	736	771	putspread	717.5	772.0	
+3048	yo	brent	z	81.7	strad	53				
+3049	go	apr	731	call	offer	571.7				
+3050	ho	z	3.386	3.653	callspread					
+3051	brt	f	91.5	103.9	putspread	104				
+3052	whats	up	go	x	715	straddle		513		
+3053	yo	brt	j	86	strd					
+3054	hey	go	k	804	strad		578.4			
+3055	wti	nov	87.1	101.1	calls	81.1	100.1			
+3056	you	want	in	ho	oct	4.67	5.44	psprd	offer	7.1
+3057	you	want	in	go	f	756	812	calls	797.7	
+3058	good	morning	go	jul	793	890	csprd	788.7	845.8	
+3059	wti	x	78	81	psprd	offer	87.6			
+3060	good	morning	brt	q	82.8	85.4	putspread	93		
+3061	go	aug	789	882	psprd					
+3062	you	want	in	brt	nov	91	p	76.5		
+3063	good	morning	go	x	764	830	csprd	offer	808	
+3064	hey	ho	u	3.45	3.74	psprd	2	5		
+3065	hey	ho	feb	4.281	call	5.0				
+3066	whats	up	ho	f	3.58	3.91	calls			
+3067	wti	z	88	103	psprd	101.3				
+3068	whats	up	go	u	820	951	puts		824	882
+3069	go	jan	761	823	psprd		749	804		
+3070	you	want	in	brt	x	84	87	calls	76	
+3071	whats	up	brent	g	95.6	straddle	63			
+3072	whats	up	go	h	732	764	callspread	713	767	
+3073	wti	h	76.2	77.4	puts	67.8				
+3074	whats	up	brent	h	93.6	108.5	putspread		87	107
+3075	hey	ho	jun	2.72	2.82	psprd				
+3076	brent	dec	88	97	calls	80.8	99.8			
+3077	brent	v	95.0	111.8	putspread					
+3078	yo	ho	v	5.04	strad	2				
+3079	yo	wti	jun	78.4	82.0	psprd				
+3080	you	want	in	brt	mar	95	c	79.7		
+3081	you	want	in	ho	aug	4.53	strd	1.6		
+3082	brt	oct	88.5	strd	58.2	74.5				
+3083	brt	dec	83.1	86.1	puts		75			
+3084	ho	jul	2.64	p		1				
+3085	ho	k	5.008	call	2	6				
+3086	you	want	in	ho	k	4.06	c	5		
+3087	yo	go	m	733	p					
+3088	whats	up	wti	n	77.0	79.1	callspread	68.7	86.3	
+3089	you	want	in	ho	z	2.91	strad	offer	3.7	
+3090	ho	n	3.577	strd		1	4			
+3091	whats	up	brent	k	80.8	straddle				
+3092	good	morning	go	sep	804	915	putspread	803		
+3093	ho	q	4.59	5.33	callspread					
+3094	yo	wti	j	83	92	callspread				
+3095	wti	jun	79.3	c						
+3096	good	morning	brt	aug	88	p	74			
+3097	go	aug	716	732	csprd	693.2	746.8			
+3098	yo	brt	mar	81	p	68.5				
+3099	good	morning	wti	dec	87	c				
+3100	yo	ho	jan	4.680	p	1.6	5.4			
+3101	ho	aug	2.437	2.475	callspread					
+3102	hey	ho	jun	3.71	4.09	puts	2			
+3103	hey	go	oct	831	975	csprd	838			
+3104	hey	brt	mar	83	p					
+3105	you	want	in	wti	j	81	87	putspread	73	
+3106	yo	ho	m	3.969	4.438	callspread				
+3107	yo	wti	v	79	84	calls		71	89	
+3108	yo	go	aug	803	914	csprd	801.9	859.6		
+3109	ho	v	4.074	4.582	psprd	2.2				
+3110	hey	brt	dec	87.8	95.9	calls				
+3111	good	morning	brent	x	81	c	53			
+3112	go	aug	720	straddle	517					
+3113	whats	up	brent	jan	96	call	80			
+3114	brt	f	81	p	offer	68.5				
+3115	hey	brt	may	96.9	116.1	callspread	offer	112		
+3116	good	morning	go	h	713	c				
+3117	yo	wti	j	88	strad	58				
+3118	wti	sep	85.9	straddle	72					
+3119	whats	up	go	n	743	785	puts			
+3120	yo	wti	q	79	strd	52	67			
+3121	good	morning	brt	u	94.9	111.5	putspread			
+3122	brt	z	92.5	strad	offer	78				
+3123	brt	aug	91.0	102.7	calls		84.2			
+3124	ho	f	2.31	strd	3.0					
+3125	brt	n	86	93	csprd	78.4	97.1			
+3126	brent	q	86.0	92.0	csprd					
+3127	you	want	in	wti	z	85	strd		55.8	
+3128	hey	ho	jun	3.13	3.32	puts	1			
+3129	brt	jan	89	98	csprd	81.7	100.8			
+3130	go	jul	712	strad	557					
+3131	ho	sep	3.90	straddle						
+3132	brt	m	88.4	97.1	callspread	offer	100.1			
+3133	brent	q	86.0	92.0	calls	78.1	96.9			
+3134	go	z	716	call	offer	560				
+3135	brent	jun	92	put	77.3					
+3136	yo	brt	j	91.0	102.7	psprd				
+3137	ho	q	3.01	3.17	psprd	5				
+3138	brent	n	95	straddle	offer	80				
+3139	yo	wti	q	88	102	callspread				
+3140	good	morning	wti	m	75.8	call	49	64		
+3141	good	morning	brt	sep	91.7	104.2	puts	85		
+3142	good	morning	ho	j	5.186	6.218	puts	3	8	
+3143	hey	wti	oct	77	strad	50.2	65.3			
+3144	brt	nov	92	106	calls					
+3145	whats	up	wti	k	79	82	csprd	70.8		
+3146	good	morning	go	n	830	974	csprd	895		
+3147	go	k	741	p	532.2	579.3				
+3148	good	morning	ho	jul	2.24	2.25	calls			
+3149	ho	dec	4.73	strd	5					
+3150	brt	f	94.8	111.2	callspread	89.0				
+3151	brt	apr	90	101	puts		83.1	102.4		
+3152	brt	may	84	call						
+3153	good	morning	ho	j	4.92	strd				
+3154	yo	brt	n	91	put	60	77			
+3155	wti	u	78	put						
+3156	you	want	in	wti	aug	87.0	100.9	putspread	81	100
+3157	hey	ho	oct	3.604	3.941	csprd	5.6			
+3158	wti	nov	87.1	put						
+3159	good	morning	brt	jun	96.1	c	63.6			
+3160	yo	brt	apr	85	strad					
+3161	go	k	823	957	callspread					
+3162	hey	brent	x	91.7	call	60				
+3163	good	morning	wti	may	82.6	91.0	psprd	75	94	
+3164	wti	z	80.7	86.9	puts	73	91			
+3165	ho	aug	3.668	4.027	psprd	5.7				
+3166	ho	sep	4.56	p	5					
+3167	wti	apr	75.0	75.1	putspread					
+3168	whats	up	go	aug	702	704	puts		676.0	
+3169	brt	m	84.5	89.0	putspread	94.9				
+3170	whats	up	brt	dec	83.1	call				
+3171	ho	u	3.617	3.959	calls					
+3172	brent	may	91	strad						
+3173	you	want	in	brent	aug	89.6	put			
+3174	good	morning	wti	q	81.0	p	53.0			
+3175	ho	n	2.61	strd	1	3				
+3176	whats	up	wti	q	89	call	offer	74.9		
+3177	wti	oct	87.5	102.0	putspread	81.6	100.7			
+3178	wti	h	81.6	88.9	putspread	74.3	92.6			
+3179	hey	wti	aug	75.9	76.7	putspread	offer	84.8		
+3180	yo	wti	dec	84	call					
+3181	you	want	in	brt	v	93	strd	offer	78.1	
+3182	ho	sep	4.245	4.823	puts	6.5				
+3183	wti	v	81	c	53.0	68.5				
+3184	good	morning	wti	k	81.5	88.5	puts	74.1		
+3185	brent	feb	91	102	csprd	84				
+3186	good	morning	wti	feb	76	77	puts			
+3187	brt	z	85.0	90.0	csprd					
+3188	whats	up	brent	oct	89	98	puts	101		
+3189	wti	h	85	call		55.8	71.7			
+3190	good	morning	go	j	801	p	625			
+3191	hey	wti	jul	76.8	78.6	calls		68	86	
+3192	ho	oct	3.52	3.84	psprd		2	5		
+3193	brt	apr	82	p						
+3194	good	morning	ho	k	2.84	straddle	3.6			
+3195	ho	dec	3.920	strd	1					
+3196	you	want	in	go	u	732	call	526		
+3197	hey	ho	feb	4.755	5.565	putspread		3		
+3198	hey	go	oct	815	straddle	offer	636.0			
+3199	you	want	in	brt	aug	95	112	calls	109	
+3200	wti	x	88	strad						
+3201	yo	wti	mar	79.4	84.1	csprd	89.6			
+3202	whats	up	ho	k	3.00	3.15	psprd	1.3		
+3203	yo	wti	sep	77.3	call	50.4	65.6			
+3204	hey	ho	mar	3.39	3.66	putspread	offer	5.3		
+3205	yo	wti	feb	89	106	callspread				
+3206	hey	wti	jan	79	82	psprd	71			
+3207	ho	m	3.322	strd	offer	4.1				
+3208	wti	jun	75.3	75.5	putspread					
+3209	go	feb	711	722	puts		687			
+3210	you	want	in	brent	dec	95.8	p	63	80	
+3211	you	want	in	wti	x	89	straddle	59	75	
+3212	brt	jun	84	put	55					
+3213	you	want	in	go	may	719	straddle	516.0		
+3214	brt	aug	95.6	113.2	calls	90.0	110.0			
+3215	hey	wti	may	76.2	strd	50	65			
+3216	yo	ho	mar	5.00	strd					
+3217	yo	wti	mar	86.6	100.1	csprd	99.5			
+3218	yo	brt	h	86	c	offer	73			
+3219	you	want	in	go	aug	808	strd	581.4	630.6	
+3220	yo	ho	v	2.82	strad		0.7			
+3221	yo	brt	mar	80	80	callspread	71			
+3222	brt	q	94	straddle						
+3223	yo	brent	g	86.1	92.2	putspread	78.3			
+3224	yo	wti	f	77	straddle					
+3225	whats	up	brent	f	93.7	108.8	putspread			
+3226	whats	up	ho	dec	3.533	strad	1.0			
+3227	brt	jul	91.3	103.5	csprd					
+3228	good	morning	brent	oct	88	97	csprd			
+3229	good	morning	brt	g	89	strad	offer	74.9		
+3230	you	want	in	brt	q	82.5	85.0	callspread	74	92
+3231	brt	feb	85.6	91.2	putspread	offer	96			
+3232	good	morning	brent	m	86.8	put	57	73		
+3233	hey	go	g	823	straddle					
+3234	good	morning	go	h	714	c	512.4	558.6		
+3235	you	want	in	wti	z	78.5	call	offer	67	
+3236	good	morning	brent	apr	93	put				
+3237	whats	up	brt	jan	96	p	63.5			
+3238	yo	brt	k	84	put					
+3239	brt	nov	94.0	p	62	79				
+3240	you	want	in	go	k	811	c	584	633	
+3241	yo	go	may	812	c	633.7				
+3242	wti	m	82.0	89.7	puts	93.1				
+3243	ho	k	4.77	5.59	putspread					
+3244	go	jul	736	strad	529					
+3245	yo	brent	apr	94	c	62.1				
+3246	wti	n	89.8	107.6	calls	84.5				
+3247	yo	go	may	834	983	putspread		842		
+3248	yo	wti	q	81	strd		53	69		
+3249	brt	v	84	c						
+3250	good	morning	wti	mar	87	101	psprd	81		
+3251	whats	up	ho	f	2.59	call		1	3	
+3252	you	want	in	brent	jun	87.6	strad			
+3253	good	morning	brt	x	82	p				
+3254	yo	wti	oct	85	straddle	56	72			
+3255	you	want	in	brent	h	86.5	put	56.8	72.9	
+3256	yo	brent	q	94	p	79				
+3257	go	aug	723	call						
+3258	whats	up	ho	z	4.59	strad		1.6	5.3	
+3259	whats	up	go	feb	838	call	603	654		
+3260	yo	go	jul	791	887	putspread	786	844		
+3261	ho	nov	2.22	2.22	puts	offer	3.7			
+3262	whats	up	ho	n	4.36	4.99	calls	6.6		
+3263	go	feb	710	719	psprd					
+3264	whats	up	go	jul	791	c		569	618	
+3265	good	morning	brent	u	82.3	p				
+3266	go	oct	842	c	656.6					
+3267	yo	brent	u	82.5	straddle					
+3268	yo	wti	z	85	call		56			
+3269	good	morning	go	z	830	straddle				
+3270	brt	g	94	p						
+3271	good	morning	go	z	760	820	calls	747.2		
+3272	good	morning	wti	x	86	call		56	73	
+3273	brent	n	89.9	call	offer	76				
+3274	go	oct	790	c	616.8					
+3275	ho	sep	3.82	straddle						
+3276	brent	z	95	112	putspread	109.2				
+3277	wti	nov	89.0	p		59	75			
+3278	brt	dec	81	81	calls	offer	90.0			
+3279	you	want	in	go	oct	721	740	calls		698.8
+3280	good	morning	ho	n	3.317	strd	4			
+3281	whats	up	brt	x	92.9	107.1	psprd	87	106	
+3282	brt	dec	91.4	103.6	csprd	85				
+3283	brent	v	92.3	105.7	psprd					
+3284	good	morning	brent	j	96	strd	80			
+3285	ho	nov	3.95	c	1.2					
+3286	good	morning	brt	f	87	put	57	73		
+3287	yo	brt	z	92.5	put					
+3288	wti	m	87	call	57	73				
+3289	hey	brt	g	93	107	csprd	106			
+3290	yo	brent	feb	87	93	csprd	offer	98		
+3291	wti	u	86	100	putspread	80				
+3292	yo	ho	feb	3.959	put		1.2	4.7		
+3293	brent	oct	82.7	85.3	puts		74			
+3294	ho	j	3.99	call	5					
+3295	hey	wti	f	89	104	csprd				
+3296	wti	f	78.1	81.3	callspread	offer	87.8			
+3297	you	want	in	ho	oct	3.055	3.230	puts	1.3	
+3298	good	morning	wti	n	81	call	53.0	68.5		
+3299	you	want	in	wti	jun	83.6	93.2	calls	95.3	
+3300	wti	nov	81	strad	68.5					
+3301	yo	go	sep	848	1016	psprd	nan	nan		
+3302	good	morning	go	z	763	828	puts		751.3	
+3303	yo	brent	z	92.9	straddle	offer	78.0			
+3304	hey	ho	jan	4.031	straddle		1.3			
+3305	brt	h	85	89	csprd	offer	95.3			
+3306	you	want	in	ho	q	3.983	call	1	5	
+3307	yo	wti	aug	89	put	75				
+3308	go	nov	838	strd	603.4	653.6				
+3309	wti	z	87	p	57.2	73.3				
+3310	whats	up	brt	z	92	104	psprd	85.3	104.7	
+3311	you	want	in	brt	sep	94.2	110.0	csprd		88
+3312	brt	k	84	88	csprd		75.8			
+3313	brent	dec	85	call	71.7					
+3314	wti	nov	77	put						
+3315	ho	jan	2.46	2.50	puts	1	4			
+3316	whats	up	ho	j	4.52	strad		2		
+3317	brent	k	83	strad	54.4					
+3318	yo	wti	nov	88.5	strd					
+3319	you	want	in	go	q	835	p		601.2	651.3
+3320	good	morning	go	n	729	758	callspread	763		
+3321	yo	ho	feb	4.13	put					
+3322	brt	z	82.1	84.2	putspread					
+3323	yo	wti	jan	77	79	puts	68.7	86.3		
+3324	hey	wti	k	86	straddle	73				
+3325	wti	f	89	put		58.6				
+3326	brent	feb	84.6	89.2	puts		76	95		
+3327	go	z	777	strd	558.6					
+3328	hey	brent	n	83.9	87.7	puts				
+3329	you	want	in	ho	m	3.454	put	1.0	4.2	
+3330	brent	h	95.3	put	63	80				
+3331	you	want	in	brent	u	91	strad	offer	77	
+3332	you	want	in	brent	aug	91	102	calls		84
+3333	good	morning	go	mar	725	strad				
+3334	whats	up	brt	x	88.6	97.6	psprd	81		
+3335	brt	q	90.3	straddle						
+3336	hey	wti	j	76.5	p					
+3337	go	n	840	996	csprd	909				
+3338	good	morning	go	mar	717	733	puts	694	748	
+3339	hey	wti	k	87	p	57.2	73.3			
+3340	yo	wti	nov	77.2	79.4	puts	69			
+3341	you	want	in	brent	m	88.9	c	59	75	
+3342	ho	sep	4.387	c	5					
+3343	wti	oct	89.8	107.5	calls	104				
+3344	whats	up	ho	feb	3.70	put	1	4		
+3345	you	want	in	brt	h	95	112	puts		
+3346	yo	wti	jan	85	97	callspread	79			
+3347	brent	f	82.0	84.0	csprd	73.4				
+3348	you	want	in	wti	jul	78	82	calls	87.9	
+3349	whats	up	go	jul	817	put	588			
+3350	yo	wti	dec	88.7	p	58	75			
+3351	good	morning	brent	m	90	p	59	76		
+3352	hey	go	m	808	925	calls				
+3353	whats	up	brt	g	96	strd	63.5	80.5		
+3354	hey	wti	jun	88.9	put	58.5				
+3355	you	want	in	ho	aug	4.19	call	1		
+3356	good	morning	wti	g	81.0	87.5	csprd			
+3357	good	morning	brt	jan	81.6	83.2	csprd	offer	91.1	
+3358	good	morning	go	g	706	strad	506.5			
+3359	brent	nov	84	c		55	71			
+3360	go	dec	770	straddle	offer	601.5				
+3361	ho	v	3.551	3.871	calls					
+3362	whats	up	brent	u	88.5	c	58.2			
+3363	wti	j	83.5	put		55				
+3364	whats	up	wti	h	79.4	84.1	puts	offer	90	
+3365	good	morning	go	oct	736	strad	529			
+3366	you	want	in	go	z	812	c	offer	634	
+3367	you	want	in	brent	mar	89.1	98.5	calls		
+3368	go	q	753	straddle	541.0	588.5				
+3369	hey	brent	f	86.5	93.1	callspread				
+3370	brent	mar	93.8	108.9	putspread					
+3371	ho	g	4.90	5.78	calls					
+3372	ho	may	2.49	2.53	psprd	0.9				
+3373	yo	wti	n	85	96	callspread		78	97	
+3374	wti	k	83.2	92.3	callspread	offer	94.7			
+3375	brent	sep	84	strd						
+3376	whats	up	brent	nov	80.4	call		53		
+3377	brt	mar	96.1	p	63.6					
+3378	wti	f	85.8	put	72					
+3379	good	morning	brent	may	92.6	p		61		
+3380	good	morning	brt	mar	88	95	putspread		80.3	
+3381	yo	go	jun	797	899	callspread				
+3382	yo	go	h	751	c	587.0				
+3383	good	morning	brt	sep	87.6	call				
+3384	hey	brent	m	81	82	putspread	72	90		
+3385	brt	jul	95.1	strd	offer	79.8				
+3386	you	want	in	wti	jul	75	call		49	64
+3387	brent	feb	87	strad	offer	73.3				
+3388	go	feb	816	straddle						
+3389	hey	brent	g	86.8	straddle		57			
+3390	go	f	755	straddle	590.0					
+3391	yo	brt	g	95.9	c		63			
+3392	brent	dec	95.3	put						
+3393	ho	may	3.403	3.676	psprd					
+3394	whats	up	ho	nov	4.192	4.749	puts		2.3	6.4
+3395	hey	wti	x	84	93	csprd	77	96		
+3396	brent	oct	89.2	98.9	calls	82.1	101.2			
+3397	good	morning	brt	jul	96	115	psprd			
+3398	yo	brt	f	88.4	97.1	putspread	81	100		
+3399	ho	v	3.512	c						
+3400	whats	up	wti	nov	75.7	p				
+3401	hey	brent	jun	90.7	c	60	76			
+3402	hey	wti	apr	78	81	psprd		69.9		
+3403	whats	up	ho	h	3.418	3.695	csprd	offer	5.4	
+3404	wti	jun	85	96	psprd	offer	97			
+3405	good	morning	ho	nov	5.06	6.03	csprd		3	
+3406	you	want	in	wti	aug	77	straddle			
+3407	you	want	in	go	aug	809	927	callspread		810
+3408	whats	up	brent	f	96	put		63.5	80.5	
+3409	good	morning	go	z	725	call	520	567		
+3410	good	morning	go	feb	800	907	puts	offer	856	
+3411	good	morning	brent	jul	88.2	call		58	74	
+3412	hey	ho	dec	3.70	call		1.1	4.4		
+3413	brent	k	80.7	c						
+3414	hey	ho	k	2.37	2.40	callspread	0.8	3.9		
+3415	hey	go	u	802	call	626				
+3416	yo	brt	feb	97	116	calls				
+3417	yo	go	m	809	927	callspread	810	867		
+3418	good	morning	ho	oct	2.91	put	0.7	3.7		
+3419	you	want	in	wti	may	78	p	51	66	
+3420	brt	jul	88.1	strad	offer	74.2				
+3421	good	morning	wti	j	89.3	call	59			
+3422	ho	k	2.661	2.743	csprd		1	4		
+3423	yo	brt	jun	91	103	putspread		84.3		
+3424	good	morning	ho	feb	2.76	2.86	psprd			
+3425	wti	sep	76	78	csprd	67.8	85.2			
+3426	you	want	in	go	aug	839	994	putspread	848	
+3427	hey	brent	dec	83.3	strad	offer	70			
+3428	good	morning	brent	aug	86	straddle				
+3429	hey	brent	sep	96	114	csprd		90		
+3430	yo	ho	oct	5.17	6.20	callspread	3.1			
+3431	good	morning	ho	v	2.735	put	1			
+3432	whats	up	brent	jan	84	89	psprd		76.0	
+3433	go	nov	793	p	619					
+3434	you	want	in	brt	v	86	91	psprd	77.9	96.6
+3435	you	want	in	brent	jan	82	84	putspread		
+3436	wti	h	79	83	puts	71				
+3437	hey	go	jun	708	put	508.0				
+3438	brt	v	86.0	strad	72.5					
+3439	whats	up	brt	jan	92	strd	60.7	77.3		
+3440	wti	nov	76.2	77.4	psprd	68				
+3441	you	want	in	ho	feb	4.453	5.121	csprd		
+3442	yo	wti	apr	87.3	put	57.4				
+3443	hey	wti	feb	85.3	97.0	psprd	98			
+3444	yo	ho	aug	4.991	p	5.7				
+3445	hey	go	n	834	p	600	651			
+3446	yo	brt	jul	86.4	strad		57			
+3447	hey	brent	m	96.9	strad	64				
+3448	go	jun	737	straddle						
+3449	good	morning	brent	apr	93	107	csprd		86.7	
+3450	you	want	in	ho	j	4.63	call		2	
+3451	brent	n	95	strad	63	80				
+3452	good	morning	wti	mar	82	p	53.7			
+3453	you	want	in	brent	v	91.3	103.5	calls	104	
+3454	whats	up	ho	n	2.516	2.569	putspread	0.9		
+3455	hey	brt	aug	92.8	106.9	calls				
+3456	yo	go	m	721	c	517.5	564.0			
+3457	whats	up	brt	n	92	105	puts	85	105	
+3458	wti	k	75	76	callspread					
+3459	brent	feb	90	put						
+3460	hey	ho	jun	4.994	strd	offer	5.7			
+3461	brt	jan	93	106	puts	86.4	106.1			
+3462	you	want	in	ho	k	4.99	call	6		
+3463	you	want	in	brent	nov	88.2	call			
+3464	brt	g	85	strd	55.8	71.7				
+3465	brt	nov	86	put						
+3466	ho	nov	4.906	c	1.8	5.6				
+3467	hey	go	f	800	c	576				
+3468	wti	aug	78	82	callspread	70	88			
+3469	good	morning	ho	u	3.02	straddle				
+3470	hey	brent	apr	89	99	puts	101.1			
+3471	yo	brt	jun	85.7	put	72				
+3472	hey	go	jan	834	982	callspread		841	901	
+3473	ho	q	2.329	2.349	calls					
+3474	go	mar	813	935	calls		814			
+3475	go	jan	741	straddle		532				
+3476	hey	go	nov	709	718	putspread	offer	737.9		
+3477	good	morning	ho	aug	2.397	straddle		0.5	3.1	
+3478	brent	f	92	104	putspread					
+3479	whats	up	ho	aug	2.94	strad				
+3480	ho	aug	2.826	2.944	calls	1.2				
+3481	yo	brent	k	86	p	72.5				
+3482	you	want	in	ho	f	4.95	straddle	offer	5.6	
+3483	good	morning	wti	dec	79.8	c				
+3484	brt	u	86	93	callspread					
+3485	yo	go	v	834	straddle		600	651		
+3486	go	u	774	849	putspread					
+3487	good	morning	go	f	747	put	583.9			
+3488	wti	f	87.4	101.8	callspread					
+3489	brent	x	87.5	call	58					
+3490	you	want	in	wti	k	79	84	putspread	71	
+3491	wti	j	76	call	49.5					
+3492	hey	brt	m	93	put		61.4	78.1		
+3493	hey	brt	jan	87	straddle					
+3494	wti	nov	78	c	51					
+3495	ho	nov	4.20	4.76	calls					
+3496	whats	up	go	u	715	c	513.1	559.4		
+3497	wti	q	84	94	psprd	96				
+3498	good	morning	brent	x	96.2	strd		63.7	80.6	
+3499	hey	wti	u	86	98	csprd	98.4			
+3500	ho	mar	2.689	2.777	puts	4.4				
+3501	whats	up	wti	j	76.2	call	49.6			
+3502	ho	mar	3.080	3.261	puts	5				
+3503	yo	wti	jun	85.2	96.7	callspread		79	97	
+3504	brt	jul	87.7	95.6	putspread	99.1				
+3505	whats	up	brt	m	95	strd		63		
+3506	ho	jun	4.97	strad		2	6			
+3507	wti	sep	81.5	88.7	psprd					
+3508	brt	apr	92.0	call	61					
+3509	good	morning	ho	m	3.05	p		1	4	
+3510	brt	u	92.7	106.5	calls	86				
+3511	yo	wti	may	82	89	psprd	75	93		
+3512	wti	may	77.9	81.0	calls					
+3513	hey	ho	u	3.036	strad					
+3514	go	k	762	826	putspread					
+3515	hey	wti	q	77	79	psprd				
+3516	good	morning	go	jun	841	call		606		
+3517	you	want	in	brent	f	85	89	putspread	76.7	95.3
+3518	you	want	in	ho	jan	2.982	strad	offer	4	
+3519	wti	nov	81.2	strd	53					
+3520	good	morning	brent	jan	94.3	straddle	62			
+3521	brent	u	88	straddle	58	74				
+3522	go	may	847	p						
+3523	hey	ho	oct	2.860	2.986	callspread				
+3524	you	want	in	go	jan	744	c			
+3525	wti	oct	86.7	strd	57.0					
+3526	yo	ho	jan	4.48	strd	5.2				
+3527	hey	brent	z	91.6	strd	60				
+3528	wti	jun	75	75	callspread		66	84		
+3529	brt	aug	96	115	putspread	91	111			
+3530	whats	up	brt	u	94.2	p	79.1			
+3531	yo	brt	sep	85	call	56				
+3532	yo	brent	mar	89.0	put		59			
+3533	yo	brt	feb	93	c	78.1				
+3534	whats	up	brent	n	81.8	83.5	puts		73.2	
+3535	brt	z	83.5	87.0	calls		75	94		
+3536	you	want	in	wti	jan	82	91	csprd		
+3537	wti	apr	88	104	csprd		82	102		
+3538	wti	feb	87	101	calls					
+3539	wti	h	76	77	calls	85				
+3540	yo	go	h	843	1005	putspread		nan	nan	
+3541	good	morning	go	dec	843	straddle	607	657		
+3542	brent	jan	91.7	104.3	putspread		85.1			
+3543	brent	m	91.7	104.4	putspread	105				
+3544	yo	brt	x	91	102	csprd		84.1		
+3545	you	want	in	ho	n	2.28	2.29	calls	3.8	
+3546	you	want	in	go	nov	772	strd	554.9	603.1	
+3547	whats	up	wti	k	80	85	calls	72.2		
+3548	good	morning	ho	nov	2.95	straddle	1			
+3549	ho	mar	2.75	c	0.6	3.5				
+3550	brt	x	96	straddle		63.5				
+3551	good	morning	brent	h	94	p	78.9			
+3552	you	want	in	brt	q	80	81	csprd	offer	89.2
+3553	you	want	in	ho	h	4.612	put	1.6	5.3	
+3554	you	want	in	go	nov	785	874	psprd		
+3555	brt	jan	87.9	96.1	puts					
+3556	go	nov	759	strd	593.1					
+3557	hey	brt	m	82.5	85.0	putspread	74	92		
+3558	whats	up	wti	feb	83	91	calls	94.2		
+3559	brt	u	90	call	59					
+3560	brt	k	94.4	110.4	callspread	88.5	108.3			
+3561	go	u	818	straddle	589					
+3562	wti	mar	86	strd	56					
+3563	good	morning	go	apr	774	p				
+3564	brent	g	91.5	103.8	csprd	84.9	104.3			
+3565	brt	m	86	p	56	73				
+3566	go	oct	715	730	calls		691.9	745.6		
+3567	ho	q	4.647	put		1.6	5.4			
+3568	yo	brent	nov	93	p		61.4			
+3569	whats	up	brt	may	82.7	p		54		
+3570	hey	brt	j	96	115	calls				
+3571	good	morning	ho	h	4.91	5.80	putspread	2.9		
+3572	good	morning	ho	dec	2.448	2.488	puts	0.9	4.0	
+3573	ho	jul	3.43	3.71	puts	2				
+3574	whats	up	ho	jun	4.651	straddle	2			
+3575	go	apr	731	762	csprd	711.6	765.9			
+3576	ho	q	2.246	2.253	putspread	1	4			
+3577	hey	brent	x	89	call	59	75			
+3578	yo	brent	x	83.5	put		54.7	70.5		
+3579	brent	n	86	93	psprd	97.1				
+3580	yo	go	jan	767	836	puts	756			
+3581	wti	z	80	strad	68					
+3582	good	morning	go	m	832	straddle				
+3583	yo	brt	mar	82	strad	54	69			
+3584	ho	g	4.77	p		1.7				
+3585	go	may	843	1003	putspread		nan			
+3586	hey	ho	m	4.364	strad	1.5				
+3587	ho	v	3.61	3.95	puts		1.8	5.6		
+3588	hey	ho	mar	3.886	4.322	puts				
+3589	yo	wti	jul	75.6	76.2	psprd				
+3590	you	want	in	ho	k	2.93	3.08	calls	1.2	
+3591	good	morning	brt	nov	81.7	strd		53		
+3592	ho	jul	3.92	4.37	psprd	2				
+3593	ho	f	5.05	straddle	offer	6				
+3594	hey	wti	oct	82	91	callspread	75.1	93.4		
+3595	you	want	in	brt	v	92	strd	60.7	77.3	
+3596	hey	go	may	756	c	591				
+3597	whats	up	go	dec	720	740	puts			
+3598	brent	j	86.8	strad						
+3599	you	want	in	ho	mar	4.42	strad	5		
+3600	brent	q	93	106	psprd	offer	106.1			
+3601	wti	k	88	104	calls		82			
+3602	good	morning	wti	n	79.2	83.7	calls	71		
+3603	go	dec	847	1013	puts	nan				
+3604	good	morning	brt	k	80	c	52.3	67.7		
+3605	brent	f	95	strd	offer	79.7				
+3606	ho	oct	2.31	2.32	csprd	1	4			
+3607	whats	up	brent	g	87	call	offer	73		
+3608	brent	oct	83	straddle	54	70				
+3609	hey	wti	nov	88.2	103.7	puts				
+3610	brent	n	91.9	strd	60.6	77.2				
+3611	you	want	in	brt	jan	84	87	psprd	75.5	94.0
+3612	brt	z	82.8	put	offer	70.0				
+3613	wti	apr	82	call						
+3614	go	feb	787	straddle	566.0	614.5				
+3615	whats	up	brent	u	86.8	93.8	callspread			
+3616	go	sep	846	p	609.3					
+3617	ho	aug	3.75	4.13	puts					
+3618	good	morning	brent	dec	90.5	c				
+3619	good	morning	brt	k	81.7	83.3	puts			
+3620	hey	wti	feb	84	93	csprd	77.0	95.5		
+3621	brt	mar	87	93	csprd		79			
+3622	you	want	in	go	j	701	straddle	503		
+3623	whats	up	brent	x	83	put	70			
+3624	wti	aug	88	104	callspread					
+3625	yo	go	nov	789	883	callspread	841.0			
+3626	wti	h	86.3	99.3	psprd	offer	99.0			
+3627	good	morning	go	q	753	806	putspread	739		
+3628	brt	g	84.3	put	offer	71				
+3629	hey	brent	may	88	put	offer	74			
+3630	good	morning	wti	apr	78.2	81.6	psprd			
+3631	brt	oct	85	91	psprd					
+3632	hey	ho	k	2.78	c					
+3633	go	jun	746	strad		535.8				
+3634	whats	up	go	sep	835	985	puts			
+3635	brent	q	80.9	81.8	csprd	72.1				
+3636	whats	up	ho	jan	2.502	2.553	puts	offer	4	
+3637	hey	brent	q	96	115	csprd	90.7	110.8		
+3638	go	feb	798	strd		574.0				
+3639	whats	up	go	g	743	786	putspread		726.3	781.2
+3640	hey	brent	m	95	strad					
+3641	good	morning	go	v	828	call		596		
+3642	wti	g	79.2	83.6	csprd		71.3	89.3		
+3643	brt	j	96.0	straddle	offer	80.5				
+3644	whats	up	brent	apr	81.1	strad	53.0			
+3645	brt	jan	86	c		56.5				
+3646	hey	brent	aug	81	strad	53	69			
+3647	ho	sep	3.970	straddle	1	5				
+3648	whats	up	go	jan	738	776	callspread	720.2	774.8	
+3649	hey	ho	may	4.495	5.183	putspread	3	7		
+3650	hey	brt	aug	92	p	61	77			
+3651	yo	brt	q	86.2	straddle	56.6	72.7			
+3652	whats	up	wti	aug	79.9	put	52.2			
+3653	you	want	in	brt	h	96.2	114.6	calls		
+3654	wti	z	77.3	79.6	callspread	69.1	86.7			
+3655	hey	brt	dec	86.6	93.2	putspread	79			
+3656	you	want	in	wti	dec	84.8	95.8	calls		
+3657	go	oct	811	strad						
+3658	go	k	804	c	578.4	627.6				
+3659	yo	ho	z	4.44	straddle		1.5	5.2		
+3660	hey	brt	m	96	p	80				
+3661	ho	v	4.43	5.09	callspread		2.5			
+3662	you	want	in	go	jul	805	c	628.3		
+3663	wti	q	77	79	calls					
+3664	brent	z	92.7	straddle	61					
+3665	good	morning	brt	sep	95.5	strad				
+3666	whats	up	go	z	778	strad	608			
+3667	go	q	701	c	503	549				
+3668	you	want	in	go	sep	796	c		572.6	
+3669	yo	brent	z	83	call	54				
+3670	good	morning	wti	nov	75.2	strad		49		
+3671	brent	jul	91	104	calls	84.5				
+3672	you	want	in	ho	g	4.21	4.77	callspread		
+3673	whats	up	brent	may	94.9	111.5	putspread	offer	109	
+3674	brt	nov	96.3	call	64					
+3675	you	want	in	brt	m	95	113	callspread		90
+3676	you	want	in	wti	jun	78	call		50.9	66.1
+3677	you	want	in	go	oct	781	865	callspread	830.3	
+3678	brent	z	95.9	straddle						
+3679	whats	up	brent	g	82	strd	54	69		
+3680	yo	brt	jul	91.9	104.7	puts		85.3	104.9	
+3681	good	morning	brent	z	82.2	84.3	csprd	74		
+3682	yo	wti	aug	75	76	calls	offer	84		
+3683	ho	z	3.551	strad	1.0	4.3				
+3684	wti	z	82.7	91.2	puts	76				
+3685	wti	u	77	80	csprd	68.9				
+3686	ho	may	4.438	5.100	callspread	2.5				
+3687	brent	j	89	put	59					
+3688	yo	brt	f	90.4	101.6	calls	83.5			
+3689	whats	up	wti	x	82	c				
+3690	whats	up	go	z	833	980	puts	offer	899	
+3691	brent	jun	91.1	straddle	offer	76.6				
+3692	yo	brent	feb	81	strad	offer	68.5			
+3693	brt	feb	95.6	straddle	63	80				
+3694	you	want	in	go	apr	787	call	566		
+3695	whats	up	ho	sep	3.91	p				
+3696	good	morning	go	k	728	straddle		522.6		
+3697	brent	z	84.0	p	70.9					
+3698	brent	f	96.0	straddle	64	80				
+3699	wti	oct	80	85	psprd		72			
+3700	good	morning	go	jan	783	call				
+3701	whats	up	brent	g	83.0	put		54	70	
+3702	whats	up	ho	aug	2.96	put		0.7	3.7	
+3703	whats	up	ho	m	2.544	strad	offer	3.3		
+3704	brt	h	87	strd	57					
+3705	hey	go	sep	781	865	psprd				
+3706	good	morning	ho	z	2.357	2.381	puts	offer	3.9	
+3707	whats	up	ho	jul	4.18	straddle	1.4			
+3708	whats	up	brt	z	93.5	108.3	csprd		87	
+3709	whats	up	go	jun	751	p		540		
+3710	hey	brt	g	89.7	99.9	psprd	82.6			
+3711	you	want	in	brt	z	92.2	call	61		
+3712	you	want	in	brt	h	83	straddle	70		
+3713	wti	v	80	put						
+3714	wti	q	77	79	psprd	86				
+3715	wti	n	82	straddle	69.3					
+3716	ho	k	3.771	4.167	puts	5.8				
+3717	whats	up	brt	aug	88.2	96.7	putspread	offer	100	
+3718	yo	wti	mar	78	call					
+3719	hey	brt	x	90	100	csprd	83			
+3720	good	morning	brt	dec	87.5	c	58			
+3721	good	morning	wti	k	90	107	psprd		84.5	104.0
+3722	you	want	in	brt	j	82	call			
+3723	yo	go	k	715	729	puts	691.7			
+3724	whats	up	go	n	704	708	puts	678	732	
+3725	wti	sep	83	91	callspread	75.8	94.2			
+3726	hey	go	sep	763	827	puts				
+3727	wti	jun	81	call						
+3728	go	aug	791	887	calls	786.5	843.5			
+3729	go	x	741	781	puts	724				
+3730	ho	h	2.47	strd						
+3731	good	morning	wti	f	83	straddle				
+3732	brt	jan	83.9	c	55					
+3733	yo	go	jan	702	strd	offer	549			
+3734	go	apr	714	straddle	559					
+3735	brent	mar	84	c		55	71			
+3736	go	jan	831	strad	648.2					
+3737	ho	apr	3.70	c	offer	4				
+3738	whats	up	go	oct	844	straddle				
+3739	ho	jun	3.073	strd						
+3740	good	morning	wti	may	88	103	calls	101		
+3741	whats	up	wti	u	81	p	53			
+3742	hey	go	jul	791	887	puts	786	844		
+3743	go	aug	836	988	callspread	844	904			
+3744	whats	up	wti	oct	75.8	p	49.3	64.4		
+3745	hey	ho	q	2.866	call	0.7	3.6			
+3746	good	morning	wti	v	85	call		56		
+3747	wti	x	83.4	strad		55	70			
+3748	brt	dec	90	p	59.3					
+3749	go	nov	710	strd	509	556				
+3750	you	want	in	wti	u	80.7	86.9	puts	91.3	
+3751	hey	brent	may	84	strad					
+3752	yo	brt	z	94	call					
+3753	hey	wti	nov	84.5	95.3	putspread				
+3754	good	morning	brt	feb	89.7	c	59			
+3755	wti	dec	75.6	76.3	calls	67.1	84.5			
+3756	wti	u	84.2	94.5	calls	77.5				
+3757	brt	u	83.6	87.1	putspread	75.3				
+3758	hey	wti	h	76.6	strad	50	65			
+3759	yo	brent	n	94.5	p	offer	79.3			
+3760	brent	n	97	strad	64.2	81.3				
+3761	you	want	in	wti	jan	78	call	51	66	
+3762	you	want	in	brt	z	86	strd	56	73	
+3763	hey	go	aug	838	992	callspread				
+3764	good	morning	wti	aug	81.6	call				
+3765	whats	up	brent	dec	86.3	call				
+3766	yo	brt	q	85.8	put	56.3	72.4			
+3767	brt	may	87	p	57	73				
+3768	you	want	in	wti	nov	85.9	98.5	puts	offer	98
+3769	good	morning	brt	may	85.3	90.7	puts			
+3770	whats	up	go	jan	838	993	putspread	906		
+3771	brent	may	93	put	78					
+3772	yo	wti	nov	79	call	offer	66.9			
+3773	hey	wti	feb	81.0	87.5	callspread	74	92		
+3774	good	morning	wti	v	82	strd	offer	69		
+3775	yo	go	f	836	c	602.0				
+3776	wti	mar	76.6	p	offer	65.0				
+3777	hey	ho	nov	3.965	p	1.2				
+3778	wti	dec	82.4	90.4	putspread	75.2				
+3779	whats	up	brt	k	92.0	p	60.7	77.3		
+3780	you	want	in	go	jan	719	strd	516.0	562.5	
+3781	hey	brent	m	83	c	54.4				
+3782	good	morning	go	v	738	strd	530	577		
+3783	good	morning	go	dec	828	strd	596.1			
+3784	good	morning	brent	j	86.4	93.0	callspread		78.7	
+3785	brent	apr	87	95	callspread					
+3786	you	want	in	wti	v	89.1	call			
+3787	yo	brent	j	86.5	93.1	puts				
+3788	good	morning	wti	may	83.7	93.5	calls		76.9	95.4
+3789	hey	brt	n	86	92	puts	78			
+3790	brt	feb	83.4	c	offer	70.5				
+3791	good	morning	go	nov	820	952	psprd		823.8	
+3792	brt	may	80	80	callspread		71			
+3793	whats	up	brent	q	89	strad	58.6			
+3794	you	want	in	ho	jun	4.287	4.883	callspread	2	
+3795	whats	up	brt	q	91	strad	60.0			
+3796	yo	brent	n	93	108	putspread	86.9			
+3797	whats	up	brt	x	83	c	offer	70.1		
+3798	brt	may	87.7	95.6	calls	80				
+3799	you	want	in	wti	h	82	89	csprd	93	
+3800	good	morning	ho	sep	2.85	2.98	callspread	4.6		
+3801	go	n	767	835	psprd	756.0				
+3802	ho	aug	2.218	straddle						
+3803	hey	wti	oct	82.3	put					
+3804	hey	brent	v	92	105	puts	85	105		
+3805	ho	x	2.87	call						
+3806	you	want	in	ho	m	4.91	5.80	psprd	2.9	
+3807	good	morning	go	z	802	put	577	626		
+3808	whats	up	go	n	840	straddle	605			
+3809	ho	jul	5.024	c	1.8					
+3810	brt	x	94.4	110.4	calls	88				
+3811	yo	ho	aug	2.584	2.651	csprd	1	4		
+3812	yo	brent	u	81.5	straddle					
+3813	good	morning	ho	x	4.90	5.78	psprd			
+3814	go	dec	778	straddle		559	608			
+3815	good	morning	ho	mar	4.587	call	2			
+3816	yo	wti	jun	86	p	56.5				
+3817	good	morning	ho	f	4.583	p	2			
+3818	hey	go	g	841	straddle	606	656			
+3819	you	want	in	brent	h	82.5	85.0	calls		74.0
+3820	whats	up	brent	z	80.3	c	68.0			
+3821	hey	ho	f	2.933	3.076	calls				
+3822	brt	mar	81.3	82.5	psprd		73			
+3823	you	want	in	wti	nov	82	strd			
+3824	whats	up	ho	v	2.401	straddle				
+3825	hey	brent	nov	91	put	offer	76.5			
+3826	wti	n	89.7	107.2	callspread		84			
+3827	wti	h	82	89	callspread		75	93		
+3828	good	morning	ho	x	4.412	5.062	puts			
+3829	yo	wti	nov	84	put	offer	70.9			
+3830	you	want	in	wti	jul	77.4	79.9	csprd		69
+3831	brt	jun	96.6	p		63.9				
+3832	wti	n	77	80	csprd	68.9	86.6			
+3833	you	want	in	wti	z	81	87	psprd	73	
+3834	you	want	in	go	mar	822	956	calls	826.3	884.7
+3835	hey	wti	jun	88.9	p					
+3836	brent	j	82	85	calls	73.7	91.8			
+3837	good	morning	brt	h	81	straddle	69			
+3838	ho	aug	3.638	p		1				
+3839	whats	up	ho	jul	3.24	p	offer	4		
+3840	ho	jul	3.32	strad						
+3841	hey	brent	v	93.0	straddle					
+3842	brt	apr	95	113	callspread	90	109			
+3843	brt	j	87	put	offer	73.3				
+3844	brent	jul	92	105	putspread	105.0				
+3845	brt	g	89	98	puts	82	101			
+3846	you	want	in	wti	k	81	straddle	69		
+3847	good	morning	go	oct	718	736	callspread		696	
+3848	ho	z	4.98	5.91	puts	2.9	7.5			
+3849	hey	wti	jul	75.1	75.3	callspread		66		
+3850	hey	ho	may	4.82	strad	offer	5.5			
+3851	go	jul	755	put	542					
+3852	yo	wti	k	81.2	c	53.1	68.7			
+3853	go	m	800	strd						
+3854	yo	brt	j	81	82	puts	72.2			
+3855	you	want	in	brt	v	88.8	put			
+3856	yo	ho	x	4.63	strd	2	5			
+3857	go	may	826	964	puts	831.2				
+3858	yo	brt	jun	89	98	psprd	82			
+3859	whats	up	brt	g	80.4	c		53		
+3860	good	morning	brent	jun	94.9	p	62.7	79.6		
+3861	ho	g	3.73	4.10	puts		1.9	5.8		
+3862	wti	u	79.1	p		51.6	67.0			
+3863	hey	go	h	757	814	csprd	799			
+3864	brt	h	95.5	112.9	puts	89.9				
+3865	hey	go	n	720	739	putspread	698			
+3866	ho	nov	2.782	strad						
+3867	whats	up	wti	n	76.5	77.9	calls			
+3868	yo	brt	feb	85.4	90.7	puts	77	96		
+3869	brent	apr	82.8	p						
+3870	whats	up	ho	h	4.201	put	1			
+3871	good	morning	brt	u	96	114	csprd			
+3872	brt	q	81	82	putspread	72.2				
+3873	wti	v	80.7	86.8	putspread					
+3874	brent	feb	87.2	94.6	csprd	offer	98			
+3875	whats	up	brent	h	92.1	p	offer	77		
+3876	go	n	839	c						
+3877	go	jan	796	899	csprd	793.1				
+3878	wti	nov	75	strd		48.8				
+3879	hey	brent	oct	90.1	100.9	callspread	102.4			
+3880	brt	g	96	114	csprd		90	111		
+3881	wti	oct	81.2	put	69					
+3882	you	want	in	brent	apr	96.1	straddle	64		
+3883	whats	up	ho	jun	2.61	2.68	callspread	1		
+3884	ho	v	4.731	5.529	psprd	2.7				
+3885	ho	sep	5.171	call		1.9				
+3886	good	morning	brt	x	85	p		55.8		
+3887	whats	up	go	may	713	726	putspread	743.0		
+3888	yo	go	k	728	755	psprd				
+3889	ho	aug	2.707	p						
+3890	wti	nov	78.9	83.0	putspread					
+3891	whats	up	go	aug	844	1006	calls	nan		
+3892	whats	up	wti	apr	79	straddle				
+3893	go	may	776	c						
+3894	go	dec	811	931	callspread	812.0	870.0			
+3895	go	q	759	818	callspread	offer	801.6			
+3896	wti	sep	76	call		49	65			
+3897	hey	wti	oct	79.8	strd		52.1	67.6		
+3898	ho	aug	2.72	c	3					
+3899	you	want	in	brent	u	86	straddle			
+3900	ho	n	3.85	call						
+3901	wti	jan	84.7	95.8	putspread	78.1	96.8			
+3902	go	m	823	straddle	592.4					
+3903	brent	apr	86.5	93.1	csprd		79	98		
+3904	hey	brent	v	88	c	58				
+3905	brent	g	89	call	58.6					
+3906	wti	jun	86.5	call		57				
+3907	you	want	in	go	q	704	707	callspread	731	
+3908	hey	wti	u	83.0	put		54.4	70.1		
+3909	yo	brt	jul	81	strd					
+3910	wti	oct	88	strad						
+3911	go	v	746	793	csprd		730.2			
+3912	you	want	in	brt	feb	87.6	c			
+3913	ho	sep	3.943	strad						
+3914	brent	m	94.6	110.8	csprd					
+3915	whats	up	ho	dec	2.231	put	0	3		
+3916	ho	k	4.537	strad	1.6	5.2				
+3917	brt	u	88.2	96.7	callspread					
+3918	whats	up	wti	may	84.2	call	55.2	71.1		
+3919	whats	up	brt	z	83	straddle		54.4		
+3920	brt	z	85	call	72					
+3921	good	morning	go	k	720	738	putspread	698	751	
+3922	brt	n	83	87	puts					
+3923	brent	oct	89	strad		59				
+3924	wti	sep	76	78	csprd					
+3925	wti	v	81	88	putspread	91.8				
+3926	you	want	in	brent	n	88.3	strad	58		
+3927	good	morning	brent	q	84	88	csprd	76		
+3928	hey	brt	jun	81	strd	offer	68.5			
+3929	brt	q	96	114	puts	110.5				
+3930	ho	h	4.79	5.62	csprd					
+3931	brt	q	87	c	57					
+3932	whats	up	wti	may	77	80	csprd	86.6		
+3933	hey	brt	j	80.0	80.1	puts				
+3934	yo	brt	f	85	call	56	72			
+3935	brent	z	94.3	110.1	puts		88.3	108.2		
+3936	whats	up	ho	aug	3.068	3.245	puts	offer	5	
+3937	good	morning	go	jan	808	strad	581	631		
+3938	good	morning	brt	apr	89	call	74.9			
+3939	wti	aug	85.2	96.7	csprd		79			
+3940	you	want	in	ho	jun	3.428	strd			
+3941	go	n	779	strad		560.1	608.4			
+3942	brent	apr	83	87	puts		74.8			
+3943	wti	sep	83	strad	70.1					
+3944	brent	f	95	112	psprd					
+3945	yo	ho	nov	2.899	3.034	putspread	5			
+3946	brt	x	92.0	strad						
+3947	brt	z	91	p	60.0					
+3948	brt	v	85.9	91.8	calls					
+3949	whats	up	ho	n	3.081	straddle	0.8	3.8		
+3950	good	morning	wti	oct	82.9	c				
+3951	brt	aug	93	108	csprd					
+3952	you	want	in	go	g	737	774	puts	774	
+3953	you	want	in	go	feb	724	c	566		
+3954	hey	wti	feb	87.8	c	74.0				
+3955	ho	h	3.886	put	5					
+3956	yo	wti	g	87.3	c					
+3957	go	feb	711	strad	510.2	556.3				
+3958	wti	h	77	c						
+3959	hey	wti	dec	87.4	p	57				
+3960	whats	up	brt	n	82	85	csprd	74	92	
+3961	go	jan	833	980	calls					
+3962	go	m	798	903	puts	offer	853			
+3963	hey	wti	feb	85.7	p		56	72		
+3964	hey	go	jun	773	849	csprd	764			
+3965	whats	up	ho	dec	2.313	straddle				
+3966	hey	brt	x	83	85	putspread				
+3967	hey	brent	m	83	strd					
+3968	wti	h	83	put	54					
+3969	yo	go	jun	796	put	572.6				
+3970	brt	mar	89	98	calls	100.8				
+3971	brt	feb	91	c	60.0	76.5				
+3972	good	morning	brt	h	86.0	92.1	callspread	78.2		
+3973	wti	f	84	straddle	55	71				
+3974	whats	up	wti	j	82	strd				
+3975	good	morning	ho	u	2.92	3.06	calls	5		
+3976	wti	g	84.4	put						
+3977	wti	jan	82.2	straddle	54					
+3978	ho	m	3.393	3.663	csprd	2	5			
+3979	brt	aug	88	call	57.9					
+3980	good	morning	brent	k	95.4	call		63.1		
+3981	whats	up	go	m	802	910	puts			
+3982	yo	brt	may	95	strad	62.8	79.7			
+3983	you	want	in	wti	jul	88	102	puts	82	101
+3984	brt	nov	80.4	80.8	psprd	72	89			
+3985	ho	z	2.96	straddle	1					
+3986	yo	brt	jul	85.7	strad	56				
+3987	hey	go	oct	775	852	callspread	822			
+3988	whats	up	brent	q	91	102	csprd		84.1	103.4
+3989	you	want	in	ho	aug	2.95	3.10	callspread		1
+3990	yo	brent	z	94.3	110.1	psprd	88	108		
+3991	whats	up	brent	f	88.3	call	58			
+3992	whats	up	go	dec	759	c				
+3993	go	z	845	1008	psprd	nan				
+3994	good	morning	ho	dec	4.113	strd	1.3	4.8		
+3995	yo	brent	j	89	strad					
+3996	whats	up	brent	j	81.0	put				
+3997	ho	m	2.96	3.11	calls					
+3998	good	morning	go	jul	822	c	641.3			
+3999	go	x	818	946	putspread		820.8			
+4000	whats	up	brent	sep	90	100	psprd		82.9	102.1
+4001	ho	g	4.062	strd	5					
+4002	go	nov	786	877	putspread	780	837			
+4003	whats	up	brt	z	85.3	90.6	csprd			
+4004	you	want	in	ho	jun	4.94	5.84	calls	2.9	
+4005	brent	jun	80.6	straddle						
+4006	whats	up	ho	jun	2.21	2.21	putspread		1	4
+4007	whats	up	ho	apr	4.719	5.511	putspread		3	7
+4008	brt	z	84	call						
+4009	ho	may	4.30	4.90	calls	2				
+4010	hey	ho	jul	5.105	c	1.9	5.8			
+4011	yo	brent	mar	87	strd	57.2	73.3			
+4012	hey	brt	k	86.4	92.9	callspread	97.4			
+4013	wti	z	77.2	79.5	callspread		69.0	86.6		
+4014	wti	v	75.3	put	offer	64.0				
+4015	ho	h	3.900	4.342	putspread	2.0	6.0			
+4016	good	morning	ho	may	2.329	strd	0.4	3.1		
+4017	whats	up	go	v	827	967	psprd			
+4018	brt	h	83	c		54.4				
+4019	hey	go	j	783	871	callspread	777			
+4020	good	morning	brent	feb	81	81	putspread			
+4021	brt	m	86.3	92.7	calls	79	97			
+4022	hey	wti	oct	86.5	put		56.8	72.9		
+4023	brt	x	86	91	psprd	78	97			
+4024	go	jul	774	strd		556.4	604.6			
+4025	good	morning	wti	sep	88.0	put	58	74		
+4026	go	jul	833	strd	599.8					
+4027	go	may	807	923	putspread	864.9				
+4028	you	want	in	go	dec	769	841	puts	759	815
+4029	whats	up	go	oct	730	759	psprd	764		
+4030	you	want	in	brent	may	82.9	put	54.3	70.1	
+4031	go	v	736	strad						
+4032	whats	up	wti	apr	85	straddle				
+4033	wti	f	79.8	84.9	csprd		72.1	90.1		
+4034	brt	m	94	c						
+4035	good	morning	go	z	768	p		552	600	
+4036	you	want	in	brt	jun	93	strad			
+4037	wti	apr	84	95	psprd	96.1				
+4038	yo	ho	mar	4.492	5.179	callspread	3			
+4039	yo	brt	j	83.2	straddle					
+4040	go	z	728	755	psprd					
+4041	yo	brt	jan	91.9	p					
+4042	go	aug	815	put		586.5				
+4043	brent	m	91	strad	77					
+4044	yo	go	f	760	strad	546.1				
+4045	good	morning	brt	dec	84	straddle		55.1		
+4046	you	want	in	go	u	786	p	565		
+4047	go	jul	771	844	puts					
+4048	you	want	in	go	n	826	966	callspread	831.7	890.3
+4049	you	want	in	go	k	702	704	puts	offer	729
+4050	good	morning	wti	may	83.0	c	54.4	70.1		
+4051	brt	apr	91.2	put	76.7					
+4052	brent	n	94.3	strad						
+4053	ho	sep	3.613	3.953	calls	1.8	5.6			
+4054	brt	may	96	strad						
+4055	whats	up	go	dec	754	p	542	589		
+4056	whats	up	brent	may	94	straddle	offer	79		
+4057	brt	apr	88	straddle		58				
+4058	whats	up	go	u	770	843	putspread			
+4059	you	want	in	go	jul	737	774	callspread	718.9	
+4060	ho	apr	2.351	2.375	csprd		1			
+4061	go	dec	848	1016	psprd					
+4062	go	mar	742	c						
+4063	brent	nov	88.4	strd		58				
+4064	whats	up	brent	feb	81	81	putspread	90		
+4065	you	want	in	go	q	792	888	calls		
+4066	you	want	in	go	dec	799	904	putspread		797
+4067	good	morning	wti	apr	82	90	putspread	74.8		
+4068	whats	up	wti	n	90	108	callspread	84.8	104.2	
+4069	go	dec	769	put						
+4070	hey	brt	aug	91.9	c					
+4071	brent	k	87	95	puts					
+4072	brent	m	88.3	96.9	psprd					
+4073	brt	v	90	101	csprd					
+4074	you	want	in	wti	f	79.6	p			
+4075	go	x	707	straddle		507				
+4076	wti	j	84	93	putspread	95.5				
+4077	yo	go	n	700	p	502				
+4078	brent	v	92	105	csprd	offer	105			
+4079	yo	brent	m	94	109	callspread				
+4080	ho	jan	3.98	put						
+4081	you	want	in	brent	q	85	p	55.8		
+4082	go	g	780	863	callspread		772.5	829.0		
+4083	brt	j	92.8	strd	77.9					
+4084	yo	wti	u	89	put					
+4085	good	morning	go	oct	733	strd	526			
+4086	hey	brt	dec	93.3	strd					
+4087	whats	up	go	q	811	put	583.6	632.9		
+4088	hey	ho	x	2.61	2.69	psprd	1.0			
+4089	wti	aug	87	put						
+4090	whats	up	go	apr	726	752	calls	705.4		
+4091	whats	up	wti	k	87	100	psprd	100		
+4092	hey	go	jan	827	967	csprd				
+4093	good	morning	brt	mar	80	strad	52.3	67.7		
+4094	yo	brent	z	92.0	call	61				
+4095	yo	go	z	768	call	offer	600.0			
+4096	brt	mar	90	101	puts	83.1				
+4097	good	morning	go	z	768	c				
+4098	brent	n	85.6	91.3	csprd	offer	96			
+4099	whats	up	brent	x	94.0	call				
+4100	hey	brent	mar	83.3	86.5	puts	74.9			
+4101	brent	oct	93	strad						
+4102	go	x	810	c	582.9	632.1				
+4103	hey	ho	u	2.863	straddle	3.6				
+4104	you	want	in	brt	m	91	straddle	60.0		
+4105	brt	mar	87.9	strd						
+4106	wti	g	90	107	putspread		84.5	104.0		
+4107	good	morning	brent	jul	91.1	put				
+4108	good	morning	brent	q	80	strad	52.3	67.7		
+4109	you	want	in	go	mar	815	straddle	offer	636.0	
+4110	brt	jul	80	strd	52.3	67.7				
+4111	whats	up	brt	h	87	95	puts	79.6	98.4	
+4112	you	want	in	go	jun	824	960	psprd		
+4113	good	morning	go	q	702	704	putspread	729		
+4114	brt	dec	86	92	putspread	78.1				
+4115	good	morning	brent	mar	85	89	putspread	77		
+4116	brt	jan	90	strd		59.3	75.7			
+4117	brent	u	90.9	put		59.9	76.4			
+4118	brent	q	90.5	strd	76.1					
+4119	brt	u	87.2	call	offer	73.5				
+4120	whats	up	wti	oct	86	99	csprd	98.7		
+4121	you	want	in	brt	f	95.1	straddle	80		
+4122	wti	h	79	83	puts	71.1				
+4123	brt	jul	87	strd		57.2	73.3			
+4124	yo	brent	may	89	straddle	59	75			
+4125	you	want	in	go	apr	805	918	puts		
+4126	you	want	in	brent	k	95.6	put	offer	80.2	
+4127	whats	up	wti	jul	79	84	callspread	71.3	89.2	
+4128	yo	wti	h	79	p					
+4129	wti	x	76.5	put						
+4130	yo	brt	jun	86.2	strd					
+4131	yo	go	apr	723	p					
+4132	ho	m	3.522	c	1.0	4.3				
+4133	good	morning	brent	h	82	strad	offer	69		
+4134	you	want	in	brent	sep	96.8	116.0	putspread		92
+4135	good	morning	brent	jul	86	c	offer	72.5		
+4136	go	u	777	p	558.6					
+4137	good	morning	brent	jul	85.6	p	56.2	72.2		
+4138	good	morning	go	jul	722	743	puts			
+4139	ho	apr	3.815	4.226	psprd					
+4140	go	v	839	straddle						
+4141	brent	jul	96	p						
+4142	wti	oct	82.6	strd	54					
+4143	good	morning	brt	dec	92	strad	60.7			
+4144	brent	sep	89.9	c						
+4145	you	want	in	brent	feb	92.3	c		60.9	
+4146	yo	wti	feb	86	99	calls	offer	99		
+4147	ho	u	4.710	straddle						
+4148	brent	apr	92	104	putspread	85	105			
+4149	you	want	in	brent	f	83	85	puts	92.6	
+4150	brt	v	92.2	105.5	calls		85.8	105.3		
+4151	go	v	799	904	csprd	796.5				
+4152	hey	brt	f	83.9	87.9	putspread	76			
+4153	yo	ho	aug	3.82	strad		1			
+4154	whats	up	brt	sep	82.5	straddle	54			
+4155	hey	go	q	747	straddle	offer	583.9			
+4156	ho	q	4.907	5.792	calls	3				
+4157	yo	go	v	786	876	calls				
+4158	brent	k	85.3	call		56	72			
+4159	wti	n	88	104	putspread		82			
+4160	ho	g	4.595	5.328	csprd		3	7		
+4161	you	want	in	brent	q	90.5	101.7	callspread	83.6	
+4162	brent	h	96.2	114.5	puts	111				
+4163	you	want	in	wti	f	83	c	54	70	
+4164	brent	jun	95.6	straddle	80					
+4165	hey	wti	oct	76.8	78.7	putspread		68.5	86.1	
+4166	brent	nov	90	call	59	76				
+4167	yo	wti	oct	75.6	call					
+4168	hey	brt	v	94	110	calls	108			
+4169	whats	up	brent	jul	85.0	90.0	psprd	offer	96	
+4170	yo	ho	apr	2.814	straddle	0.7				
+4171	whats	up	brent	n	95.0	strd		62.8	79.7	
+4172	ho	jul	2.977	c	4					
+4173	hey	brent	jul	90.5	101.7	csprd	83.6	103.0		
+4174	yo	wti	dec	81	88	calls	74	92		
+4175	go	apr	752	p	540.3					
+4176	ho	m	4.95	c	offer	5.6				
+4177	yo	ho	aug	4.057	4.559	csprd	6.2			
+4178	whats	up	wti	u	80.8	straddle	offer	68		
+4179	whats	up	go	f	784	call		564	612	
+4180	you	want	in	wti	dec	77	p	50.2		
+4181	you	want	in	wti	x	81	p		53.0	68.5
+4182	yo	go	f	760	821	puts				
+4183	good	morning	brent	j	93.1	c	61.5			
+4184	whats	up	brt	nov	96	straddle	64			
+4185	whats	up	go	jan	819	put	589.5			
+4186	yo	ho	z	3.54	3.86	psprd		2	6	
+4187	yo	wti	g	80	85	puts				
+4188	brt	u	94	110	putspread	offer	107.9			
+4189	yo	wti	jan	83	call	54				
+4190	ho	m	2.84	2.97	puts	5				
+4191	you	want	in	go	nov	798	p	574		
+4192	hey	wti	x	87	put	73				
+4193	you	want	in	ho	x	2.36	c	3		
+4194	go	v	735	p		528				
+4195	yo	go	j	705	strd	551.7				
+4196	hey	wti	dec	76.2	77.5	callspread	67.8			
+4197	brent	g	88	97	putspread	offer	100			
+4198	yo	brent	h	84.8	p					
+4199	yo	go	j	753	807	putspread				
+4200	you	want	in	brent	u	97	116	calls		91.7
+4201	you	want	in	ho	g	4.63	5.38	calls		3
+4202	hey	brt	nov	87.7	strad					
+4203	hey	brent	x	96.7	p	64.0	81.0			
+4204	yo	go	jan	822	956	putspread	884.7			
+4205	ho	g	4.83	strd	2					
+4206	brt	mar	80.3	80.7	callspread	71.4	89.4			
+4207	whats	up	ho	f	2.88	3.01	callspread	1	5	
+4208	ho	n	3.33	p	4					
+4209	brt	aug	81	82	putspread		72	90		
+4210	brt	jul	81.2	p		53	69			
+4211	brent	may	82.8	put						
+4212	whats	up	go	v	813	strad	634.4			
+4213	brt	u	84	put	55.1					
+4214	ho	n	3.05	put		0.8	3.8			
+4215	ho	dec	2.88	straddle	0.7	3.6				
+4216	whats	up	go	aug	717	straddle				
+4217	go	oct	831	976	putspread		838	897		
+4218	yo	brent	f	83.9	87.8	putspread	75.7	94.1		
+4219	brt	dec	83.9	call						
+4220	whats	up	go	jul	761	822	csprd	748		
+4221	you	want	in	go	m	834	982	psprd		
+4222	brt	aug	80	80	puts	71.1				
+4223	yo	brt	n	91.8	p	61				
+4224	hey	go	nov	716	straddle					
+4225	hey	go	jun	719	straddle	562				
+4226	you	want	in	go	h	748	call	537.3		
+4227	yo	go	mar	804	strad	628				
+4228	good	morning	brent	jun	90	put	offer	75.7		
+4229	whats	up	brent	may	94.2	110.0	psprd	108		
+4230	go	u	842	put						
+4231	whats	up	brt	mar	85.9	91.8	putspread	96.7		
+4232	hey	brent	n	85	90	puts	77	96		
+4233	whats	up	brent	apr	95	call	80			
+4234	wti	g	80	86	calls	offer	91			
+4235	brent	m	80.7	put	53					
+4236	ho	oct	5.090	6.071	psprd					
+4237	brent	n	90.7	102.1	callspread	84	103			
+4238	ho	dec	5.112	strd						
+4239	go	mar	705	710	puts	679.7				
+4240	ho	u	3.445	3.731	csprd	2				
+4241	hey	go	feb	762	put	548	595			
+4242	you	want	in	brent	n	89.4	call			
+4243	yo	brt	jan	87.2	straddle	57.3				
+4244	brent	jul	82.2	put						
+4245	you	want	in	ho	apr	3.216	3.434	putspread	1.5	
+4246	whats	up	go	m	842	p	657			
+4247	go	z	745	call	535.1	582.4				
+4248	you	want	in	brent	z	84	88	calls		76
+4249	brt	jul	96	call						
+4250	ho	may	3.067	3.245	csprd	5				
+4251	hey	ho	nov	3.607	3.945	puts	offer	6		
+4252	hey	wti	u	79	84	csprd				
+4253	brent	x	89	99	csprd					
+4254	you	want	in	ho	n	2.27	2.28	puts	0.8	3.8
+4255	brt	oct	80.6	81.1	putspread					
+4256	brent	jan	96	115	csprd					
+4257	you	want	in	brent	j	94.2	109.9	calls		88.2
+4258	hey	go	jan	706	p					
+4259	ho	z	4.509	5.203	callspread					
+4260	you	want	in	brent	m	92.6	106.3	calls	86.2	
+4261	good	morning	brent	sep	87.4	94.9	psprd			
+4262	you	want	in	brt	nov	87	straddle			
+4263	you	want	in	brent	u	82	put	53.7		
+4264	brt	z	82.4	84.8	csprd	73.9				
+4265	brent	m	91	104	putspread	84.5				
+4266	wti	k	81.7	89.0	calls	74				
+4267	good	morning	go	jan	715	c	559.4			
+4268	ho	sep	4.82	5.66	putspread		2.8			
+4269	brt	nov	88	97	callspread		80.8	99.8		
+4270	wti	k	76.5	78.1	callspread	68.1				
+4271	brent	x	89.6	99.8	calls					
+4272	good	morning	wti	oct	89	put	59	75		
+4273	wti	v	75.3	call	64					
+4274	you	want	in	ho	may	2.47	2.52	puts		
+4275	whats	up	go	nov	820	p	590.2	639.8		
+4276	good	morning	brent	j	95.8	113.6	putspread	90.2		
+4277	yo	ho	q	4.282	4.877	putspread	2	7		
+4278	whats	up	wti	k	80	85	callspread			
+4279	whats	up	brent	j	94	put	78.9			
+4280	hey	brt	u	95	112	callspread	109			
+4281	whats	up	ho	sep	3.89	p				
+4282	whats	up	wti	u	88.5	call	75			
+4283	good	morning	ho	u	4.265	4.853	puts			
+4284	yo	brt	jun	86	93	csprd				
+4285	you	want	in	brt	u	84.1	strad		55.1	
+4286	ho	nov	3.47	call		1.0				
+4287	whats	up	go	j	836	987	puts			
+4288	good	morning	wti	jun	83.6	93.3	callspread		76.8	95.3
+4289	hey	ho	jun	2.844	c	0.7	3.6			
+4290	brt	q	93	108	callspread		87			
+4291	hey	brent	q	95.0	111.7	psprd	89.2			
+4292	wti	n	89.0	strd						
+4293	whats	up	ho	q	4.007	4.489	psprd	2	6	
+4294	whats	up	ho	j	4.964	put	offer	6		
+4295	go	q	825	962	psprd					
+4296	hey	brt	nov	86	p	56	73			
+4297	brt	jul	84.1	strd	71.0					
+4298	hey	go	nov	760	821	calls				
+4299	yo	go	f	749	797	calls				
+4300	good	morning	brt	apr	84	straddle				
+4301	hey	ho	aug	2.47	strd					
+4302	good	morning	go	oct	711	call	offer	556.3		
+4303	wti	oct	76	put						
+4304	brt	jun	95	call	62.8					
+4305	go	x	700	c						
+4306	good	morning	brt	n	96.0	114.1	calls		90	111
+4307	you	want	in	brt	v	93.6	c	61.8		
+4308	good	morning	wti	dec	88.2	103.7	puts			
+4309	yo	go	x	738	776	calls				
+4310	you	want	in	brent	feb	81.5	82.9	callspread	73	91
+4311	yo	brt	q	92.7	strad					
+4312	go	aug	766	strad	551					
+4313	you	want	in	brt	jun	94	put		62.1	78.9
+4314	brt	jan	96.1	114.2	putspread		90.6	110.7		
+4315	go	aug	703	706	calls	677.2	730.3			
+4316	ho	jul	4.301	straddle	offer	5.0				
+4317	wti	q	79	straddle	51.6					
+4318	good	morning	ho	jun	4.69	c		1.6	5.4	
+4319	yo	brent	sep	84.2	88.3	callspread	76	94		
+4320	brent	m	86.8	93.7	callspread	79.1	97.9			
+4321	go	x	784	c	offer	612.2				
+4322	whats	up	wti	sep	77	straddle				
+4323	wti	apr	81	87	psprd	91.6				
+4324	hey	brent	feb	84.2	strd		55	71		
+4325	yo	ho	j	2.65	call	1				
+4326	brent	aug	81.8	83.6	putspread		73	91		
+4327	brent	oct	90	101	psprd		83			
+4328	whats	up	go	j	742	784	csprd	offer	779.9	
+4329	wti	jul	78.7	82.5	callspread					
+4330	whats	up	go	jul	812	933	putspread	813.2	871.3	
+4331	hey	brt	feb	85.8	91.6	calls		78	97	
+4332	good	morning	brent	oct	94.7	111.1	putspread			
+4333	whats	up	ho	nov	2.78	2.88	putspread		1.1	4.5
+4334	ho	z	3.99	strad	1	5				
+4335	brt	nov	91.6	call	offer	77				
+4336	whats	up	brt	n	82	85	psprd	offer	92	
+4337	you	want	in	brt	f	87	strad			
+4338	hey	brent	q	88	p					
+4339	whats	up	go	k	789	882	callspread		783.8	840.8
+4340	ho	n	4.95	call	1.8					
+4341	yo	brt	q	81.0	82.0	psprd				
+4342	whats	up	brent	sep	95.6	113.2	putspread	90	110	
+4343	whats	up	brent	dec	91	p		60	77	
+4344	wti	f	75.1	p		48.8	63.8			
+4345	good	morning	wti	mar	76.9	put	50			
+4346	wti	apr	88	103	calls	82				
+4347	go	nov	820	950	callspread					
+4348	brt	x	88.3	97.0	calls					
+4349	yo	ho	j	4.819	5.660	callspread		2.8	7.3	
+4350	brent	dec	86	p	73					
+4351	yo	brent	sep	85.6	straddle					
+4352	good	morning	wti	feb	76	77	calls	67.5	85.0	
+4353	you	want	in	brt	dec	85	call	offer	71.7	
+4354	brent	dec	87.8	95.8	calls	80				
+4355	whats	up	brent	nov	94	c		62		
+4356	you	want	in	wti	k	79.5	84.3	csprd	offer	90
+4357	you	want	in	ho	m	3.340	put			
+4358	whats	up	wti	j	80	c				
+4359	you	want	in	go	k	726	p			
+4360	brent	nov	89.1	put		58.7				
+4361	wti	f	79.6	p		52.0				
+4362	good	morning	brt	nov	81.2	p				
+4363	brent	u	84	89	putspread	offer	94			
+4364	go	g	743	c	offer	580.9				
+4365	brt	jun	86	92	puts	78.1				
+4366	good	morning	brt	aug	84.9	strad				
+4367	you	want	in	brt	k	85	straddle	55.8		
+4368	good	morning	brent	m	89	98	csprd		81.7	100.8
+4369	wti	h	85	c	72					
+4370	wti	v	81	c	53.0	68.5				
+4371	brent	mar	80.8	c		52.8	68.4			
+4372	whats	up	wti	g	83	straddle				
+4373	go	mar	830	974	csprd	837	895			
+4374	hey	wti	u	78	80	puts				
+4375	hey	go	k	707	714	callspread	735			
+4376	hey	wti	mar	78	80	puts	70			
+4377	yo	go	z	820	952	psprd	offer	882.2		
+4378	good	morning	go	nov	831	976	calls			
+4379	you	want	in	brt	j	86.2	92.6	csprd	78.4	97.2
+4380	yo	go	apr	706	712	calls	681	734		
+4381	hey	brent	may	89	strd		58.6			
+4382	yo	go	m	760	put	offer	593.9			
+4383	good	morning	wti	jul	80	85	callspread	90.3		
+4384	go	x	847	strd	610.0	660.5				
+4385	yo	brt	j	90.6	101.9	psprd	103			
+4386	brt	x	94.1	109.6	calls		88	108		
+4387	you	want	in	wti	v	75.7	strad			
+4388	brent	nov	82	straddle	69.3					
+4389	you	want	in	ho	jun	2.53	strd			
+4390	go	q	729	put	523	570				
+4391	brt	h	90	100	callspread	offer	102.1			
+4392	you	want	in	brent	jul	81	82	putspread		72
+4393	wti	j	84	strd	71					
+4394	brt	q	91	102	callspread	103.4				
+4395	go	u	744	788	csprd	727.5				
+4396	hey	go	k	714	strd	512				
+4397	brt	may	93.2	107.7	putspread	107				
+4398	go	feb	813	c	634.4					
+4399	yo	wti	aug	89	straddle	59				
+4400	ho	may	3.959	4.423	putspread		2.1			
+4401	whats	up	go	z	781	p				
+4402	brt	feb	81.5	put	68.9					
+4403	go	z	773	put		556				
+4404	yo	brt	g	89	strd					
+4405	hey	go	f	779	861	calls				
+4406	ho	oct	2.904	3.040	calls					
+4407	brent	x	96	115	callspread	91	111			
+4408	hey	wti	apr	86	98	putspread	offer	98.4		
+4409	good	morning	brt	nov	83.7	c				
+4410	good	morning	brent	mar	93	straddle	offer	78.1		
+4411	go	g	847	p	610					
+4412	brent	mar	82	84	puts	offer	92			
+4413	good	morning	ho	mar	5.080	6.055	callspread		3.0	
+4414	brent	h	92.9	107.1	psprd	87				
+4415	whats	up	wti	g	85.7	straddle	56.3	72.3		
+4416	yo	brt	aug	84.8	c	72				
+4417	yo	ho	z	2.64	2.72	csprd	1			
+4418	good	morning	wti	u	79.0	83.2	csprd	offer	89.0	
+4419	you	want	in	brt	h	80.5	call			
+4420	good	morning	go	j	768	put		552	600	
+4421	go	nov	848	1016	psprd	nan				
+4422	wti	oct	77	79	callspread	69	86			
+4423	brt	n	94	strd	62					
+4424	good	morning	ho	nov	3.42	strad	1	4		
+4425	wti	n	80.2	straddle						
+4426	ho	v	4.964	strd	5.7					
+4427	hey	brt	x	88.3	97.0	psprd	offer	100.0		
+4428	hey	go	j	784	straddle	564				
+4429	whats	up	go	m	843	strad	607.1			
+4430	brent	k	87.1	94.3	psprd	79	98			
+4431	yo	brt	may	92	put	61	77			
+4432	you	want	in	brent	mar	87.7	95.7	callspread		80.2
+4433	yo	ho	apr	4.08	p	offer	5			
+4434	yo	ho	j	2.53	2.58	psprd	4			
+4435	brent	q	88	97	psprd		80.8			
+4436	wti	dec	83.5	put	55	71				
+4437	you	want	in	brent	dec	85	put		55.8	
+4438	whats	up	go	feb	736	771	puts			
+4439	good	morning	ho	f	3.79	put	1.2	4.5		
+4440	hey	brt	oct	81.3	put					
+4441	good	morning	ho	jun	3.84	4.26	putspread		2	6
+4442	you	want	in	brt	apr	92	call			
+4443	good	morning	brt	q	96	strad		63.5		
+4444	wti	may	77.0	straddle	65					
+4445	go	k	703	straddle		504.3				
+4446	hey	ho	j	3.472	straddle					
+4447	good	morning	brent	nov	93	put	78.1			
+4448	brt	f	87.5	c						
+4449	whats	up	wti	q	79	84	csprd	offer	89.2	
+4450	wti	apr	90	strd		59				
+4451	hey	wti	m	84	strad	55.1	70.9			
+4452	you	want	in	wti	g	86	call		56.5	72.5
+4453	ho	z	4.62	5.37	csprd					
+4454	brent	f	90.1	100.9	putspread	offer	102.4			
+4455	brt	dec	82	84	callspread	73.4	91.6			
+4456	ho	jun	4.55	call	5					
+4457	go	h	777	856	calls		769			
+4458	good	morning	ho	m	2.32	2.34	calls			
+4459	hey	ho	sep	2.49	2.54	psprd				
+4460	brt	m	93.1	107.4	callspread		87			
+4461	brt	u	80.8	81.6	calls	72				
+4462	yo	brent	oct	83.2	86.4	callspread	74.8	93.2		
+4463	good	morning	go	k	825	962	csprd	829.9		
+4464	brent	jan	92.2	straddle	77					
+4465	yo	wti	j	89	strad	59				
+4466	you	want	in	go	g	785	875	putspread	779	836
+4467	good	morning	brt	u	96	114	csprd	90.5		
+4468	brent	feb	92	105	puts					
+4469	go	m	728	p	522.6					
+4470	whats	up	brt	f	81.4	p	69			
+4471	whats	up	brt	sep	87.9	c	58			
+4472	ho	jan	2.42	p	0	3				
+4473	hey	brt	v	84	call					
+4474	you	want	in	ho	jul	2.797	strad			
+4475	good	morning	brt	m	86.6	93.2	calls		78.9	97.6
+4476	brt	sep	84	call	71					
+4477	whats	up	brt	q	96.6	115.5	puts			
+4478	hey	brt	z	89.1	call	59	75			
+4479	whats	up	brt	k	88.4	call	74			
+4480	go	v	784	871	psprd					
+4481	yo	ho	may	2.73	strad	offer	3			
+4482	you	want	in	wti	dec	85.4	97.3	psprd	97.8	
+4483	ho	x	2.622	2.696	putspread					
+4484	hey	wti	h	88.2	p					
+4485	whats	up	ho	dec	3.72	c	1.1	4.5		
+4486	wti	jan	77	straddle						
+4487	good	morning	brt	jul	87	p	offer	73.3		
+4488	hey	go	aug	800	strad		575.5			
+4489	good	morning	ho	z	2.397	2.429	calls	offer	4	
+4490	you	want	in	go	q	793	p	619		
+4491	go	h	704	707	psprd	731				
+4492	whats	up	brt	sep	82	put		53.7	69.3	
+4493	whats	up	go	n	759	819	csprd	746		
+4494	brent	q	87.6	95.5	psprd	80.1	99.0			
+4495	go	j	782	867	psprd	775				
+4496	yo	go	j	728	754	callspread	offer	761.6		
+4497	yo	brt	sep	91.1	call					
+4498	ho	j	4.792	p						
+4499	hey	wti	j	77.3	call		50.4	65.6		
+4500	yo	brent	mar	82	84	calls	offer	92		
+4501	hey	brt	jun	81.2	call					
+4502	go	jan	772	847	csprd	763				
+4503	good	morning	brt	v	81.9	strd		54		
+4504	brt	aug	94	p						
+4505	good	morning	brt	f	83	85	puts			
+4506	brent	j	93.4	108.2	putspread	87	107			
+4507	brent	z	93	strd	61.4	78.1				
+4508	good	morning	brt	sep	90.4	101.4	puts	offer	103	
+4509	good	morning	go	sep	826	965	puts			
+4510	yo	brt	jan	81.9	83.7	callspread				
+4511	you	want	in	ho	sep	2.780	2.888	csprd	1.1	
+4512	yo	brent	n	86.3	put	73				
+4513	brt	feb	96	p	80					
+4514	yo	brt	k	90	101	putspread				
+4515	yo	ho	h	3.995	call					
+4516	wti	aug	77.3	strad						
+4517	good	morning	brt	feb	80.9	81.8	putspread	72.1		
+4518	ho	j	2.42	2.46	calls					
+4519	brt	h	93	put		61.4	78.1			
+4520	go	apr	832	strd	599.0	649.0				
+4521	yo	go	dec	845	straddle					
+4522	yo	go	u	786	straddle	565				
+4523	brent	n	87.1	straddle						
+4524	good	morning	wti	nov	87	101	psprd	81.0		
+4525	whats	up	wti	n	79.2	straddle	67.1			
+4526	wti	h	87.8	102.8	callspread	82				
+4527	yo	wti	g	85.5	97.6	csprd		79.1		
+4528	wti	v	88.4	104.3	psprd	102.0				
+4529	brent	aug	94.7	c	79.5					
+4530	you	want	in	ho	nov	4.992	p	offer	6	
+4531	brent	oct	86	91	callspread		77.9	96.6		
+4532	ho	may	2.705	2.796	callspread		1.1	4.4		
+4533	go	z	745	strad	582.4					
+4534	brt	nov	88	97	calls	offer	100			
+4535	wti	z	77	put	50					
+4536	good	morning	go	dec	744	p				
+4537	you	want	in	brt	feb	85	straddle	56		
+4538	good	morning	wti	oct	90	straddle		59		
+4539	wti	oct	80.5	strad	53	68				
+4540	go	n	764	straddle	549	597				
+4541	go	m	722	743	puts	754				
+4542	yo	brt	apr	86.4	straddle					
+4543	brt	apr	89	straddle	59					
+4544	you	want	in	brt	g	89	straddle	offer	75	
+4545	whats	up	brt	aug	96.4	c				
+4546	good	morning	go	jun	734	c				
+4547	wti	aug	88	103	calls	82.2				
+4548	wti	k	75.5	76.0	psprd		67	84		
+4549	wti	k	76.2	strd	65					
+4550	brt	nov	92.8	strad	61.3					
+4551	go	f	848	straddle						
+4552	whats	up	go	oct	753	call	541.0	588.5		
+4553	ho	jul	3.57	3.89	calls		1.7			
+4554	go	n	727	753	callspread					
+4555	wti	oct	86	p		56	73			
+4556	brent	dec	85.7	91.4	putspread	96.5				
+4557	ho	v	2.582	straddle						
+4558	brent	m	94.6	put	63					
+4559	hey	ho	u	4.549	5.261	calls	6.9			
+4560	wti	f	76	p		49	65			
+4561	ho	x	4.530	5.233	putspread	3				
+4562	hey	go	j	726	call	568				
+4563	brt	aug	90.1	strd						
+4564	you	want	in	brent	aug	91.4	103.6	putspread	104.2	
+4565	wti	jan	88.4	straddle	offer	74				
+4566	go	g	831	call	648					
+4567	ho	jul	2.52	p						
+4568	hey	brent	nov	94.8	111.4	csprd	offer	109		
+4569	good	morning	wti	z	78	straddle	offer	66		
+4570	go	k	772	846	psprd		762			
+4571	whats	up	brent	mar	84	strd	offer	70.9		
+4572	ho	feb	4.96	5.87	csprd	2.9				
+4573	good	morning	brt	g	85	90	putspread		77.0	95.5
+4574	yo	wti	jun	83	91	puts	75.8			
+4575	go	jul	746	791	calls	784.8				
+4576	good	morning	ho	oct	4.748	straddle	offer	5.4		
+4577	yo	brent	m	81.0	81.9	puts	72			
+4578	brt	nov	92	straddle		60.7	77.3			
+4579	good	morning	brent	oct	96	114	csprd	90.5	110.5	
+4580	brt	f	87	call	73.3					
+4581	whats	up	go	g	708	p	508.0			
+4582	good	morning	go	f	833	981	callspread			
+4583	good	morning	brt	aug	89	c		59		
+4584	brt	dec	83	strd	54					
+4585	wti	aug	77.7	c	50.6	65.9				
+4586	whats	up	go	nov	848	put	611	661		
+4587	you	want	in	go	may	741	781	calls		723.6
+4588	go	mar	791	886	csprd	786				
+4589	ho	dec	3.07	3.25	psprd					
+4590	whats	up	brt	z	92.7	106.6	psprd	86.4		
+4591	you	want	in	ho	x	2.83	straddle	0.7	3.6	
+4592	ho	g	3.863	4.291	calls	6				
+4593	brent	feb	93.4	108.2	callspread					
+4594	you	want	in	brt	dec	93	107	calls		86.7
+4595	wti	may	82	91	calls	93				
+4596	wti	dec	81	86	calls		73	91		
+4597	wti	z	89	call	58.6	74.9				
+4598	you	want	in	wti	may	76.7	strd	65		
+4599	hey	brent	z	80	81	csprd	71.3	89.2		
+4600	you	want	in	brent	feb	92	104	psprd	104.7	
+4601	good	morning	brent	jun	87.4	strad				
+4602	you	want	in	brent	k	91.6	104.1	psprd	104.5	
+4603	yo	ho	may	4.13	4.66	psprd	2			
+4604	whats	up	wti	g	79	call		51.6	66.9	
+4605	wti	n	82.0	89.7	csprd	75	93			
+4606	hey	wti	mar	84	call		55.1	70.9		
+4607	whats	up	go	oct	710	719	calls			
+4608	ho	q	2.45	put						
+4609	brent	j	88.3	97.0	csprd		81			
+4610	hey	wti	feb	78.2	81.5	puts	offer	88		
+4611	brent	dec	93	108	puts		87	107		
+4612	wti	mar	88	put	74.1					
+4613	good	morning	brt	z	95	strad				
+4614	go	h	750	straddle	538.8					
+4615	you	want	in	go	u	806	p	offer	629	
+4616	you	want	in	brt	n	94.3	straddle	79.1		
+4617	hey	go	may	821	953	callspread				
+4618	you	want	in	ho	mar	2.209	c	3		
+4619	wti	j	79.9	straddle	68					
+4620	brent	m	95	111	putspread		89			
+4621	whats	up	wti	f	88	104	puts	102		
+4622	ho	feb	4.487	straddle	2	5				
+4623	wti	jul	89.5	strad	58.9	75.3				
+4624	yo	brt	q	97	strd	64.2	81.3			
+4625	good	morning	brent	may	83	87	csprd	93.2		
+4626	brent	g	96	put	80.5					
+4627	brt	jul	82.4	p	54					
+4628	brent	nov	82.1	84.2	calls	91.7				
+4629	go	sep	755	c	542	590				
+4630	ho	jan	2.75	2.85	csprd	offer	4			
+4631	brt	nov	90.1	100.7	csprd		83.1	102.4		
+4632	whats	up	brent	u	89	c				
+4633	yo	brent	jun	81.0	82.0	psprd				
+4634	good	morning	brent	q	89.4	99.3	puts	101.5		
+4635	you	want	in	wti	u	82.8	put	offer	70.0	
+4636	yo	ho	oct	4.391	straddle	1.5	5.1			
+4637	you	want	in	go	nov	774	c	556.4	604.6	
+4638	whats	up	brent	mar	94	109	puts	87.9	107.6	
+4639	go	mar	800	strd	576	624				
+4640	good	morning	ho	jun	3.45	3.74	psprd	1.6		
+4641	good	morning	brt	apr	91.6	strd				
+4642	good	morning	ho	jun	3.17	3.38	psprd			
+4643	whats	up	ho	q	3.62	3.96	psprd		1.8	5.6
+4644	whats	up	brent	m	92	104	puts	104.7		
+4645	hey	brent	may	95.0	straddle					
+4646	whats	up	brent	feb	94.2	110.0	csprd	offer	108	
+4647	good	morning	brent	g	86	strad	56			
+4648	good	morning	wti	v	83.0	91.8	puts	76	94	
+4649	go	nov	757	815	callspread					
+4650	go	jan	704	strd	505.0					
+4651	good	morning	ho	dec	2.84	2.96	putspread	1.2		
+4652	go	g	761	824	putspread	748.9				
+4653	hey	go	aug	835	985	calls	offer	902.0		
+4654	go	u	811	put	633					
+4655	whats	up	ho	feb	2.54	2.59	callspread			
+4656	whats	up	ho	q	2.669	2.753	csprd			
+4657	brt	m	92.6	106.3	putspread					
+4658	good	morning	wti	sep	82.3	p		54		
+4659	good	morning	go	aug	745	790	csprd	729	784	
+4660	wti	n	81.6	put	offer	69				
+4661	hey	go	apr	807	strd	580.6	629.9			
+4662	yo	go	u	797	c	573				
+4663	brt	z	87	straddle	73.3					
+4664	brt	feb	93.9	put	offer	78.8				
+4665	ho	jun	4.91	strad	2					
+4666	hey	wti	h	87	call	57.2	73.3			
+4667	wti	may	84.9	c	55.7					
+4668	ho	jun	3.04	3.21	psprd	5				
+4669	yo	ho	mar	3.999	4.479	calls	2.1			
+4670	good	morning	brent	g	90.4	101.4	callspread	83.5		
+4671	yo	brent	n	87	strad	57	73			
+4672	go	jun	739	call	577.8					
+4673	good	morning	ho	z	3.771	c		1.1		
+4674	you	want	in	go	u	765	call	550		
+4675	whats	up	brent	n	87.8	p				
+4676	wti	k	75.6	76.2	csprd	84				
+4677	hey	brt	mar	88.5	97.3	putspread		81		
+4678	go	feb	727	753	callspread					
+4679	ho	z	3.36	3.62	putspread	5.3				
+4680	brent	dec	81.5	strd		53				
+4681	brt	mar	83.8	strd						
+4682	brt	v	94	straddle		62	79			
+4683	wti	v	90	strad						
+4684	good	morning	go	jun	704	708	psprd	678	732	
+4685	yo	brt	aug	89	99	puts	82			
+4686	brt	k	86	93	putspread					
+4687	wti	v	83.3	strd	70.4					
+4688	you	want	in	wti	h	88.0	103.3	puts	101	
+4689	go	h	812	strd	584.3	633.7				
+4690	whats	up	ho	sep	4.94	5.84	callspread	offer	7.4	
+4691	whats	up	wti	may	84.2	c				
+4692	you	want	in	go	v	797	c	offer	622	
+4693	you	want	in	brent	h	86	p			
+4694	you	want	in	brent	n	96	c		64	80
+4695	wti	mar	83.4	straddle	55	70				
+4696	brent	n	88.8	98.1	psprd					
+4697	brent	j	91.4	put	offer	77				
+4698	brent	j	93.8	109.1	calls					
+4699	good	morning	wti	g	84.4	c		55	71	
+4700	wti	jan	81	strd						
+4701	ho	oct	2.97	3.12	csprd	1.3	4.7			
+4702	wti	h	81.1	call	53.0					
+4703	hey	brent	oct	88.2	96.7	puts	100			
+4704	hey	brent	v	85	call	56	72			
+4705	brent	apr	90	101	putspread	102				
+4706	good	morning	brent	q	80.1	80.3	callspread		71	
+4707	whats	up	brent	j	92.2	105.5	calls	105.3		
+4708	good	morning	wti	mar	85.9	strd	offer	72.5		
+4709	good	morning	go	may	767	835	calls	756.0	812.0	
+4710	brent	jul	93	107	putspread	offer	106			
+4711	good	morning	wti	h	83	92	puts	offer	94.5	
+4712	go	mar	827	968	psprd					
+4713	good	morning	brt	u	87	94	psprd	79	98	
+4714	whats	up	go	g	737	p				
+4715	yo	go	jul	767	strd					
+4716	hey	wti	u	88.4	104.3	psprd	102.0			
+4717	wti	mar	84.0	call						
+4718	wti	f	87	101	psprd					
+4719	hey	go	m	802	910	calls				
+4720	good	morning	brent	sep	86	call	73			
+4721	whats	up	wti	z	80.1	p	52			
+4722	ho	q	3.103	3.290	calls					
+4723	good	morning	go	jul	760	822	psprd		747.7	
+4724	ho	n	4.933	5.832	puts		2.9			
+4725	yo	wti	z	77.0	79.1	puts	69	86		
+4726	brt	m	81	straddle	69					
+4727	brt	jan	91	strad	77					
+4728	brt	oct	91.5	p		60				
+4729	hey	ho	feb	2.53	strad					
+4730	wti	sep	89	c	58.6	74.9				
+4731	brent	dec	92	c						
+4732	whats	up	wti	oct	81.6	88.7	psprd	93		
+4733	good	morning	brent	apr	82.4	84.6	callspread			
+4734	you	want	in	brt	g	81	83	callspread		
+4735	good	morning	ho	sep	3.86	4.29	calls	2.0		
+4736	wti	mar	83	p						
+4737	wti	jul	81	straddle						
+4738	yo	brent	apr	83	86	psprd				
+4739	yo	wti	g	84	call	55	71			
+4740	hey	go	m	840	c	605	655			
+4741	brt	m	81.9	strad						
+4742	brt	u	95.7	strad	offer	80				
+4743	whats	up	ho	feb	3.38	p	4			
+4744	whats	up	wti	dec	88	104	psprd			
+4745	hey	brt	n	86	91	puts		77.9	96.6	
+4746	you	want	in	wti	feb	83.4	straddle	offer	70	
+4747	good	morning	go	dec	811	931	callspread	870		
+4748	good	morning	go	aug	708	715	psprd			
+4749	good	morning	brt	j	94.1	c	62.2	79.0		
+4750	brent	n	86	93	putspread	offer	97.1			
+4751	brent	mar	94.9	111.6	psprd	89.1	109.0			
+4752	good	morning	brt	g	82.6	85.1	psprd	74	92	
+4753	good	morning	brent	apr	89.0	p	58.6			
+4754	yo	ho	m	3.892	c	1	5			
+4755	go	u	822	955	csprd	884				
+4756	brt	g	83.1	straddle	54.4					
+4757	whats	up	brt	oct	97	put		64.2	81.3	
+4758	good	morning	wti	mar	82	strad	offer	69		
+4759	good	morning	wti	oct	77	strad	50			
+4760	yo	wti	z	84	95	puts				
+4761	brent	oct	93	106	csprd		86			
+4762	ho	may	3.98	4.45	putspread	6				
+4763	go	aug	762	825	putspread					
+4764	good	morning	brent	k	86	put	56	73		
+4765	hey	go	x	712	724	psprd	688.3			
+4766	you	want	in	brt	g	81.3	82.6	callspread		
+4767	good	morning	brt	may	88	c				
+4768	whats	up	ho	g	4.85	5.70	puts	2.8		
+4769	ho	f	3.161	p	1					
+4770	brent	dec	85.6	91.2	calls	78				
+4771	go	nov	706	p		506.5				
+4772	ho	v	4.489	5.174	psprd					
+4773	wti	nov	82	90	psprd	offer	93			
+4774	whats	up	wti	mar	77	79	callspread			
+4775	whats	up	brent	z	90	call	75.7			
+4776	brent	n	95	113	psprd	89.5				
+4777	ho	feb	2.70	straddle						
+4778	yo	brt	h	96.1	strad					
+4779	you	want	in	ho	nov	2.376	c		0	3
+4780	good	morning	go	x	738	strd		530.0		
+4781	go	h	780	call						
+4782	hey	wti	h	86	c					
+4783	yo	brt	oct	84.8	p	55.6				
+4784	you	want	in	brent	may	94.1	call	62	79	
+4785	whats	up	go	n	776	p	offer	606		
+4786	ho	j	4.64	straddle	2	5				
+4787	go	f	749	797	calls	733.4	788.6			
+4788	brent	aug	91.9	c	60.6					
+4789	wti	feb	81.9	call						
+4790	hey	ho	m	3.320	3.567	calls	1.5	5.2		
+4791	brent	oct	80.4	80.7	putspread		72			
+4792	hey	brent	aug	93	107	callspread	106.3			
+4793	brent	aug	88	c	58					
+4794	brent	z	91.9	104.8	putspread	offer	104.9			
+4795	hey	brent	aug	85	strad	55.8	71.7			
+4796	good	morning	go	g	718	strd		515		
+4797	ho	feb	3.41	straddle	1.0	4.2				
+4798	ho	aug	4.03	strd	offer	4.8				
+4799	you	want	in	go	j	713	725	callspread		
+4800	go	mar	784	p	612.2					
+4801	yo	go	jul	792	strd	offer	618			
+4802	wti	oct	89	106	calls	83.6	102.9			
+4803	hey	brt	q	92.8	106.9	putspread	106.1			
+4804	go	q	849	p						
+4805	brt	jul	81	83	csprd					
+4806	hey	brt	aug	82.6	85.0	csprd	offer	92		
+4807	hey	wti	f	79.6	put	52				
+4808	hey	brent	j	96.3	call	80.7				
+4809	brent	k	96	114	calls					
+4810	brent	x	93.8	p	62.0	78.7				
+4811	yo	ho	q	4.990	c		1.8			
+4812	good	morning	go	apr	776	855	csprd			
+4813	hey	wti	aug	77	call	50.2	65.3			
+4814	ho	dec	3.624	call						
+4815	hey	wti	m	84.6	strad					
+4816	brt	mar	90.2	101.1	psprd	83.3	102.6			
+4817	whats	up	wti	f	88.3	104.0	csprd	83	102	
+4818	wti	aug	89.1	call		59				
+4819	yo	ho	j	4.65	5.42	putspread	2.6	7.0		
+4820	wti	jul	89	p						
+4821	yo	brt	apr	90.4	c		60	76		
+4822	yo	brent	z	94	109	callspread	107.6			
+4823	brent	aug	92	p	77					
+4824	good	morning	brent	may	81	81	csprd	72	90	
+4825	ho	jun	2.33	straddle	0.4	3.1				
+4826	you	want	in	wti	jan	82.5	call	54		
+4827	ho	jun	3.52	3.83	psprd	5.5				
+4828	go	v	707	put		507	553			
+4829	whats	up	wti	g	86.8	100.5	calls	81	100	
+4830	good	morning	go	k	792	890	psprd	787.9		
+4831	go	u	806	straddle	629.1					
+4832	good	morning	brent	v	80	strd	52			
+4833	yo	brent	f	88.3	97.0	callspread	81			
+4834	go	h	722	743	psprd	offer	754.2			
+4835	ho	g	3.110	3.299	callspread	1.4	4.9			
+4836	go	nov	748	795	calls					
+4837	whats	up	go	n	815	940	csprd		817	875
+4838	ho	q	3.14	3.34	putspread	1				
+4839	brent	u	87	strad						
+4840	yo	ho	u	2.748	strd		0.6	3.5		
+4841	good	morning	ho	q	5.15	c	offer	5.8		
+4842	wti	sep	82	89	psprd					
+4843	whats	up	brent	n	86	straddle	56	73		
+4844	whats	up	brt	z	90.8	straddle		60	76	
+4845	hey	brent	oct	86	92	calls	offer	96.9		
+4846	you	want	in	ho	dec	2.56	2.62	puts	1	
+4847	good	morning	brent	sep	96	115	psprd		91	
+4848	wti	h	79	straddle	52					
+4849	go	sep	786	876	psprd	780.1	836.9			
+4850	good	morning	wti	m	78.7	strad				
+4851	whats	up	go	g	748	796	putspread		732	
+4852	whats	up	brt	apr	86	92	calls		78.1	
+4853	ho	q	2.910	3.048	callspread					
+4854	hey	go	q	721	742	psprd	offer	753		
+4855	ho	h	2.494	2.543	csprd	0.9				
+4856	brent	k	86.3	92.7	psprd					
+4857	hey	brent	jun	94	110	putspread	88.1	107.9		
+4858	brent	feb	91	straddle						
+4859	yo	wti	jan	77.1	strad	65.4				
+4860	whats	up	wti	k	84.2	straddle				
+4861	brent	apr	83	85	csprd					
+4862	wti	may	86	99	puts					
+4863	hey	brt	may	87	94	puts	79			
+4864	yo	go	may	730	c	524.1	570.9			
+4865	yo	brt	jan	83.6	87.2	psprd		75.3	93.7	
+4866	wti	z	82	put						
+4867	hey	wti	h	81.5	88.6	callspread	92.4			
+4868	go	dec	773	848	putspread					
+4869	you	want	in	brt	j	82	call		53.7	
+4870	yo	wti	dec	87	101	puts	81			
+4871	hey	brent	jul	97	116	puts	92			
+4872	go	feb	749	strad						
+4873	you	want	in	ho	dec	2.677	strd	1	3	
+4874	you	want	in	brent	aug	88.3	put			
+4875	go	nov	809	c	582.1					
+4876	go	q	815	p		586.5	636.0			
+4877	yo	brt	may	96.0	114.2	puts				
+4878	yo	wti	mar	77	79	psprd	86.3			
+4879	whats	up	brent	h	81	c	53			
+4880	brent	g	81	81	callspread	72.0	90.0			
+4881	yo	ho	m	4.20	p	5				
+4882	brt	f	90.4	put	76.0					
+4883	yo	ho	f	2.239	strd	0				
+4884	yo	ho	n	2.29	2.30	callspread	1			
+4885	good	morning	ho	u	3.793	call	1			
+4886	you	want	in	go	nov	723	746	putspread	702	
+4887	brt	oct	95.5	113.0	callspread	89.9	109.9			
+4888	good	morning	wti	feb	84.7	call	55.6	71.5		
+4889	whats	up	wti	jul	87.8	102.8	calls	82	101	
+4890	good	morning	go	may	757	call				
+4891	whats	up	ho	jan	2.46	strad	0	3		
+4892	good	morning	go	x	766	834	calls			
+4893	yo	brt	h	89	strd	74.9				
+4894	you	want	in	wti	mar	88	straddle		57.9	
+4895	good	morning	brt	f	90	100	csprd			
+4896	good	morning	ho	mar	2.28	straddle	0	3		
+4897	hey	ho	f	2.77	2.88	putspread		1		
+4898	yo	go	v	795	896	psprd	offer	849		
+4899	you	want	in	wti	x	88	straddle	74.1		
+4900	yo	go	k	771	straddle	554.2	602.3			
+4901	hey	wti	feb	81	call					
+4902	whats	up	brent	dec	83	86	psprd			
+4903	ho	oct	4.25	4.83	csprd	6.5				
+4904	good	morning	wti	may	89	strd	75			
+4905	brent	feb	83.0	p						
+4906	hey	brent	aug	88	97	csprd	80.8	99.8		
+4907	good	morning	go	apr	711	straddle				
+4908	whats	up	brent	h	91.7	straddle	60			
+4909	brent	jun	95	c	63					
+4910	good	morning	brent	dec	95	113	psprd	89.5	109.5	
+4911	good	morning	brt	nov	83	87	psprd		74.8	
+4912	whats	up	ho	j	4.576	strd		2	5	
+4913	whats	up	brt	feb	91.2	c	60	77		
+4914	whats	up	go	dec	730	strad		524.1	570.9	
+4915	good	morning	wti	feb	75.1	strd	64			
+4916	yo	wti	mar	80	strd		52.3	67.7		
+4917	good	morning	go	m	709	717	callspread	738		
+4918	good	morning	brt	mar	85	90	psprd			
+4919	ho	n	3.341	3.596	puts	5				
+4920	you	want	in	brt	jun	84	88	putspread	75.8	94.2
+4921	brent	dec	92	c	77					
+4922	yo	brent	jul	95.1	c	80				
+4923	whats	up	brt	jun	81	strad				
+4924	hey	ho	q	4.12	strad	1				
+4925	brt	oct	88.4	call		58	74			
+4926	brt	v	84	straddle	offer	71				
+4927	you	want	in	brent	q	94	strd	79		
+4928	go	h	822	p	592	641				
+4929	good	morning	brent	n	88.3	96.9	putspread			
+4930	yo	ho	jun	2.61	2.68	psprd		1	4	
+4931	whats	up	brent	z	82.9	call				
+4932	hey	ho	v	3.281	3.517	puts		2	5	
+4933	wti	z	89.7	strd		59.1	75.5			
+4934	ho	z	2.57	call						
+4935	good	morning	go	sep	729	put		523		
+4936	yo	go	sep	803	straddle	offer	626.8			
+4937	hey	brent	h	87.0	strad					
+4938	you	want	in	brent	oct	94.6	p	79.4		
+4939	you	want	in	brt	z	89	call			
+4940	ho	g	3.76	strad	1.1	4.5				
+4941	yo	go	nov	762	824	psprd	805			
+4942	hey	go	f	718	736	putspread	offer	749		
+4943	brent	h	96	115	callspread	90.7	110.8			
+4944	good	morning	ho	nov	4.01	c	offer	4.7		
+4945	yo	go	h	765	strd	598				
+4946	ho	z	2.502	straddle	3.2					
+4947	good	morning	brt	jan	91	put	60			
+4948	good	morning	ho	f	3.122	straddle	1			
+4949	you	want	in	go	z	805	917	csprd	804.1	861.9
+4950	ho	apr	3.127	3.320	calls	1.4	5.0			
+4951	brent	j	91.9	straddle						
+4952	yo	ho	may	2.83	straddle		1			
+4953	whats	up	brt	aug	87	95	puts			
+4954	you	want	in	ho	j	3.36	3.62	puts		2
+4955	hey	wti	may	85	96	putspread		78.4	97.1	
+4956	wti	x	86	98	callspread	80	98			
+4957	ho	jul	4.61	p						
+4958	brent	x	91	strd	60.0	76.5				
+4959	whats	up	go	j	773	p		555.7	603.8	
+4960	hey	go	z	702	705	puts	676	729		
+4961	you	want	in	ho	g	4.420	strad			
+4962	brent	m	91	104	puts					
+4963	whats	up	go	j	835	985	puts			
+4964	good	morning	wti	v	78	put	50.9			
+4965	ho	u	2.566	p	offer	3.3				
+4966	good	morning	wti	may	80.7	86.9	putspread	73.2	91.3	
+4967	good	morning	ho	v	2.60	strad				
+4968	whats	up	brt	jun	80.6	put	53	68		
+4969	yo	brent	k	85.3	90.7	puts	77	96		
+4970	ho	f	2.927	3.069	psprd	1	5			
+4971	go	jul	765	830	csprd	753.3				
+4972	whats	up	brt	apr	85	p	72			
+4973	you	want	in	wti	n	76	76	puts	67	85
+4974	go	mar	846	call	609					
+4975	good	morning	wti	f	82	c				
+4976	ho	k	2.75	c	offer	3.5				
+4977	wti	apr	80.6	86.6	callspread	73	91			
+4978	go	sep	850	call	612					
+4979	hey	ho	oct	3.275	3.509	psprd	2			
+4980	yo	ho	k	4.945	put	2				
+4981	go	jun	798	902	putspread	795	853			
+4982	good	morning	brent	u	87.7	95.6	callspread		80	99
+4983	brent	f	83	put	54	70				
+4984	ho	nov	4.45	straddle	1.5					
+4985	whats	up	go	x	837	990	psprd	offer	904.8	
+4986	good	morning	go	k	819	put	589.5			
+4987	hey	go	apr	717	put	515				
+4988	whats	up	ho	may	4.308	put		1.4	5.0	
+4989	good	morning	wti	z	76.6	put	offer	65.0		
+4990	brent	v	86.4	p	72.8					
+4991	you	want	in	brt	jun	80	put			
+4992	ho	z	5.04	6.00	psprd		3	8		
+4993	brt	nov	95	strad	62.8					
+4994	brt	q	85.3	strd	56	72				
+4995	you	want	in	wti	j	78	81	csprd	69.9	87.6
+4996	good	morning	ho	apr	3.263	3.495	callspread	1		
+4997	wti	x	88	104	csprd	offer	101.6			
+4998	whats	up	brt	feb	86	straddle				
+4999	ho	f	2.471	p	0					
