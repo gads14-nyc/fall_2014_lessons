@@ -33,10 +33,10 @@ David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 | **10/20/2014** | | Classification, Logistic Regression | *dataexplor04*
 | 10/22/2014 | | Probability and Bayes Theorem, Naive Bayes Classifiers | 
 | **10/27/2014** | | Evaluating Classifier Models | *dataexplor05*
-| 10/29/2014 | |  | Project Lightning Talks | Project Update
+| 10/29/2014 | | Project Lightning Talks | Project Update |
 | **11/3/2014**  | | Time Series Analysis | *dataexplor06*
 | 11/5/2014 | | Guest Speaker, Time Series Workshop | 
-| **11/10/2014** | | Clustering | *dataexplor07*
+| **11/10/2014** | | Clustering, k-means | *dataexplor07*
 | 11/12/2014 | | Collaborative Filtering | 
 | **11/17/2014** | | Natural Language Processing | *dataexplor08*
 | 11/19/2014 | | Bayesian A/B Testing | 
