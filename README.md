@@ -11,7 +11,8 @@
 
 ## Office Hours
 
-Rob will be available by appointment
+Rob will be available by appointment, robdoherty2@gmail.com
+
 Jarret and David will hold regular office hours 
 
 Jarret: Sun - 4:00-6:00 PM  jarret.petrillo@gmail.com
