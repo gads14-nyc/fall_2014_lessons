@@ -1,20 +1,18 @@
 Intro to Data Science Class10: 
 =======
 
-## Midterm Review, Lightning Talks, & Bayesian Headline Testing 
+## Midterm Review, Lightning Talks
 
 - Announcements/Questions: 
   	-Rob out next week
 - Midterm Review Survey
 - Lightning Talks
-- Bayesian A/B Headline Testing
 
 ## Homework: Dataexplor06
 
 ## Class Materials
 
 * [Shared Google Doc of Peer Feedback](https://docs.google.com/spreadsheets/d/1u45v9OpuFHAKs0cggvwas_ocmyi1Kv4GDKiJLSKQgfQ/edit?usp=sharing)
-* [Lecture Slides](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/10_AB_testing/class10.pdf) (posted after class meets)
 
 ## Additional Resources/Links
 
