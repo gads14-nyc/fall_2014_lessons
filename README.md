@@ -5,23 +5,14 @@
 
 ## Upcoming Activity:
 
-* 10/27/2014: Evaluating Classifier Models, the ROC Curve
-* 10/29/2014: Term Project Lightening Talks, Basyesian A/B Testing
-* 11/03/2014: Time Series Analysis, Dataexplor06 due
-* 11/05/2014: Guest Speaker, Datakind Workshop
+* 11/10/2014 - Clustering, K-means
+* 11/12/2014 - Collaborative Fitering, Project Workshops
 
-### Getting Help
 
-**Github Issues**
+## Office Hours
 
-For general or specific course help, students can get the fastest response by posting an issue, to the [issues page for this repository](https://github.com/gads14-nyc/fall_2014_lessons/issues)
-
-* Jarret or David will review each issue
-* Students and other instructors following the repository will also be able to address the issue, improving response time.
-
-**Office Hours**
-
-Jarret and David will hold regular office hours, and Rob will be available by appointment.
+Rob will be available by appointment
+Jarret and David will hold regular office hours 
 
 Jarret: Sun - 4:00-6:00 PM  jarret.petrillo@gmail.com
 
@@ -41,20 +32,29 @@ David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 | **10/20/2014** | | Classification, Logistic Regression | *dataexplor04*
 | 10/22/2014 | | Probability and Bayes Theorem, Naive Bayes Classifiers | 
 | **10/27/2014** | | Evaluating Classifier Models | *dataexplor05*
-| 10/29/2014 | |  | Bayesian A/B Testing | Project Update
+| 10/29/2014 | |  | Project Lightning Talks | Project Update
 | **11/3/2014**  | | Time Series Analysis | *dataexplor06*
-| 11/5/2014 | | Datakind Workshop | 
+| 11/5/2014 | | Guest Speaker, Time Series Workshop | 
 | **11/10/2014** | | Clustering | *dataexplor07*
 | 11/12/2014 | | Collaborative Filtering | 
 | **11/17/2014** | | Natural Language Processing | *dataexplor08*
-| 11/19/2014 | | Bayes Networks | 
+| 11/19/2014 | | Bayesian A/B Testing | 
 | **11/24/2014** | GA East (902 Broadway, 4th Floor) | Decision Trees and Ensemble Methods | *dataexplor09*
 | 11/26/2014 | | **(Holiday/ No class)** |
-| **12/1/2014** | | Data Engineering: Distributed Computing | *dataexplor10*
-| 12/3/2014  | | TBA | 
+| **12/1/2014** | | Data Engineering: Distributed Computing, Databases | *dataexplor10*
+| 12/3/2014  | | Geospatial Problems | 
 | **12/8/2014**  | | Review | *dataexplor11*
 | 12/10/2014  | | Presentation Workshop | Presentation Slides/Outline
 | **12/15/2014** | |Final Presentations | Final Project Due
+
+### Getting Help
+
+**Github Issues**
+
+For general or specific course help, students can get the fastest response by posting an issue, to the [issues page for this repository](https://github.com/gads14-nyc/fall_2014_lessons/issues)
+
+* Jarret or David will review each issue
+* Students and other instructors following the repository will also be able to address the issue, improving response time.
 
 ### Submitting Assignments
 
