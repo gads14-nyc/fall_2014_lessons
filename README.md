@@ -37,7 +37,7 @@ David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 | **11/3/2014**  | | Time Series Analysis | *dataexplor06*
 | 11/5/2014 | | Guest Speaker, Time Series Workshop | 
 | **11/10/2014** | | Clustering, k-means | *dataexplor07*
-| 11/12/2014 | | Collaborative Filtering | 
+| 11/12/2014 | | Recommendation Systems, Collaborative Filtering | 
 | **11/17/2014** | | Natural Language Processing | *dataexplor08*
 | 11/19/2014 | | Bayesian A/B Testing | 
 | **11/24/2014** | GA East (902 Broadway, 4th Floor) | Decision Trees and Ensemble Methods | *dataexplor09*
