@@ -25,6 +25,8 @@ Intro to Data Science Class15:
 
 * [Lecture Slides](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/15_NLP/class15.pdf) (posted after class meets)
 * [Vector Space, TF-IDF, Cosine Similarity lab](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/15_NLP/lab/)
+* [Topic modeling demo](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/15_NLP/gensim_demo.ipynb) 
+   - uses Gensim, takes ~15 minutes to install
 
 ## Additional Resources/Links on NLP
 
