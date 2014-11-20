@@ -25,12 +25,15 @@ Intro to Data Science Class16:
 
 * [Lecture Slides](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/16_bayes_ab_testing/class16.pdf) (posted after class meets)
 * [Monty Hall Problem](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/16_bayes_ab_testing/monty_hall.ipynb)
+* [Monty Hall Soluton](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/16_bayes_ab_testing/monty_hall_solution.ipynb)
 * [Beta Distribution Notebook](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/16_bayes_ab_testing/beta_distribution.ipynb)
-* [Headline Testing Notebook](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/16_bayes_ab_testing/headline_testing.ipynb) 
+* [Beta Distribution Solution](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/16_bayes_ab_testing/beta_distribution_solution.ipynb)
+* [Headline Testing Notebook](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/16_bayes_ab_testing/headline_testing.ipynb)
+* [Headline Testing Solution](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/16_bayes_ab_testing/headline_testing_solution.ipynb)
 
 ## Additional Resources/Links 
 
-* Interactive [Monty Hall Problem](http://math.ucsd.edu/~crypto/cgi-bin/MontyKnows/monty.html)
+* Interactive [Monty Hall Problem](http://math.ucsd.edu/~crypto/Monty/monty.html)
 * John Cook's blog: [A Bayesian view of Amazon Resellers](http://www.johndcook.com/blog/2011/09/27/bayesian-amazon/) (lot's of great content on this blog)
 * The [Multi-Armed Bandit Problem](http://camdp.com/blogs/multi-armed-bandits)
 
