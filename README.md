@@ -5,8 +5,10 @@
 
 ## Upcoming Activity:
 
-* 11/19/2014 - Bayesian A/B Testing
 * 11/24/2014 - Ensemble Methods
+* 11/26/2014 - No class
+* 12/1/2014 - Geospatial
+* 12/3/2014 - Data Engineering Topics
 
 ## Office Hours
 
