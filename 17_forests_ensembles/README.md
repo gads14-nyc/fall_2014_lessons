@@ -4,6 +4,7 @@ Intro to Data Science Class17:
 ## Decision Trees, Random Forests, and Ensemble Methods
 
 - Announcements/Questions:
+  - Free [datasets](http://archive.ics.uci.edu/ml/)!
   - Final Presentations: Invite guests?
   - Next week: Topics in Data Engineering: requests?
 - Decision Trees
