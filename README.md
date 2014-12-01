@@ -5,9 +5,9 @@
 
 ## Upcoming Activity:
 
-* 11/26/2014 - No class
-* 12/1/2014 - Geospatial
+* 12/1/2014 - Guest speaker + Geospatial
 * 12/3/2014 - Data Engineering Topics
+* 12/8/2014 - Review
 
 ## Office Hours
 
@@ -19,7 +19,7 @@ Jarret: Sun - 4:00-6:00 PM  jarret.petrillo@gmail.com
 
 David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 
-### Tentative Syllabus
+### Syllabus
 
 | Date      | Location | Topic | Assignment Due 
 |:----------|:--------|:------|:------|:------
@@ -42,8 +42,8 @@ David: M,W - 5:30-6:30  davidfmccreary@gmail.com
 | 11/19/2014 | GA East (902 Broadway, 4th Floor) | Bayesian A/B Testing | 
 | **11/24/2014** | | Decision Trees and Ensemble Methods |
 | 11/26/2014 | | **(Holiday/ No class)** |
-| **12/1/2014** | | Geospatial Problems | 
-| 12/3/2014  | | Data Engineering: Distributed Computing, Databases | 
+| **12/1/2014** | | Guest Speaker, Geospatial Problems | 
+| 12/3/2014  | | Data Engineering: Distributed Computing, Hadoop + Guest Speaker | 
 | **12/8/2014**  | | Review | 
 | 12/10/2014  | | Presentation Workshop | Presentation Slides/Outline
 | **12/15/2014** | |Final Presentations | Final Project Due
