@@ -8,23 +8,13 @@ Intro to Data Science Class18:
   - Next class: Topics in Data Engineering
 - Geospatial Problems
 
-## Objectives
-
-* 
-
 ## Homework:
 
 - Continue working on your project
 
 ## Class Materials
 
-* [Lecture Slides](https://github.com/gads14-nyc/fall_2014_lessons/blob/master/18_geospatial/) (posted after class meets)
-* [Notebook](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/18_geospatial/lab/)
-
-
-## Additional Resources/Links 
-
-*
+* [Notebooks](http://nbviewer.ipython.org/github/gads14-nyc/fall_2014_lessons/blob/master/18_geospatial/)
 
 ### Next class: Topics in Data Engineering
 
