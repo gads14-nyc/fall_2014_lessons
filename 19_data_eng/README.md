@@ -10,7 +10,7 @@ Intro to Data Science Class18:
 - Processing Big Data
 - Hadoop & MapReduce
 - Guest lecture: Stream Processing with Storm
-- Demo/Practice: Hadoop & Hive
+- Demo/Practice: [Hadoop & Hive](https://github.com/gads14-nyc/fall_2014_lessons/tree/master/19_data_eng/hadoop_lab.md)
 - AWS
 - Demo: MRJob & EMR
 
@@ -37,6 +37,13 @@ Intro to Data Science Class18:
 - "How to beat the CAP Theorem" from Nathan Mars [blog](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html)
 - "The Apache Software Foundation Announces Apache™ Drill™ as a Top-Level Project" from the [Apache Software Foundation Blog](https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces66)
 - [Learn SQL the hard way](http://sql.learncodethehardway.org/book/)
+
+#### Machine Learning and Math MapReduce Algorithms
+
+- C. T. Chu et al provides an excellent description of machine learning algorithms for MapReduce in the article [Map-Reduce for Machine Learning on Multicore](Map-Reduce for Machine Learning on Multicore).
+- FFT using MapReduce: http://www.slideshare.net/hortonworks/large-scale-math-with-hadoop-mapreduce
+- MapReduce for integer factorization: http://www.javiertordable.com/files/MapreduceForIntegerFactorization.pdf
+- Matrix multiplication with MapReduce: http://csl.skku.edu/papers/CS-TR-2010-330.pdf and http://www.norstad.org/matrix-multiply/index.html
 
 
 
