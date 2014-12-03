@@ -12,7 +12,7 @@ Intro to Data Science Class18:
 - Guest lecture: Stream Processing with Storm
 - Demo/Practice: [Hadoop & Hive](https://github.com/gads14-nyc/fall_2014_lessons/tree/master/19_data_eng/hadoop_lab.md)
 - AWS
-- Demo: MRJob & EMR
+- Demo: MRJob
 
 ## Homework:
 
