@@ -5,9 +5,9 @@
 
 ## Upcoming Activity:
 
-* 12/1/2014 - Guest speaker + Geospatial
-* 12/3/2014 - Data Engineering Topics
 * 12/8/2014 - Review
+* 12/10/2014 - Final Presenations - Dry Run
+* 12/15/2014 - Final Final Presenations 
 
 ## Office Hours
 
