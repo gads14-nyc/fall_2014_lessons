@@ -1,7 +1,7 @@
-Intro to Data Science Class18: 
+Intro to Data Science Class19: 
 =======
 
-## Topic In Data Engineering
+## Topics In Data Engineering
 
 - Announcements/Questions:
   - Next Class: Review
