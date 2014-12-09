@@ -29,11 +29,14 @@ A few links from Varun:
 - [Lambda Architecture](www.databasetube.com/database/big-data-lambda-architecture/)
 - [Storm Tutorial](hortonworks.com/hadoop-tutorial/processing-streaming-data-near-real-time-apache-storm/)
 
+Even more links:
 - [Guide to Python Frameworks for Hadoop](http://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/) (A little dated, but still a good read)
 - [MapReduce Patterns, Algorithms, and Use Cases](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)
-
 - "How to beat the CAP Theorem" from Nathan Mars [blog](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html)
 - "The Apache Software Foundation Announces Apache™ Drill™ as a Top-Level Project" from the [Apache Software Foundation Blog](https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces66)
+- [How to process a million songs in 20 minutes](http://musicmachinery.com/2011/09/04/how-to-process-a-million-songs-in-20-minutes/) --> **fun tutorial! I've tried it.**
+
+SQL:
 - [Learn SQL the hard way](http://sql.learncodethehardway.org/book/)
 
 (from last class's readings:)
