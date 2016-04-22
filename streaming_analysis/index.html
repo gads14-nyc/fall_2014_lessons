@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Streaming Data Mining</title>
+
+		<meta name="description" content="Streaming Data Analysis">
+		<meta name="author" content="Rob Doherty">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/league.css" id="theme">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<style>
+
+			@media print {
+				section * {
+					visbility: visible !important;
+					display: block !important;
+					color: #000 !important;
+					opacity: 1 !important;
+					position: static !important;
+				}
+			}
+		</style>
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement('link');
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild(link);
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+		<div class="reveal">
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h3>Streaming Data Analysis</h3>
+					<img style="height: 400px;" src="img/datamining.jpg">
+					<p>
+						<small>Rob Doherty / <a href="http://twitter.com/robdoherty2">@robdoherty2</a></small>
+					</p>
+				</section>
+
+				<section>
+					<section>
+						<h2>Streaming Data Analysis</h2>
+						<ul>
+							<li>Introduction to the problem domain</li>
+							<li>A few key data structures</li>
+							<li>Implementation Considerations</li>
+						</ul>
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h5>What is Stream Processing?</h5>
+						<ul>Examples?
+							<li class="fragment">Sensor data</li>
+							<li class="fragment">Image data</li>
+							<li class="fragment">Internet and Web traffic</li>
+						</ul>					
+					</section>
+					<section>
+						<h5><a href="https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/">Probabilistic Data Structures For Web Analytics And Data Mining</a></h5>
+						<img style="height: 650px;" src="img/probabilistic-sizes.png">
+					</section>
+
+					<section>
+						<h5>What is Stream Processing?</h5>
+						<ul>
+							<li>Data arrives in a stream or streams, if not processed immediately or stored, it is lost</li>
+							<li class="fragment">Most data streaming algorithms <i>summarize</i> the stream in some way</li>
+							<li class="fragment">Most involve heavy use of <i>hashing</i></li>
+							<li class="fragment">Many involve use of <i>sketching</i></li>
+						</ul>
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h4>A few Probabilistic Data Structures</h4>
+						<ul>
+							<li class="fragment">Set Membership
+								<p class="fragment">Bloom Filter</p>
+							</li>
+							<li class="fragment">Cardinality Estimation
+								<p class="fragment">LogLog, HyperLogLog</p>
+							</li>
+							<li class="fragment">Frequency Estimation
+								<p class="fragment">Count Min Sketch, CountMean Min Sketch</p>
+							</li>
+							<li class="fragment">Heavy Hitters (Top-K)
+								<p class="fragment">Count Min Sketch, Stream Summary</p>
+							</li>
+						</ul>
+					</section>
+					<section>
+						<h3>Bloom Filter</h3>
+						<ul>
+							<li>Used to test whether an element is a member of a set</li>
+							<li>False positive matches are possible, but false negatives are not</li>
+						</ul>
+						<img style="height: 400px;" src="img/bloom_filter.svg">
+					</section>
+					<section>
+						<h3>Bloom Filter</h3>
+						<ul> Algorithm
+							<li class="fragment">Create empty Bloom filter is a bit array of $m$ bits, all set to $0$</li>
+							<li class="fragment">Define $k$ different hash functions</li>
+							<li class="fragment">To add an element, feed it to each of the $k$ hash functions to get $k$ array positions</li>
+							<li class="fragment">Set the bits at all these positions to 1</li>
+							<li class="fragment">To query, feed it to each of the k hash functions to get k array positions. 
+								If any of the bits at these positions is 0, the element is definitely not in the set</li>
+						</ul>
+
+					</section>
+					<section>
+						<h3>Bloom Filter</h3>
+						<li><a href="https://www.jasondavies.com/bloomfilter/">Bloom Filter Demo</a></li>
+					</section>
+					<section>
+						<h3>LogLog & HyperLogLog</h3>
+						<ul>
+							<li class="fragment">Hash each element in the data set and represent as a binary string</li>
+							<li class="fragment">Expect that about one half of strings will start with $1$, one quarter will start with $01$, and so on</li>
+							<li class="fragment">Denote the number of leading zeros as a rank</li>
+							<li class="fragment">If the maximum number of leading zeros observed is $n$, an estimate for the number of distinct elements in the set is $2^n$</li>
+						</ul>
+
+					</section>
+
+					<section>
+						<p>LogLog & HyperLogLog</p>
+						<p class="fragment">LogLog uses regular mean while HyperLogLog (HLL) uses harmonic mean to average the estimate cardinality calculated by different $m$ buckets</p>
+						<p class="fragment">HLL is able to estimate cardinalities of $>10^9$ with a typical accuracy of 2%, using 1.5kB of memory</p>
+					</section>
+
+					<section>
+						<h3>LogLog & HyperLogLog</h3>
+						<p>
+							<img src="img/log-log-counter.png" height="550px">
+						</p>
+					</section>
+					<section>
+						<h2>Count Min Sketch</h2>
+						<p>$$\epsilon \le \frac{2n}{w}$$</p>
+						<p>
+							$$\delta = 1 - \left(\frac{1}{2}\right)^d$$
+						</p>
+						<img src="img/count-min-sketch.png" >
+
+					</section>
+					<section>
+						<h2>Count Min Sketch</h2>
+						<p>
+							<img src="img/count-min-hist01.png" >
+						</p>
+
+					</section>
+					<section>
+						<h2>Count Min Sketch</h2>
+						<p>
+							<img src="img/count-min-hist02.png" >
+						</p>
+
+					</section>
+					<section>
+						<h2>Stream Summary</h2>
+						<p>
+							<ol style="font-family: Consolas" >
+								input stream: {1,2,2,2,3,1,1,4}
+							</ol>
+							<img style="" src="img/stream-summary.png" height="500px">
+						</p>
+
+					</section>					
+
+				</section>
+
+				<section>
+
+					<section>
+						<h2>Implementation Considerations</h2>
+						
+					</section>
+					<section data-background="#dddddd">
+						<img src="img/raw-url-counts.png" style="float:top">
+					</section>
+					<section data-background="#dddddd">
+						<img src="img/power-law.png" style="float:top">
+						<p class="fragment"><font color="black">Important that $\alpha > 1$</font></p>
+					</section>
+					<section data-background="#dddddd">
+						<img src="img/alpha-c.png">
+					</section>
+				</section>
+
+				<section>
+					<h4>Further Reading</h4>
+					<ul>
+						<li><a href="https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/">Probabilistic Data Structures for Web Analytics and Data Mining</a>, Ilya Katsov</li>
+						<li><a href="http://www.cs.ucsb.edu/research/tech_reports/reports/2005-23.pdf">Efficient Computation of Frequent and Top-K Elements in Data Streams</a>, A. Metwally, D. Agrawal, A.E. Abbadi. </li>
+						<li><a href="http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf">HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm</a>, P. Flayjolet, E.Fusy, O. Gandouet, F. Meunier. </li>
+						<li><a href="http://www.eecs.harvard.edu/~michaelm/CS222/countmin.pdf">An Improved Data Stream Summary: The Count-Min Sketch and its Applications</a>, . Cormode, S. Muthukrishnan. </li>
+						<li><a href="http://arxiv.org/abs/0801.3552">A Statistical Analysis of Probabilistic Counting Algorithms</a>, P. Clifford, I. Cosma. </li>
+						<li><a href="http://infolab.stanford.edu/~ullman/mmds/book.pdf">Mining Massive Data Sets, Chapter 4</a>Leskovec, Rajaraman, Ullman</li>
+						<li><a href="https://github.com/addthis/stream-lib">Stream-lib</a>: Java library with implementations of many of these algorithms</li>
+					</ul>
+				</section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+		<script>
+		if( window.location.search.match( /print-pdf/gi ) ) {
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = 'css/print/pdf.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		}
+		</script>		
+		<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				transition: 'none', // none/fade/slide/convex/concave/zoom
+				transitionSpeed: 'default', // default/fast/slow
+				math: {
+					// See http://docs.mathjax.org/en/latest/config-files.html
+					mathjax: 'http://cdn.mathjax.org/mathjax/latest/MathJax.js',
+					config: 'TeX-AMS_HTML-full',
+				},
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/math/math.js', async: true },
+				]
+			});
+
+		</script>
+	</body>
+</html>
